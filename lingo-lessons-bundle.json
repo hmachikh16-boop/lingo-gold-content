@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T18:57:55.781Z",
+  "generatedAt": "2026-11-18T19:02:30.884Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -23,10 +23,11 @@
       "order": 1,
       "category": "Verb To Be",
       "isActive": true,
-      "id": "i95Y161aPuxmHwsbxBi6",
-      "categoryId": "1gV3EGNouFiKr9jx5s2s",
+      "id": "H2A07aPcgCBW3YuJtlET",
+      "categoryId": "IlBBpUKegJ4TKkQhNJEW",
       "createdAt": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795028545358_p4c5a.jpg"
     },
     {
       "seedIdx": 1,
