@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T18:06:52.456Z",
+  "generatedAt": "2026-11-18T18:49:09.066Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
       "seedIdx": 0,
       "appIndex": 0,
-      "word": "hhhh",
-      "sentence": "hhhh",
+      "word": "تتت",
+      "sentence": "A boy.",
       "spoken": "",
       "translation": "",
       "options": [
@@ -23,8 +23,8 @@
       "order": 1,
       "category": "Verb To Be",
       "isActive": true,
-      "id": "DyFghYPMYXp2K0nyCmNA",
-      "categoryId": "c5xpRIeW0TaCS3pZcECD",
+      "id": "O7E4mVxtVO0L8S6hmEz0",
+      "categoryId": "Bk0iYI1PoA7eIUeJU7xg",
       "createdAt": null,
       "updatedAt": null
     },
