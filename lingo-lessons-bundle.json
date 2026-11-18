@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T19:02:30.884Z",
+  "generatedAt": "2026-11-18T19:07:17.738Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -27,7 +27,103 @@
       "categoryId": "IlBBpUKegJ4TKkQhNJEW",
       "createdAt": null,
       "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795028545358_p4c5a.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795028545358_p4c5a.jpg",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "word": "A boy",
+              "sentence": "A boy.",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_0_0_1795028834393_jriet.jpg"
+            },
+            {
+              "word": "A boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        }
+      }
     },
     {
       "seedIdx": 1,
