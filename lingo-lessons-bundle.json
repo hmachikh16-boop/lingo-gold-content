@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:24:44.138Z",
+  "generatedAt": "2026-11-19T22:51:33.773Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2119,18 +2119,20 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "Red"
             },
             {
               "word": "Blue",
-              "sentence": "The ball is Red",
-              "spoken": "The ball is Red",
+              "sentence": "The ball is Blue",
+              "spoken": "The ball is Blue",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Blue"
             },
             {
               "word": "Green",
@@ -2141,7 +2143,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Green"
             },
             {
               "word": "Yellow",
@@ -2152,7 +2155,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Yellow"
             }
           ]
         },
