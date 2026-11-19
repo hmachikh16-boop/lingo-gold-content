@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:08:39.969Z",
+  "generatedAt": "2026-11-19T22:08:42.861Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1533,16 +1533,6 @@
               "translation": "",
               "imageFile": "q6",
               "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
             }
