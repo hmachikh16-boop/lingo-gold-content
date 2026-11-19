@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:51:37.239Z",
+  "generatedAt": "2026-11-19T09:52:00.911Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -149,7 +149,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "A boy"
             },
             {
               "word": "A girl",
@@ -160,7 +161,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "A girl"
             },
             {
               "word": "A cat",
@@ -171,7 +173,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "A cat"
             },
             {
               "word": "A dog",
@@ -181,8 +184,9 @@
               "imageFile": "n41",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_0_1795081918146_quv2v.jpg",
+              "correct": false,
+              "label": "A dog"
             }
           ]
         }
