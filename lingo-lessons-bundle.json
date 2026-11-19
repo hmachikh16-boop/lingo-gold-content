@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:15:28.794Z",
+  "generatedAt": "2026-11-19T12:16:50.270Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3521,7 +3521,7 @@
           "spoken": "The girl jumps",
           "choices": [
             {
-              "word": "Hello",
+              "word": "The girl jumps",
               "sentence": "",
               "spoken": "",
               "translation": "",
@@ -3530,7 +3530,7 @@
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795089171897_fzhgi.jpg",
               "correct": true,
-              "label": "Hello"
+              "label": "The girl jumps"
             },
             {
               "word": "This boy is running",
