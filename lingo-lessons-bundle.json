@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:41:06.783Z",
+  "generatedAt": "2026-11-19T13:46:32.412Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1209,7 +1209,7 @@
       "appIndex": 8,
       "word": "I am eating",
       "sentence": "I am eating.",
-      "spoken": "",
+      "spoken": "I am eating.",
       "translation": "",
       "options": [
         "Eating",
@@ -1223,7 +1223,246 @@
       "lessonNumber": 7,
       "order": 7,
       "category": "Verb To Be",
-      "isActive": true
+      "isActive": true,
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "word": "I am eating",
+              "sentence": "I am eating.",
+              "spoken": "I am eating.",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "I am eating",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "I am drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "I am running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "I am sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "speak": {
+          "word": "I am eating",
+          "sentence": "I am eating.",
+          "spoken": "I am eating.",
+          "translation": "",
+          "imageFile": "n18",
+          "isPack": true,
+          "indexInPack": 0,
+          "imageUrl": ""
+        },
+        "listen": {
+          "sentence": "I am eating.",
+          "spoken": "I am eating.",
+          "choices": [
+            {
+              "word": "I am eating",
+              "sentence": "I am eating.",
+              "spoken": "I am eating.",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "match": {
+          "pairs": [
+            {
+              "word": "Eating",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is I am eating?",
+          "options": [
+            {
+              "word": "I am eating",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "I am drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "I am running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "I am sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "write": {
+          "word": "I am eating",
+          "sentence": "I am eating.",
+          "spoken": "I am eating.",
+          "translation": "",
+          "imageFile": "n18",
+          "isPack": true,
+          "indexInPack": 0,
+          "imageUrl": ""
+        }
+      }
     },
     {
       "seedIdx": 5,
