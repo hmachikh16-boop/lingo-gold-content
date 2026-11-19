@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:01:06.041Z",
+  "generatedAt": "2026-11-19T12:01:18.956Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3519,6 +3519,16 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg"
+            },
+            {
+              "word": "The girl jumps",
+              "sentence": "The girl jumps",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089207749_lq3e0.jpg"
             }
           ]
         }
