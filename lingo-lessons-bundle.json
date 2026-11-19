@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:06:16.390Z",
+  "generatedAt": "2026-11-19T22:08:21.555Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1457,7 +1457,7 @@
       "appIndex": 5,
       "word": "A big dog",
       "sentence": "A big dog.",
-      "spoken": "",
+      "spoken": "A big dog.",
       "translation": "",
       "options": [
         "Big",
@@ -1472,7 +1472,272 @@
       "order": 6,
       "category": "Adjectives",
       "isActive": true,
-      "imageUrl": ""
+      "imageUrl": "",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "word": "A big dog",
+              "sentence": "A big dog.",
+              "spoken": "A big dog.",
+              "translation": "",
+              "imageFile": "q2",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A big dog",
+              "sentence": "A big dog.",
+              "spoken": "A big dog.",
+              "translation": "",
+              "imageFile": "q2",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A small rabbit",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n47",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A small dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Big dog",
+              "sentence": "A big dog.",
+              "spoken": "A big dog.",
+              "translation": "",
+              "imageFile": "q2",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Small dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Elephant",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n45",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Small",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n47",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q6",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "speak": {
+          "word": "A big dog",
+          "sentence": "A big dog.",
+          "spoken": "A big dog.",
+          "translation": "",
+          "imageFile": "q2",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": ""
+        },
+        "listen": {
+          "sentence": "A big dog.",
+          "spoken": "A big dog.",
+          "choices": [
+            {
+              "word": "A big dog",
+              "sentence": "A big dog.",
+              "spoken": "A big dog.",
+              "translation": "",
+              "imageFile": "q2",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Small",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n47",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q6",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ],
+          "word": "A big dog",
+          "translation": "",
+          "imageFile": "q2",
+          "imageUrl": "",
+          "isPack": false,
+          "indexInPack": 0
+        },
+        "match": {
+          "pairs": [
+            {
+              "word": "Big dog",
+              "sentence": "A big dog.",
+              "spoken": "A big dog.",
+              "translation": "",
+              "imageFile": "q2",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Small dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Elephant",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n45",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is A big dog?",
+          "options": [
+            {
+              "word": "A big dog",
+              "sentence": "A big dog.",
+              "spoken": "A big dog.",
+              "translation": "",
+              "imageFile": "q2",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "A small rabbit",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n47",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "A small dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "A cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q6",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "write": {
+          "word": "A big dog",
+          "sentence": "A big dog.",
+          "spoken": "A big dog.",
+          "translation": "",
+          "imageFile": "q2",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": ""
+        }
+      }
     },
     {
       "seedIdx": 6,
