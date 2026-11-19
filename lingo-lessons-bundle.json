@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:58:22.216Z",
+  "generatedAt": "2026-11-19T11:58:30.828Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -24,118 +24,24 @@
       "category": "Verb To Be",
       "isActive": true,
       "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "A boy",
-              "sentence": "A boy.",
-              "spoken": "A boy.",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://example.com/img2.jpg"
-            },
-            {
-              "word": "ZZZ",
-              "sentence": "ZZZ sentence.",
-              "spoken": "ZZZ sentence.",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
         "choice": {
-          "question": "Which picture is ZZZ?",
+          "question": "Which picture is A boy?",
           "options": [
             {
-              "word": "ZZZ",
-              "sentence": "ZZZ chooses.",
-              "spoken": "ZZZ chooses.",
+              "word": "A boy",
+              "sentence": "",
+              "spoken": "",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
               "correct": true,
-              "label": "ZZZ"
+              "label": "A boy"
             },
             {
               "word": "A girl",
-              "sentence": "A girl smiles.",
+              "sentence": "",
               "spoken": "",
               "translation": "",
               "imageFile": "n02",
@@ -146,16 +52,16 @@
               "label": "A girl"
             },
             {
-              "word": "ZZZ",
-              "sentence": "ZZZ chooses.",
-              "spoken": "ZZZ chooses.",
+              "word": "A cat",
+              "sentence": "",
+              "spoken": "",
               "translation": "",
               "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
               "correct": false,
-              "label": "A kitten"
+              "label": "A cat"
             },
             {
               "word": "A dog",
@@ -180,96 +86,8 @@
               "imageUrl": "",
               "correct": false,
               "label": "ZZZ"
-            },
-            {
-              "word": "ZZZ",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "ZZZ"
-            },
-            {
-              "word": "ZZZ",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "ZZZ"
             }
           ]
-        },
-        "listen": {
-          "sentence": "Where is ZZZ?",
-          "spoken": "A boy.",
-          "choices": [
-            {
-              "word": "A boy",
-              "sentence": "A boy.",
-              "spoken": "A boy.",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A boy"
-            },
-            {
-              "word": "A girl",
-              "sentence": "A girl is here.",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Girl"
-            },
-            {
-              "word": "ZZZ",
-              "sentence": "ZZZ listens.",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Dog"
-            }
-          ]
-        },
-        "speak": {
-          "word": "ZZZ",
-          "sentence": "ZZZ speaks.",
-          "spoken": "ZZZ speaks.",
-          "translation": "",
-          "imageFile": "q0",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": ""
         }
       }
     },
@@ -417,7 +235,7 @@
       "title": "الدرس 1 • A big dog",
       "lessonNumber": 1,
       "order": 1,
-      "category": "Verb To Be",
+      "category": "Adjectives",
       "isActive": true
     },
     {
@@ -3193,20 +3011,5 @@
       "isActive": true
     }
   ],
-  "newLessons": [
-    {
-      "title": "الدرس 8 • الألوان",
-      "word": "الألوان",
-      "sentence": "",
-      "translation": "",
-      "options": [],
-      "category": "Verb To Be",
-      "categoryId": "cat0",
-      "order": 8,
-      "lessonNumber": 8,
-      "isActive": true,
-      "spoken": "الألوان",
-      "appIndex": 140
-    }
-  ]
+  "newLessons": []
 }
