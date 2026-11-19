@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:18:21.288Z",
+  "generatedAt": "2026-11-19T12:19:09.997Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -119,9 +119,9 @@
           ]
         },
         "speak": {
-          "word": "",
-          "sentence": "",
-          "spoken": "",
+          "word": "A boy",
+          "sentence": "A boy.",
+          "spoken": "A boy.",
           "translation": "",
           "imageFile": "q0",
           "isPack": false,
@@ -129,13 +129,13 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "",
-          "spoken": "",
+          "sentence": "A boy.",
+          "spoken": "A boy.",
           "choices": [
             {
-              "word": "",
-              "sentence": "",
-              "spoken": "",
+              "word": "A boy",
+              "sentence": "A boy.",
+              "spoken": "A boy.",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
@@ -262,9 +262,9 @@
           ]
         },
         "write": {
-          "word": "",
-          "sentence": "",
-          "spoken": "",
+          "word": "A boy",
+          "sentence": "A boy.",
+          "spoken": "A boy.",
           "translation": "",
           "imageFile": "q0",
           "isPack": false,
