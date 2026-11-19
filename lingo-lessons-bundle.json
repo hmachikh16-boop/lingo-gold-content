@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:18:01.973Z",
+  "generatedAt": "2026-11-19T11:18:16.626Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -123,8 +123,8 @@
           "options": [
             {
               "word": "ZZZ",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "ZZZ chooses.",
+              "spoken": "ZZZ chooses.",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
