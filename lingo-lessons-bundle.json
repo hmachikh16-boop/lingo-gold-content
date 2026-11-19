@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:50:38.459Z",
+  "generatedAt": "2026-11-19T13:52:55.413Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1280,8 +1280,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "Where is the boy who drinks?",
-          "spoken": "Where is the boy who drinks?",
+          "sentence": "I drink",
+          "spoken": "I drink",
           "choices": [
             {
               "word": "I am eating",
@@ -1292,7 +1292,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "I am eating"
             },
             {
@@ -1304,7 +1304,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "I drink"
             },
             {
