@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:33:54.033Z",
+  "generatedAt": "2026-11-19T11:35:43.407Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -213,50 +213,6 @@
       "category": "Verb To Be",
       "isActive": true,
       "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "A girl",
-              "sentence": "A girl",
-              "spoken": "Rabbit",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Rabbit",
-              "sentence": "This is a rabbit",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_1_1795084597327_myauy.jpg"
-            }
-          ]
-        },
         "listen": {
           "sentence": "Rabbit",
           "spoken": "Rabbit",
