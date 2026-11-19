@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:42:39.673Z",
+  "generatedAt": "2026-11-19T16:42:47.855Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1404,8 +1404,8 @@
             },
             {
               "word": "I am running",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "I am running",
+              "spoken": "I am running",
               "translation": "",
               "imageFile": "n15",
               "isPack": true,
