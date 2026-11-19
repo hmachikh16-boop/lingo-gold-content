@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:07:26.713Z",
+  "generatedAt": "2026-11-19T23:07:32.065Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2950,8 +2950,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The ball is ___.",
-          "spoken": "The ball is ___.",
+          "sentence": "The ball is Orange.",
+          "spoken": "The ball is Orange.",
           "choices": [
             {
               "word": "Orange",
