@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:19:30.973Z",
+  "generatedAt": "2026-11-19T16:19:37.395Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1039,8 +1039,8 @@
             },
             {
               "word": "A cat",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "A cat",
+              "spoken": "A cat",
               "translation": "",
               "imageFile": "q6",
               "isPack": false,
