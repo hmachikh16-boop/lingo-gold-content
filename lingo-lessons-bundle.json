@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:59:59.690Z",
+  "generatedAt": "2026-11-19T11:00:12.579Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -119,7 +119,7 @@
           ]
         },
         "choice": {
-          "question": "Which picture is A kitten?",
+          "question": "Which picture is A cat?",
           "options": [
             {
               "word": "A boy",
@@ -130,12 +130,12 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "A boy"
             },
             {
               "word": "A girl",
-              "sentence": "",
+              "sentence": "A girl smiles.",
               "spoken": "",
               "translation": "",
               "imageFile": "n02",
@@ -154,7 +154,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "A kitten"
             },
             {
