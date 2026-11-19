@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:40:28.039Z",
+  "generatedAt": "2026-11-19T13:40:48.188Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1140,7 +1140,7 @@
           ]
         },
         "choice": {
-          "question": "Which picture is cat?",
+          "question": "Which picture is the cat?\n",
           "options": [
             {
               "word": "The boy and the girl",
