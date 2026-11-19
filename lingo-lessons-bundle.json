@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:45:12.641Z",
+  "generatedAt": "2026-11-19T16:45:15.586Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1541,16 +1541,6 @@
               "translation": "",
               "imageFile": "color_yellow",
               "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Oranges",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n37",
-              "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
             }
