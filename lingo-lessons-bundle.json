@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:08:26.444Z",
+  "generatedAt": "2026-11-19T22:08:32.046Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1476,16 +1476,6 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "A big dog",
-              "sentence": "A big dog.",
-              "spoken": "A big dog.",
-              "translation": "",
-              "imageFile": "q2",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
             {
               "word": "A big dog",
               "sentence": "A big dog.",
