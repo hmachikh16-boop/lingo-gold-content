@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:58:34.788Z",
+  "generatedAt": "2026-11-19T11:58:40.072Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -24,56 +24,37 @@
       "category": "Verb To Be",
       "isActive": true,
       "stepOverrides": {
-        "choice": {
-          "question": "Which picture is A boy?",
-          "options": [
+        "match": {
+          "pairs": [
             {
-              "word": "A boy",
+              "word": "Boy",
               "sentence": "",
               "spoken": "",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "A boy"
+              "imageUrl": ""
             },
             {
-              "word": "A girl",
+              "word": "Girl",
               "sentence": "",
               "spoken": "",
               "translation": "",
               "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
+              "imageUrl": ""
             },
             {
-              "word": "A cat",
+              "word": "Cat",
               "sentence": "",
               "spoken": "",
               "translation": "",
               "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A cat"
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A dog"
+              "imageUrl": ""
             }
           ]
         }
