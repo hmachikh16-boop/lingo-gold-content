@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:00:30.034Z",
+  "generatedAt": "2026-11-19T12:01:06.041Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3389,8 +3389,8 @@
   "newLessons": [
     {
       "title": "الدرس 8 • الأفعال",
-      "word": "Hello",
-      "sentence": "Hello",
+      "word": "The girl jumps",
+      "sentence": "The girl jumps",
       "translation": "",
       "options": [],
       "category": "Verb To Be",
@@ -3439,8 +3439,8 @@
         "intro": {
           "items": [
             {
-              "word": "Hello",
-              "sentence": "Hello",
+              "word": "The girl jumps",
+              "sentence": "The girl jumps",
               "spoken": "Hello",
               "translation": "",
               "imageFile": "",
