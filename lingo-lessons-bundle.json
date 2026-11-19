@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:11:53.633Z",
+  "generatedAt": "2026-11-19T22:12:00.146Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1672,7 +1672,7 @@
           ]
         },
         "write": {
-          "word": "A big dog",
+          "word": "Small dog",
           "sentence": "A big dog.",
           "spoken": "A big dog.",
           "translation": "",
