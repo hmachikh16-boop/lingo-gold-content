@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:27:02.164Z",
+  "generatedAt": "2026-11-19T11:27:23.782Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -262,16 +262,16 @@
           "spoken": "Rabbit",
           "choices": [
             {
-              "word": "A girl",
-              "sentence": "A girl.",
-              "spoken": "A girl.",
+              "word": "Rabbit",
+              "sentence": "Rabbit",
+              "spoken": "Rabbit",
               "translation": "",
               "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_1_1795087619528_pexey.jpg",
               "correct": true,
-              "label": "A girl"
+              "label": "Rabbit"
             },
             {
               "word": "Boy",
