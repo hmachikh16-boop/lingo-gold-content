@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:30:48.501Z",
+  "generatedAt": "2026-11-19T13:21:58.031Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3180,7 +3180,7 @@
       "appIndex": 120,
       "word": "Tomato",
       "sentence": "The ___ is red.",
-      "spoken": "",
+      "spoken": "The ___ is red.",
       "translation": "الطماطم حمراء.",
       "options": [
         "Tomato",
@@ -3193,8 +3193,207 @@
       "title": "الدرس 1 • Tomato",
       "lessonNumber": 1,
       "order": 1,
-      "category": "Discover",
-      "isActive": true
+      "category": "Verb To Be",
+      "isActive": true,
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "word": "Tomato",
+              "sentence": "The ___ is red.",
+              "spoken": "The ___ is red.",
+              "translation": "الطماطم حمراء.",
+              "imageFile": "food_tomato",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Chocolate",
+              "sentence": "Chocolate",
+              "spoken": "Chocolate",
+              "translation": "أنا أحب الشوكولاتة.",
+              "imageFile": "food_chocolate",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Leaf",
+              "sentence": "This is a ___.",
+              "spoken": "",
+              "translation": "هذه ورقة شجر.",
+              "imageFile": "nat_leaf",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Snow",
+              "sentence": "The ___ is white.",
+              "spoken": "",
+              "translation": "الثلج أبيض.",
+              "imageFile": "nat_snow",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "speak": {
+          "word": "Tomato",
+          "sentence": "The ___ is red.",
+          "spoken": "The ___ is red.",
+          "translation": "الطماطم حمراء.",
+          "imageFile": "food_tomato",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": ""
+        },
+        "listen": {
+          "sentence": "The ___ is red.",
+          "spoken": "The ___ is red.",
+          "choices": [
+            {
+              "word": "Tomato",
+              "sentence": "The ___ is red.",
+              "spoken": "The ___ is red.",
+              "translation": "الطماطم حمراء.",
+              "imageFile": "food_tomato",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Chocolate",
+              "sentence": "I like ___.",
+              "spoken": "",
+              "translation": "أنا أحب الشوكولاتة.",
+              "imageFile": "food_chocolate",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Leaf",
+              "sentence": "This is a ___.",
+              "spoken": "",
+              "translation": "هذه ورقة شجر.",
+              "imageFile": "nat_leaf",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Snow",
+              "sentence": "The ___ is white.",
+              "spoken": "",
+              "translation": "الثلج أبيض.",
+              "imageFile": "nat_snow",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "match": {
+          "pairs": [
+            {
+              "word": "Tomato",
+              "sentence": "The ___ is red.",
+              "spoken": "The ___ is red.",
+              "translation": "الطماطم حمراء.",
+              "imageFile": "food_tomato",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Chocolate",
+              "sentence": "I like ___.",
+              "spoken": "",
+              "translation": "أنا أحب الشوكولاتة.",
+              "imageFile": "food_chocolate",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Leaf",
+              "sentence": "This is a ___.",
+              "spoken": "",
+              "translation": "هذه ورقة شجر.",
+              "imageFile": "nat_leaf",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is Tomato?",
+          "options": [
+            {
+              "word": "Tomato",
+              "sentence": "The ___ is red.",
+              "spoken": "The ___ is red.",
+              "translation": "الطماطم حمراء.",
+              "imageFile": "food_tomato",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Chocolate",
+              "sentence": "I like ___.",
+              "spoken": "",
+              "translation": "أنا أحب الشوكولاتة.",
+              "imageFile": "food_chocolate",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Leaf",
+              "sentence": "This is a ___.",
+              "spoken": "",
+              "translation": "هذه ورقة شجر.",
+              "imageFile": "nat_leaf",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Snow",
+              "sentence": "The ___ is white.",
+              "spoken": "",
+              "translation": "الثلج أبيض.",
+              "imageFile": "nat_snow",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "write": {
+          "word": "Tomato",
+          "sentence": "The ___ is red.",
+          "spoken": "The ___ is red.",
+          "translation": "الطماطم حمراء.",
+          "imageFile": "food_tomato",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": ""
+        }
+      }
     },
     {
       "seedIdx": 121,
