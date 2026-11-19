@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T19:16:03.622Z",
+  "generatedAt": "2026-11-19T08:18:17.875Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -22,12 +22,7 @@
       "lessonNumber": 1,
       "order": 1,
       "category": "Verb To Be",
-      "isActive": true,
-      "id": "NJoUaEmypBvJ1tmzRPCM",
-      "categoryId": "HVQZF8VhShFUuNggw7eB",
-      "createdAt": null,
-      "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795029360581_1j7i4.jpg"
+      "isActive": true
     },
     {
       "seedIdx": 1,
@@ -173,7 +168,7 @@
       "title": "الدرس 1 • A big dog",
       "lessonNumber": 1,
       "order": 1,
-      "category": "Adjectives",
+      "category": "Verb To Be",
       "isActive": true
     },
     {
