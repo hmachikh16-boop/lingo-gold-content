@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T21:56:59.004Z",
+  "generatedAt": "2026-11-19T22:00:50.642Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -4992,8 +4992,8 @@
         "match": {
           "pairs": [
             {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
+              "word": "TEST SENTENCE 3",
+              "sentence": "TEST SENTENCE 3",
               "spoken": "Hello",
               "translation": "",
               "imageFile": "",
@@ -5003,8 +5003,8 @@
             },
             {
               "word": "This boy is running",
-              "sentence": " This boy is running",
-              "spoken": " This boy is running",
+              "sentence": "This boy is running",
+              "spoken": "",
               "translation": "",
               "imageFile": "",
               "isPack": false,
