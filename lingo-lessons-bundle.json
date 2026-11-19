@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T17:05:37.599Z",
+  "generatedAt": "2026-11-19T19:04:20.260Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -4872,16 +4872,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
       "spoken": "Hello",
       "appIndex": 140
-    },
-    {
-      "title": "",
-      "word": "",
-      "sentence": "",
-      "spoken": "",
-      "translation": "",
-      "options": [],
-      "appIndex": 141,
-      "isActive": true
     }
   ]
 }
