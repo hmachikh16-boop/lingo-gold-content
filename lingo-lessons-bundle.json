@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:31:31.992Z",
+  "generatedAt": "2026-11-19T13:31:40.862Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -587,16 +587,6 @@
               "spoken": "",
               "translation": "",
               "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
