@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:46:15.576Z",
+  "generatedAt": "2026-11-19T10:49:37.641Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -270,7 +270,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": false,
+              "label": "A girl"
             },
             {
               "word": "Boy",
@@ -281,7 +282,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Boy"
             },
             {
               "word": "Cat",
@@ -292,7 +294,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Cat"
             },
             {
               "word": "Dog",
@@ -303,7 +306,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": true,
+              "label": "Dog"
             }
           ]
         },
