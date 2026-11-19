@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T20:13:12.222Z",
+  "generatedAt": "2026-11-19T20:24:18.355Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -33,7 +33,7 @@
           "items": [
             {
               "word": "A boy",
-              "sentence": "This is a boy",
+              "sentence": "a boy",
               "spoken": "This is a boy",
               "translation": "",
               "imageFile": "q0",
@@ -79,13 +79,13 @@
           "choices": [
             {
               "word": "A boy",
-              "sentence": "A boy.",
-              "spoken": "",
+              "sentence": "a boy",
+              "spoken": "This is a boy",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_0_1795078144765_d7f4t.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg",
               "correct": true,
               "label": "A boy"
             },
@@ -125,30 +125,31 @@
               "correct": false,
               "label": "Dog"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "write": {
-          "word": "Dog",
-          "sentence": "A boy",
-          "spoken": "A boy",
+          "word": "A boy",
+          "sentence": "a boy",
+          "spoken": "This is a boy",
           "translation": "",
           "imageFile": "q0",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795081851093_k065u.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg"
         },
         "choice": {
           "question": "Where do you see the a cat?",
           "options": [
             {
               "word": "A boy",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "a boy",
+              "spoken": "This is a boy",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_0_0_1795083131459_twr8c.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg",
               "correct": false,
               "label": "A boy"
             },
@@ -192,7 +193,7 @@
         },
         "speak": {
           "word": "A boy",
-          "sentence": "A boy",
+          "sentence": "a boy",
           "spoken": "This is a boy",
           "translation": "",
           "imageFile": "q0",
@@ -275,7 +276,8 @@
               "correct": false,
               "label": "Dog"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "write": {
           "word": "Rabbit",
@@ -414,8 +416,8 @@
           "options": [
             {
               "word": "A cat",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "A cat.",
+              "spoken": "A cat.",
               "translation": "",
               "imageFile": "n42",
               "isPack": true,
@@ -514,10 +516,11 @@
               "correct": false,
               "label": "Boy"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "write": {
-          "word": " cat",
+          "word": "A cat",
           "sentence": "A cat.",
           "spoken": "A cat.",
           "translation": "",
@@ -526,7 +529,8 @@
           "indexInPack": 0,
           "imageUrl": ""
         }
-      }
+      },
+      "imageUrl": ""
     },
     {
       "seedIdx": 3,
@@ -655,7 +659,8 @@
               "correct": true,
               "label": "Sleeping"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "match": {
           "pairs": [
@@ -696,8 +701,8 @@
           "options": [
             {
               "word": "The boy is eating",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "The boy is eating.",
+              "spoken": "The boy is eating.",
               "translation": "",
               "imageFile": "n18",
               "isPack": true,
@@ -754,7 +759,8 @@
           "indexInPack": 0,
           "imageUrl": ""
         }
-      }
+      },
+      "imageUrl": ""
     },
     {
       "seedIdx": 4,
@@ -883,7 +889,8 @@
               "correct": true,
               "label": "The boy is sleeping"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "match": {
           "pairs": [
@@ -982,7 +989,8 @@
           "indexInPack": 0,
           "imageUrl": ""
         }
-      }
+      },
+      "imageUrl": ""
     },
     {
       "seedIdx": 7,
@@ -1025,7 +1033,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/step_intro_1_7_1795105381808_hrtc4.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_7_1795105381808_hrtc4.jpg"
             },
             {
               "word": "Girl",
@@ -1111,7 +1119,8 @@
               "correct": false,
               "label": "Cat"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "match": {
           "pairs": [
@@ -1210,7 +1219,8 @@
           "indexInPack": 0,
           "imageUrl": ""
         }
-      }
+      },
+      "imageUrl": ""
     },
     {
       "seedIdx": 8,
@@ -1339,7 +1349,8 @@
               "correct": false,
               "label": "Sleeping"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "match": {
           "pairs": [
@@ -1438,7 +1449,8 @@
           "indexInPack": 0,
           "imageUrl": ""
         }
-      }
+      },
+      "imageUrl": ""
     },
     {
       "seedIdx": 5,
@@ -1459,7 +1471,8 @@
       "lessonNumber": 6,
       "order": 6,
       "category": "Adjectives",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 6,
@@ -1608,7 +1621,8 @@
               "correct": false,
               "label": "Grapes"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "match": {
           "pairs": [
@@ -1725,7 +1739,8 @@
       "lessonNumber": 131,
       "order": 131,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 131,
@@ -1746,7 +1761,8 @@
       "lessonNumber": 132,
       "order": 132,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 132,
@@ -1767,7 +1783,8 @@
       "lessonNumber": 133,
       "order": 133,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 133,
@@ -1788,7 +1805,8 @@
       "lessonNumber": 134,
       "order": 134,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 134,
@@ -1809,7 +1827,8 @@
       "lessonNumber": 135,
       "order": 135,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 135,
@@ -1830,7 +1849,8 @@
       "lessonNumber": 136,
       "order": 136,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 136,
@@ -1851,7 +1871,8 @@
       "lessonNumber": 137,
       "order": 137,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 137,
@@ -1872,7 +1893,8 @@
       "lessonNumber": 138,
       "order": 138,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 138,
@@ -1893,7 +1915,8 @@
       "lessonNumber": 139,
       "order": 139,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 139,
@@ -1914,7 +1937,8 @@
       "lessonNumber": 140,
       "order": 140,
       "category": "Colors",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 9,
@@ -1935,7 +1959,8 @@
       "lessonNumber": 10,
       "order": 10,
       "category": "Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 10,
@@ -1956,7 +1981,8 @@
       "lessonNumber": 11,
       "order": 11,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 11,
@@ -1977,7 +2003,8 @@
       "lessonNumber": 12,
       "order": 12,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 12,
@@ -1998,7 +2025,8 @@
       "lessonNumber": 13,
       "order": 13,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 13,
@@ -2019,7 +2047,8 @@
       "lessonNumber": 14,
       "order": 14,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 14,
@@ -2040,7 +2069,8 @@
       "lessonNumber": 15,
       "order": 15,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 15,
@@ -2061,7 +2091,8 @@
       "lessonNumber": 16,
       "order": 16,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 16,
@@ -2082,7 +2113,8 @@
       "lessonNumber": 17,
       "order": 17,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 17,
@@ -2103,7 +2135,8 @@
       "lessonNumber": 18,
       "order": 18,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 18,
@@ -2124,7 +2157,8 @@
       "lessonNumber": 19,
       "order": 19,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 19,
@@ -2145,7 +2179,8 @@
       "lessonNumber": 20,
       "order": 20,
       "category": "Family",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 20,
@@ -2166,7 +2201,8 @@
       "lessonNumber": 21,
       "order": 21,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 21,
@@ -2187,7 +2223,8 @@
       "lessonNumber": 22,
       "order": 22,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 22,
@@ -2208,7 +2245,8 @@
       "lessonNumber": 23,
       "order": 23,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 23,
@@ -2229,7 +2267,8 @@
       "lessonNumber": 24,
       "order": 24,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 24,
@@ -2250,7 +2289,8 @@
       "lessonNumber": 25,
       "order": 25,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 25,
@@ -2271,7 +2311,8 @@
       "lessonNumber": 26,
       "order": 26,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 26,
@@ -2292,7 +2333,8 @@
       "lessonNumber": 27,
       "order": 27,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 27,
@@ -2313,7 +2355,8 @@
       "lessonNumber": 28,
       "order": 28,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 28,
@@ -2334,7 +2377,8 @@
       "lessonNumber": 29,
       "order": 29,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 29,
@@ -2355,7 +2399,8 @@
       "lessonNumber": 30,
       "order": 30,
       "category": "People & Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 30,
@@ -2376,7 +2421,8 @@
       "lessonNumber": 31,
       "order": 31,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 31,
@@ -2397,7 +2443,8 @@
       "lessonNumber": 32,
       "order": 32,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 32,
@@ -2418,7 +2465,8 @@
       "lessonNumber": 33,
       "order": 33,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 33,
@@ -2439,7 +2487,8 @@
       "lessonNumber": 34,
       "order": 34,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 34,
@@ -2460,7 +2509,8 @@
       "lessonNumber": 35,
       "order": 35,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 35,
@@ -2481,7 +2531,8 @@
       "lessonNumber": 36,
       "order": 36,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 36,
@@ -2502,7 +2553,8 @@
       "lessonNumber": 37,
       "order": 37,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 37,
@@ -2523,7 +2575,8 @@
       "lessonNumber": 38,
       "order": 38,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 38,
@@ -2544,7 +2597,8 @@
       "lessonNumber": 39,
       "order": 39,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 39,
@@ -2565,7 +2619,8 @@
       "lessonNumber": 40,
       "order": 40,
       "category": "Food",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 40,
@@ -2586,7 +2641,8 @@
       "lessonNumber": 41,
       "order": 41,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 41,
@@ -2607,7 +2663,8 @@
       "lessonNumber": 42,
       "order": 42,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 42,
@@ -2628,7 +2685,8 @@
       "lessonNumber": 43,
       "order": 43,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 43,
@@ -2649,7 +2707,8 @@
       "lessonNumber": 44,
       "order": 44,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 44,
@@ -2670,7 +2729,8 @@
       "lessonNumber": 45,
       "order": 45,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 45,
@@ -2691,7 +2751,8 @@
       "lessonNumber": 46,
       "order": 46,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 46,
@@ -2712,7 +2773,8 @@
       "lessonNumber": 47,
       "order": 47,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 47,
@@ -2733,7 +2795,8 @@
       "lessonNumber": 48,
       "order": 48,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 48,
@@ -2754,7 +2817,8 @@
       "lessonNumber": 49,
       "order": 49,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 49,
@@ -2775,7 +2839,8 @@
       "lessonNumber": 50,
       "order": 50,
       "category": "Food & More",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 50,
@@ -2796,7 +2861,8 @@
       "lessonNumber": 51,
       "order": 51,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 51,
@@ -2817,7 +2883,8 @@
       "lessonNumber": 52,
       "order": 52,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 52,
@@ -2838,7 +2905,8 @@
       "lessonNumber": 53,
       "order": 53,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 53,
@@ -2859,7 +2927,8 @@
       "lessonNumber": 54,
       "order": 54,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 54,
@@ -2880,7 +2949,8 @@
       "lessonNumber": 55,
       "order": 55,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 55,
@@ -2901,7 +2971,8 @@
       "lessonNumber": 56,
       "order": 56,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 56,
@@ -2922,7 +2993,8 @@
       "lessonNumber": 57,
       "order": 57,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 57,
@@ -2943,7 +3015,8 @@
       "lessonNumber": 58,
       "order": 58,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 58,
@@ -2964,7 +3037,8 @@
       "lessonNumber": 59,
       "order": 59,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 59,
@@ -2985,7 +3059,8 @@
       "lessonNumber": 60,
       "order": 60,
       "category": "Animals",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 60,
@@ -3006,7 +3081,8 @@
       "lessonNumber": 61,
       "order": 61,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 61,
@@ -3027,7 +3103,8 @@
       "lessonNumber": 62,
       "order": 62,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 62,
@@ -3048,7 +3125,8 @@
       "lessonNumber": 63,
       "order": 63,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 63,
@@ -3069,7 +3147,8 @@
       "lessonNumber": 64,
       "order": 64,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 64,
@@ -3090,7 +3169,8 @@
       "lessonNumber": 65,
       "order": 65,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 65,
@@ -3111,7 +3191,8 @@
       "lessonNumber": 66,
       "order": 66,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 66,
@@ -3132,7 +3213,8 @@
       "lessonNumber": 67,
       "order": 67,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 67,
@@ -3153,7 +3235,8 @@
       "lessonNumber": 68,
       "order": 68,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 68,
@@ -3174,7 +3257,8 @@
       "lessonNumber": 69,
       "order": 69,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 69,
@@ -3195,7 +3279,8 @@
       "lessonNumber": 70,
       "order": 70,
       "category": "Home & Nature",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 70,
@@ -3216,7 +3301,8 @@
       "lessonNumber": 71,
       "order": 71,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 71,
@@ -3237,7 +3323,8 @@
       "lessonNumber": 72,
       "order": 72,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 72,
@@ -3258,7 +3345,8 @@
       "lessonNumber": 73,
       "order": 73,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 73,
@@ -3279,7 +3367,8 @@
       "lessonNumber": 74,
       "order": 74,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 74,
@@ -3300,7 +3389,8 @@
       "lessonNumber": 75,
       "order": 75,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 75,
@@ -3321,7 +3411,8 @@
       "lessonNumber": 76,
       "order": 76,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 76,
@@ -3342,7 +3433,8 @@
       "lessonNumber": 77,
       "order": 77,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 77,
@@ -3363,7 +3455,8 @@
       "lessonNumber": 78,
       "order": 78,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 78,
@@ -3384,7 +3477,8 @@
       "lessonNumber": 79,
       "order": 79,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 79,
@@ -3405,7 +3499,8 @@
       "lessonNumber": 80,
       "order": 80,
       "category": "Fun & School",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 80,
@@ -3426,7 +3521,8 @@
       "lessonNumber": 81,
       "order": 81,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 81,
@@ -3447,7 +3543,8 @@
       "lessonNumber": 82,
       "order": 82,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 82,
@@ -3468,7 +3565,8 @@
       "lessonNumber": 83,
       "order": 83,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 83,
@@ -3489,7 +3587,8 @@
       "lessonNumber": 84,
       "order": 84,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 84,
@@ -3510,7 +3609,8 @@
       "lessonNumber": 85,
       "order": 85,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 85,
@@ -3531,7 +3631,8 @@
       "lessonNumber": 86,
       "order": 86,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 86,
@@ -3552,7 +3653,8 @@
       "lessonNumber": 87,
       "order": 87,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 87,
@@ -3573,7 +3675,8 @@
       "lessonNumber": 88,
       "order": 88,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 88,
@@ -3594,7 +3697,8 @@
       "lessonNumber": 89,
       "order": 89,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 89,
@@ -3615,7 +3719,8 @@
       "lessonNumber": 90,
       "order": 90,
       "category": "Greetings",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 90,
@@ -3636,7 +3741,8 @@
       "lessonNumber": 91,
       "order": 91,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 91,
@@ -3657,7 +3763,8 @@
       "lessonNumber": 92,
       "order": 92,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 92,
@@ -3678,7 +3785,8 @@
       "lessonNumber": 93,
       "order": 93,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 93,
@@ -3699,7 +3807,8 @@
       "lessonNumber": 94,
       "order": 94,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 94,
@@ -3720,7 +3829,8 @@
       "lessonNumber": 95,
       "order": 95,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 95,
@@ -3741,7 +3851,8 @@
       "lessonNumber": 96,
       "order": 96,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 96,
@@ -3762,7 +3873,8 @@
       "lessonNumber": 97,
       "order": 97,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 97,
@@ -3783,7 +3895,8 @@
       "lessonNumber": 98,
       "order": 98,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 98,
@@ -3804,7 +3917,8 @@
       "lessonNumber": 99,
       "order": 99,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 99,
@@ -3825,7 +3939,8 @@
       "lessonNumber": 100,
       "order": 100,
       "category": "Jobs",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 100,
@@ -3846,7 +3961,8 @@
       "lessonNumber": 101,
       "order": 101,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 101,
@@ -3867,7 +3983,8 @@
       "lessonNumber": 102,
       "order": 102,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 102,
@@ -3888,7 +4005,8 @@
       "lessonNumber": 103,
       "order": 103,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 103,
@@ -3909,7 +4027,8 @@
       "lessonNumber": 104,
       "order": 104,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 104,
@@ -3930,7 +4049,8 @@
       "lessonNumber": 105,
       "order": 105,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 105,
@@ -3951,7 +4071,8 @@
       "lessonNumber": 106,
       "order": 106,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 106,
@@ -3972,7 +4093,8 @@
       "lessonNumber": 107,
       "order": 107,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 107,
@@ -3993,7 +4115,8 @@
       "lessonNumber": 108,
       "order": 108,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 108,
@@ -4014,7 +4137,8 @@
       "lessonNumber": 109,
       "order": 109,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 109,
@@ -4035,7 +4159,8 @@
       "lessonNumber": 110,
       "order": 110,
       "category": "Actions",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 110,
@@ -4056,7 +4181,8 @@
       "lessonNumber": 111,
       "order": 111,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 111,
@@ -4077,7 +4203,8 @@
       "lessonNumber": 112,
       "order": 112,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 112,
@@ -4098,7 +4225,8 @@
       "lessonNumber": 113,
       "order": 113,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 113,
@@ -4119,7 +4247,8 @@
       "lessonNumber": 114,
       "order": 114,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 114,
@@ -4140,7 +4269,8 @@
       "lessonNumber": 115,
       "order": 115,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 115,
@@ -4161,7 +4291,8 @@
       "lessonNumber": 116,
       "order": 116,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 116,
@@ -4182,7 +4313,8 @@
       "lessonNumber": 117,
       "order": 117,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 117,
@@ -4203,7 +4335,8 @@
       "lessonNumber": 118,
       "order": 118,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 118,
@@ -4224,7 +4357,8 @@
       "lessonNumber": 119,
       "order": 119,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 119,
@@ -4245,7 +4379,8 @@
       "lessonNumber": 120,
       "order": 120,
       "category": "Numbers",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 120,
@@ -4272,8 +4407,8 @@
           "items": [
             {
               "word": "Tomato",
-              "sentence": "This is a Tomato",
-              "spoken": "This is a Tomato",
+              "sentence": "The ___ is red.",
+              "spoken": "The ___ is red.",
               "translation": "الطماطم حمراء.",
               "imageFile": "food_tomato",
               "isPack": false,
@@ -4370,7 +4505,9 @@
               "imageUrl": "",
               "correct": false
             }
-          ]
+          ],
+          "imageUrl": "",
+          "word": "Tomato"
         },
         "match": {
           "pairs": [
@@ -4465,7 +4602,8 @@
           "indexInPack": 0,
           "imageUrl": ""
         }
-      }
+      },
+      "imageUrl": ""
     },
     {
       "seedIdx": 121,
@@ -4486,7 +4624,8 @@
       "lessonNumber": 122,
       "order": 122,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 122,
@@ -4507,7 +4646,8 @@
       "lessonNumber": 123,
       "order": 123,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 123,
@@ -4528,7 +4668,8 @@
       "lessonNumber": 124,
       "order": 124,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 124,
@@ -4549,7 +4690,8 @@
       "lessonNumber": 125,
       "order": 125,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 125,
@@ -4570,7 +4712,8 @@
       "lessonNumber": 126,
       "order": 126,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 126,
@@ -4591,7 +4734,8 @@
       "lessonNumber": 127,
       "order": 127,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 127,
@@ -4612,7 +4756,8 @@
       "lessonNumber": 128,
       "order": 128,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 128,
@@ -4633,7 +4778,8 @@
       "lessonNumber": 129,
       "order": 129,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     },
     {
       "seedIdx": 129,
@@ -4654,7 +4800,8 @@
       "lessonNumber": 130,
       "order": 130,
       "category": "Discover",
-      "isActive": true
+      "isActive": true,
+      "imageUrl": ""
     }
   ],
   "newLessons": [
@@ -4666,8 +4813,8 @@
       "options": [],
       "category": "Verb To Be",
       "categoryId": "app::Verb To Be",
-      "order": 8,
-      "lessonNumber": 8,
+      "order": 141,
+      "lessonNumber": 141,
       "isActive": true,
       "stepOverrides": {
         "speak": {
@@ -4678,7 +4825,7 @@
           "imageFile": "",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
         },
         "write": {
           "word": "Hello",
@@ -4701,7 +4848,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
               "correct": true,
               "label": "The girl jumps"
             },
@@ -4725,7 +4872,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
               "correct": false,
               "label": "cat"
             },
@@ -4753,7 +4900,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
             },
             {
               "word": "This boy is running",
@@ -4799,7 +4946,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
               "correct": false,
               "label": "The girl jumps"
             },
@@ -4839,7 +4986,8 @@
               "correct": false,
               "label": "Hello"
             }
-          ]
+          ],
+          "imageUrl": ""
         },
         "match": {
           "pairs": [
@@ -4851,7 +4999,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
             },
             {
               "word": "This boy is running",
@@ -4871,236 +5019,14 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
             }
           ]
         }
       },
-      "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
       "spoken": "Hello",
       "appIndex": 140
-    },
-    {
-      "title": "الدرس 8 • الأفعال",
-      "word": "The girl jumps",
-      "sentence": "The girl jumps",
-      "translation": "",
-      "options": [],
-      "category": "Verb To Be",
-      "categoryId": "app::Verb To Be",
-      "order": 8,
-      "lessonNumber": 8,
-      "isActive": true,
-      "stepOverrides": {
-        "speak": {
-          "word": "The girl jumps",
-          "sentence": "The girl jumps",
-          "spoken": "Hello",
-          "translation": "",
-          "imageFile": "",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-        },
-        "write": {
-          "word": "Hello",
-          "sentence": "",
-          "spoken": "الأفعال",
-          "translation": "",
-          "imageFile": "",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_write_x_1795090485497_miw5i.jpg"
-        },
-        "choice": {
-          "question": "Which picture is The girl jumps?",
-          "options": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-              "correct": true,
-              "label": "The girl jumps"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
-              "correct": false,
-              "label": "Hello"
-            },
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-              "correct": false,
-              "label": "cat"
-            },
-            {
-              "word": "dog",
-              "sentence": "dog",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_x_1795089842690_396cn.jpg",
-              "correct": false,
-              "label": "dog"
-            }
-          ]
-        },
-        "intro": {
-          "items": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_x_1795088875894_d8a0j.jpg"
-            },
-            {
-              "word": "These boys are playing",
-              "sentence": "These boys are playing",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_x_1795088948264_m6yvl.jpg"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_x_1795089091487_vw4rv.jpg"
-            }
-          ]
-        },
-        "listen": {
-          "sentence": "This boy is running",
-          "spoken": "This boy is running",
-          "choices": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-              "correct": false,
-              "label": "The girl jumps"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_x_1795090065292_evk7a.jpg",
-              "correct": true,
-              "label": "This boy is running"
-            },
-            {
-              "word": "These boys are playing",
-              "sentence": "These boys are playing",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_x_1795090103629_08pxo.jpg",
-              "correct": false,
-              "label": "These boys are playing"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_x_1795090834084_kcine.jpg",
-              "correct": false,
-              "label": "Hello"
-            }
-          ]
-        },
-        "match": {
-          "pairs": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg"
-            },
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-            }
-          ]
-        }
-      },
-      "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-      "spoken": "Hello",
-      "appIndex": 141
     }
   ]
 }
