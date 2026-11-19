@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:05:31.344Z",
+  "generatedAt": "2026-11-19T09:07:49.420Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -120,6 +120,16 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
+            },
+            {
+              "word": "sister",
+              "sentence": "this is sister",
+              "spoken": "",
+              "translation": "هذه أختي",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_0_0_1795079010039_a2632.jpg"
             }
           ]
         },
