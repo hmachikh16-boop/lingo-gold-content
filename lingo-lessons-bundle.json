@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:22:00.915Z",
+  "generatedAt": "2026-11-19T09:26:05.892Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
       "seedIdx": 0,
       "appIndex": 0,
       "word": "A boy",
-      "sentence": "A boy.",
+      "sentence": "A boy",
       "spoken": "",
       "translation": "",
       "options": [
@@ -23,28 +23,23 @@
       "order": 1,
       "category": "Verb To Be",
       "isActive": true,
+      "id": "NJoUaEmypBvJ1tmzRPCM",
+      "categoryId": "HVQZF8VhShFUuNggw7eB",
+      "createdAt": null,
+      "updatedAt": null,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795079664746_y9qzn.jpg",
       "stepOverrides": {
         "intro": {
           "items": [
             {
               "word": "A boy",
-              "sentence": "A boy.",
+              "sentence": "A boy",
               "spoken": "",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://example.com/img2.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795079664746_y9qzn.jpg"
             },
             {
               "word": "A girl",
@@ -77,14 +72,32 @@
               "imageUrl": ""
             },
             {
-              "word": "Boy",
-              "sentence": "",
+              "word": "sister",
+              "sentence": "this is sister",
+              "spoken": "",
+              "translation": "هذه أختي",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_9_0_1795079309147_71sxz.jpg"
+            }
+          ]
+        },
+        "listen": {
+          "sentence": "A boy.",
+          "spoken": "",
+          "choices": [
+            {
+              "word": "A boy",
+              "sentence": "A boy.",
               "spoken": "",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": ""
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_0_1795078144765_d7f4t.jpg",
+              "correct": true,
+              "label": "A boy"
             },
             {
               "word": "Girl",
@@ -94,7 +107,9 @@
               "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": ""
+              "imageUrl": "",
+              "correct": false,
+              "label": "Girl"
             },
             {
               "word": "Cat",
@@ -104,7 +119,9 @@
               "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": ""
+              "imageUrl": "",
+              "correct": false,
+              "label": "Cat"
             },
             {
               "word": "Dog",
@@ -114,7 +131,9 @@
               "imageFile": "n41",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": ""
+              "imageUrl": "",
+              "correct": false,
+              "label": "Dog"
             }
           ]
         }
@@ -264,7 +283,7 @@
       "title": "الدرس 1 • A big dog",
       "lessonNumber": 1,
       "order": 1,
-      "category": "Verb To Be",
+      "category": "Adjectives",
       "isActive": true
     },
     {
