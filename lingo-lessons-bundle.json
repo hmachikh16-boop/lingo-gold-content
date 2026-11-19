@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:14:24.463Z",
+  "generatedAt": "2026-11-19T22:16:00.960Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1692,7 +1692,7 @@
       "appIndex": 6,
       "word": "A red apple",
       "sentence": "A red apple.",
-      "spoken": "",
+      "spoken": "A red apple.",
       "translation": "",
       "options": [
         "Red",
@@ -1713,7 +1713,7 @@
             {
               "word": "A red apple",
               "sentence": "A red apple.",
-              "spoken": "",
+              "spoken": "A red apple.",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1775,7 +1775,7 @@
         "speak": {
           "word": "A red apple",
           "sentence": "A red apple.",
-          "spoken": "",
+          "spoken": "A red apple.",
           "translation": "",
           "imageFile": "q4",
           "isPack": false,
@@ -1789,7 +1789,7 @@
             {
               "word": "A red apple",
               "sentence": "A red apple.",
-              "spoken": "",
+              "spoken": "A red apple.",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1842,7 +1842,7 @@
             {
               "word": "A red apple",
               "sentence": "A red apple.",
-              "spoken": "",
+              "spoken": "A red apple.",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1877,7 +1877,7 @@
             {
               "word": "A red apple",
               "sentence": "A red apple.",
-              "spoken": "",
+              "spoken": "A red apple.",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1923,7 +1923,7 @@
         "write": {
           "word": "A red apple",
           "sentence": "A red apple.",
-          "spoken": "",
+          "spoken": "A red apple.",
           "translation": "",
           "imageFile": "q4",
           "isPack": false,
