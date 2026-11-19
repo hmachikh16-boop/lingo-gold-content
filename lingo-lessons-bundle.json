@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:49:39.703Z",
+  "generatedAt": "2026-11-19T13:50:38.459Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1296,7 +1296,7 @@
               "label": "I am eating"
             },
             {
-              "word": "Drinking",
+              "word": "I drink",
               "sentence": "",
               "spoken": "",
               "translation": "",
@@ -1305,7 +1305,7 @@
               "indexInPack": 0,
               "imageUrl": "",
               "correct": false,
-              "label": "Drinking"
+              "label": "I drink"
             },
             {
               "word": "Running",
