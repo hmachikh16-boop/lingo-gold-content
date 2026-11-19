@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:42:47.855Z",
+  "generatedAt": "2026-11-19T16:42:55.148Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1416,8 +1416,8 @@
             },
             {
               "word": "I am sleeping",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "I am sleeping",
+              "spoken": "I am sleeping",
               "translation": "",
               "imageFile": "n20",
               "isPack": true,
