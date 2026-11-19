@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:24:40.903Z",
+  "generatedAt": "2026-11-19T16:25:35.283Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1060,8 +1060,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The boy and the girl.",
-          "spoken": "The boy and the girl.",
+          "sentence": " girl.",
+          "spoken": " girl.",
           "choices": [
             {
               "word": "The boy and the girl",
@@ -1072,7 +1072,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": false,
+              "label": "The boy and the girl"
             },
             {
               "word": "Boy",
@@ -1083,7 +1084,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Boy"
             },
             {
               "word": "Girl",
@@ -1094,7 +1096,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": true,
+              "label": "Girl"
             },
             {
               "word": "Cat",
@@ -1105,7 +1108,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Cat"
             }
           ]
         },
