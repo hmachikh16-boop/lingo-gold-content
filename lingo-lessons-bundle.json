@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:54:36.578Z",
+  "generatedAt": "2026-11-19T22:54:41.118Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2249,8 +2249,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The ball is Blue.",
-          "spoken": "The ball is Blue.",
+          "sentence": "The ball is Yellow.",
+          "spoken": "The ball is Yellow.",
           "choices": [
             {
               "word": "Blue",
@@ -2261,7 +2261,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "Blue"
             },
             {
@@ -2297,7 +2297,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "Yellow"
             }
           ],
