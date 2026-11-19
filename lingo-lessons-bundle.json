@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:06:26.921Z",
+  "generatedAt": "2026-11-19T10:07:30.193Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -130,7 +130,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "A boy"
             },
             {
@@ -146,7 +146,7 @@
               "label": "A girl"
             },
             {
-              "word": "A cat",
+              "word": "A kitten",
               "sentence": "",
               "spoken": "",
               "translation": "",
@@ -154,8 +154,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
-              "label": "A cat"
+              "correct": false,
+              "label": "A kitten"
             },
             {
               "word": "A dog",
