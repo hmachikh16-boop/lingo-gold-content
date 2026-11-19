@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:00:40.760Z",
+  "generatedAt": "2026-11-19T10:04:37.700Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -172,7 +172,7 @@
               "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_0_1795082674921_7l42d.jpg",
               "correct": false,
               "label": "A cat"
             },
