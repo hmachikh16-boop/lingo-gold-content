@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:07:47.950Z",
+  "generatedAt": "2026-11-19T12:08:13.715Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3543,6 +3543,18 @@
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_x_1795090065292_evk7a.jpg",
               "correct": false,
               "label": "This boy is running"
+            },
+            {
+              "word": "These boys are playing",
+              "sentence": "These boys are playing",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795089171897_fzhgi.jpg",
+              "correct": false,
+              "label": "These boys are playing"
             }
           ]
         },
