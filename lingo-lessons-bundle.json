@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:52:48.911Z",
+  "generatedAt": "2026-11-19T16:52:42.014Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1464,7 +1464,7 @@
     {
       "seedIdx": 6,
       "appIndex": 6,
-      "word": "yellow",
+      "word": "A red apple",
       "sentence": "yellow",
       "spoken": "yellow",
       "translation": "",
@@ -1485,7 +1485,7 @@
         "intro": {
           "items": [
             {
-              "word": "yellow",
+              "word": "A red apple",
               "sentence": "yellow",
               "spoken": "yellow",
               "translation": "",
@@ -1547,7 +1547,7 @@
           ]
         },
         "speak": {
-          "word": "yellow",
+          "word": "A red apple",
           "sentence": "yellow",
           "spoken": "yellow",
           "translation": "",
@@ -1561,7 +1561,7 @@
           "spoken": "Oranges",
           "choices": [
             {
-              "word": "yellow",
+              "word": "A red apple",
               "sentence": "yellow",
               "spoken": "yellow",
               "translation": "",
@@ -1613,7 +1613,7 @@
         "match": {
           "pairs": [
             {
-              "word": "yellow",
+              "word": "A red apple",
               "sentence": "yellow",
               "spoken": "yellow",
               "translation": "",
@@ -1648,7 +1648,7 @@
           "question": "Which picture is A red apple?",
           "options": [
             {
-              "word": "yellow",
+              "word": "A red apple",
               "sentence": "yellow",
               "spoken": "yellow",
               "translation": "",
@@ -1694,7 +1694,7 @@
           ]
         },
         "write": {
-          "word": "yellow",
+          "word": "A red apple",
           "sentence": "yellow",
           "spoken": "yellow",
           "translation": "",
