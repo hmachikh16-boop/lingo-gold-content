@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:14:05.944Z",
+  "generatedAt": "2026-11-19T12:14:14.799Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3390,7 +3390,7 @@
     {
       "title": "الدرس 8 • الأفعال",
       "word": "The girl jumps",
-      "sentence": "The girl jumps",
+      "sentence": "These boys are playing",
       "translation": "",
       "options": [],
       "category": "Verb To Be",
@@ -3401,8 +3401,8 @@
       "stepOverrides": {
         "speak": {
           "word": "The girl jumps",
-          "sentence": "The girl jumps",
-          "spoken": "The girl jumps",
+          "sentence": "These boys are playing",
+          "spoken": "These boys are playing",
           "translation": "",
           "imageFile": "",
           "isPack": false,
@@ -3476,7 +3476,7 @@
           "items": [
             {
               "word": "The girl jumps",
-              "sentence": "The girl jumps",
+              "sentence": "These boys are playing",
               "spoken": "Hello",
               "translation": "",
               "imageFile": "",
@@ -3517,8 +3517,8 @@
           ]
         },
         "listen": {
-          "sentence": "The girl jumps",
-          "spoken": "The girl jumps",
+          "sentence": "These boys are playing",
+          "spoken": "These boys are playing",
           "choices": [
             {
               "word": "Hello",
@@ -3529,7 +3529,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795089171897_fzhgi.jpg",
-              "correct": true,
+              "correct": false,
               "label": "Hello"
             },
             {
@@ -3553,7 +3553,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_x_1795090103629_08pxo.jpg",
-              "correct": false,
+              "correct": true,
               "label": "These boys are playing"
             }
           ]
