@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T14:51:05.187Z",
+  "generatedAt": "2026-11-19T15:01:54.389Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -884,9 +884,9 @@
         "match": {
           "pairs": [
             {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
+              "word": "The boy is drinking",
+              "sentence": "The boy is drinking.",
+              "spoken": "The boy is drinking.",
               "translation": "",
               "imageFile": "n19",
               "isPack": true,
@@ -920,8 +920,8 @@
           "options": [
             {
               "word": "The boy is drinking",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "The boy is drinking.",
+              "spoken": "The boy is drinking.",
               "translation": "",
               "imageFile": "n19",
               "isPack": true,
