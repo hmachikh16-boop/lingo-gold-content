@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:12:10.986Z",
+  "generatedAt": "2026-11-19T22:12:28.584Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1634,7 +1634,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "A big dog"
             },
             {
               "word": "A small rabbit",
@@ -1645,7 +1646,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "A small rabbit"
             },
             {
               "word": "A small dog",
@@ -1656,18 +1658,20 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "A small dog"
             },
             {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
+              "word": "cat",
+              "sentence": "cat",
+              "spoken": "cat",
               "translation": "",
               "imageFile": "q6",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": " cat"
             }
           ]
         },
