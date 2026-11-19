@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:08:48.290Z",
+  "generatedAt": "2026-11-19T11:10:10.343Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -224,6 +224,16 @@
               "label": "Dog"
             }
           ]
+        },
+        "speak": {
+          "word": "ZZZ",
+          "sentence": "ZZZ speaks.",
+          "spoken": "ZZZ speaks.",
+          "translation": "",
+          "imageFile": "q0",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": ""
         }
       }
     },
