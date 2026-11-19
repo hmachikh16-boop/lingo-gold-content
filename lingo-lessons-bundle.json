@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:08:40.697Z",
+  "generatedAt": "2026-11-19T11:08:48.290Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -47,8 +47,8 @@
               "imageUrl": "https://example.com/img2.jpg"
             },
             {
-              "word": "A girl",
-              "sentence": "",
+              "word": "ZZZ",
+              "sentence": "ZZZ sentence.",
               "spoken": "",
               "translation": "",
               "imageFile": "n02",
@@ -146,8 +146,8 @@
               "label": "A girl"
             },
             {
-              "word": "A kitten",
-              "sentence": "",
+              "word": "ZZZ",
+              "sentence": "ZZZ chooses.",
               "spoken": "",
               "translation": "",
               "imageFile": "n42",
@@ -172,7 +172,7 @@
           ]
         },
         "listen": {
-          "sentence": "Where is the cat?",
+          "sentence": "Where is ZZZ?",
           "spoken": "A boy.",
           "choices": [
             {
@@ -200,8 +200,8 @@
               "label": "Girl"
             },
             {
-              "word": "Cat",
-              "sentence": "",
+              "word": "ZZZ",
+              "sentence": "ZZZ listens.",
               "spoken": "",
               "translation": "",
               "imageFile": "n42",
