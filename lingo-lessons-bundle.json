@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:11:08.091Z",
+  "generatedAt": "2026-11-19T22:11:16.845Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1569,16 +1569,16 @@
               "label": "Cat"
             },
             {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
+              "word": "A small dog",
+              "sentence": "A small dog",
+              "spoken": "A small dog",
               "translation": "",
               "imageFile": "n41",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
               "correct": false,
-              "label": "Dog"
+              "label": "A small dog"
             }
           ],
           "word": "A big dog",
