@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:38:03.157Z",
+  "generatedAt": "2026-11-19T13:39:27.534Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1140,7 +1140,7 @@
           ]
         },
         "choice": {
-          "question": "Which picture is The boy and the girl?",
+          "question": "Which picture is The A cat?",
           "options": [
             {
               "word": "The boy and the girl",
@@ -1151,7 +1151,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": false,
+              "label": "The boy and the girl"
             },
             {
               "word": "A boy",
@@ -1162,7 +1163,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "A boy"
             },
             {
               "word": "A girl",
@@ -1173,7 +1175,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "A girl"
             },
             {
               "word": "A cat",
@@ -1184,7 +1187,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": true,
+              "label": "A cat"
             }
           ]
         },
