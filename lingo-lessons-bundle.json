@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:06:53.285Z",
+  "generatedAt": "2026-11-19T12:07:37.177Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3531,6 +3531,18 @@
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795089171897_fzhgi.jpg",
               "correct": true,
               "label": "Hello"
+            },
+            {
+              "word": "This boy is running",
+              "sentence": "This boy is running",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795089171897_fzhgi.jpg",
+              "correct": false,
+              "label": "This boy is running"
             }
           ]
         },
