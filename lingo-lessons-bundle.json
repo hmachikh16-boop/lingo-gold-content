@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:03:44.747Z",
+  "generatedAt": "2026-11-19T23:03:50.658Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2646,8 +2646,8 @@
       "seedIdx": 133,
       "appIndex": 133,
       "word": "Yellow",
-      "sentence": "The ball is Yellow.",
-      "spoken": "The ball is Yellow.",
+      "sentence": "Yellow.",
+      "spoken": "Yellow.",
       "translation": "",
       "options": [
         "Yellow",
@@ -2668,8 +2668,8 @@
           "items": [
             {
               "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "",
               "imageFile": "color_yellow",
               "isPack": false,
@@ -2710,8 +2710,8 @@
         },
         "speak": {
           "word": "The ball is Yellow.",
-          "sentence": "The ball is Yellow.",
-          "spoken": "The ball is Yellow.",
+          "sentence": "Yellow.",
+          "spoken": "Yellow.",
           "translation": "",
           "imageFile": "color_yellow",
           "isPack": false,
@@ -2719,13 +2719,13 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The ball is Yellow.",
-          "spoken": "The ball is Yellow.",
+          "sentence": "Yellow.",
+          "spoken": "Yellow.",
           "choices": [
             {
               "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "",
               "imageFile": "color_yellow",
               "isPack": false,
@@ -2735,8 +2735,8 @@
             },
             {
               "word": "Red",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
@@ -2746,8 +2746,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
@@ -2757,8 +2757,8 @@
             },
             {
               "word": "Green",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
@@ -2778,8 +2778,8 @@
           "pairs": [
             {
               "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "",
               "imageFile": "color_yellow",
               "isPack": false,
@@ -2788,8 +2788,8 @@
             },
             {
               "word": "Red",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
@@ -2798,8 +2798,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
@@ -2813,8 +2813,8 @@
           "options": [
             {
               "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "",
               "imageFile": "color_yellow",
               "isPack": false,
@@ -2824,8 +2824,8 @@
             },
             {
               "word": "Red",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
@@ -2835,8 +2835,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
@@ -2846,8 +2846,8 @@
             },
             {
               "word": "Green",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
+              "sentence": "Yellow.",
+              "spoken": "Yellow.",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
@@ -2859,8 +2859,8 @@
         },
         "write": {
           "word": "Yellow",
-          "sentence": "The ball is Yellow.",
-          "spoken": "The ball is Yellow.",
+          "sentence": "Yellow.",
+          "spoken": "Yellow.",
           "translation": "",
           "imageFile": "color_yellow",
           "isPack": false,
