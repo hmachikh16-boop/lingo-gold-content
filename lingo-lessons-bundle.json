@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:02:00.198Z",
+  "generatedAt": "2026-11-19T12:02:17.294Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3420,19 +3420,19 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089717445_7aijj.jpg"
         },
         "choice": {
-          "question": "Which picture is Hello?",
+          "question": "Which picture is The girl jumps?",
           "options": [
             {
-              "word": "Hello",
-              "sentence": "",
-              "spoken": "",
+              "word": "The girl jumps",
+              "sentence": "The girl jumps",
+              "spoken": "The girl jumps",
               "translation": "",
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
               "correct": true,
-              "label": "Hello"
+              "label": "The girl jumps"
             }
           ]
         },
