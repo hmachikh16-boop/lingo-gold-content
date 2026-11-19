@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:05:39.061Z",
+  "generatedAt": "2026-11-19T11:08:40.697Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
       "seedIdx": 0,
       "appIndex": 0,
       "word": "A boy",
-      "sentence": "This is a boy",
-      "spoken": "This is a boy",
+      "sentence": "A boy.",
+      "spoken": "A boy.",
       "translation": "",
       "options": [
         "Boy",
@@ -23,75 +23,173 @@
       "order": 1,
       "category": "Verb To Be",
       "isActive": true,
-      "id": "NJoUaEmypBvJ1tmzRPCM",
-      "categoryId": "HVQZF8VhShFUuNggw7eB",
-      "createdAt": null,
-      "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg",
       "stepOverrides": {
         "intro": {
           "items": [
             {
               "word": "A boy",
-              "sentence": "This is a boy",
-              "spoken": "This is a boy",
+              "sentence": "A boy.",
+              "spoken": "A boy.",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg"
+              "imageUrl": ""
             },
             {
-              "word": "A Cat",
-              "sentence": "This is a cat",
+              "word": "A boy",
+              "sentence": "",
               "spoken": "",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_0_1795081276427_nbo8a.jpg"
+              "imageUrl": "https://example.com/img2.jpg"
             },
             {
-              "word": "َA girl",
-              "sentence": "This is a girl",
+              "word": "A girl",
+              "sentence": "",
               "spoken": "",
               "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
+              "imageFile": "n02",
+              "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_0_1795081622965_8eark.jpg"
+              "imageUrl": ""
+            },
+            {
+              "word": "A cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
             },
             {
               "word": "A dog",
-              "sentence": "This is a dog",
+              "sentence": "",
               "spoken": "",
               "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
+              "imageFile": "n41",
+              "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_0_1795081677542_ryxtj.jpg"
-            }
-          ]
-        },
-        "listen": {
-          "sentence": "Where do you see the boy?",
-          "spoken": "",
-          "choices": [
+              "imageUrl": ""
+            },
             {
-              "word": "A boy",
-              "sentence": "A boy.",
+              "word": "Boy",
+              "sentence": "",
               "spoken": "",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_0_1795078144765_d7f4t.jpg",
-              "correct": true,
-              "label": "A boy"
+              "imageUrl": ""
             },
             {
               "word": "Girl",
               "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is ZZZ?",
+          "options": [
+            {
+              "word": "ZZZ",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true,
+              "label": "ZZZ"
+            },
+            {
+              "word": "A girl",
+              "sentence": "A girl smiles.",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "word": "A kitten",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "A kitten"
+            },
+            {
+              "word": "A dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "A dog"
+            }
+          ]
+        },
+        "listen": {
+          "sentence": "Where is the cat?",
+          "spoken": "A boy.",
+          "choices": [
+            {
+              "word": "A boy",
+              "sentence": "A boy.",
+              "spoken": "A boy.",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "word": "A girl",
+              "sentence": "A girl is here.",
               "spoken": "",
               "translation": "",
               "imageFile": "n02",
@@ -109,8 +207,8 @@
               "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_0_1795081745343_tgw6n.jpg",
-              "correct": false,
+              "imageUrl": "",
+              "correct": true,
               "label": "Cat"
             },
             {
@@ -121,72 +219,9 @@
               "imageFile": "n41",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_0_1795081729204_kv92t.jpg",
-              "correct": false,
-              "label": "Dog"
-            }
-          ]
-        },
-        "write": {
-          "word": "Dog",
-          "sentence": "A boy",
-          "spoken": "A boy",
-          "translation": "",
-          "imageFile": "q0",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795081851093_k065u.jpg"
-        },
-        "choice": {
-          "question": "Where do you see the a cat?",
-          "options": [
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_0_0_1795083131459_twr8c.jpg",
-              "correct": false,
-              "label": "A boy"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
               "imageUrl": "",
               "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_0_1795082674921_7l42d.jpg",
-              "correct": true,
-              "label": "A cat"
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_0_1795081918146_quv2v.jpg",
-              "correct": false,
-              "label": "A dog"
+              "label": "Dog"
             }
           ]
         }
@@ -195,9 +230,9 @@
     {
       "seedIdx": 1,
       "appIndex": 1,
-      "word": "A Girl",
-      "sentence": "A Girl",
-      "spoken": "Rabbit",
+      "word": "A girl",
+      "sentence": "A girl.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Girl",
@@ -211,135 +246,14 @@
       "lessonNumber": 2,
       "order": 2,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "A Girl",
-              "sentence": "A Girl",
-              "spoken": "Rabbit",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Rabbit",
-              "sentence": "This is a rabbit",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_1_1795084597327_myauy.jpg"
-            }
-          ]
-        },
-        "listen": {
-          "sentence": "Where's the dog?",
-          "spoken": "A girl.",
-          "choices": [
-            {
-              "word": "A girl",
-              "sentence": "A girl.",
-              "spoken": "A girl.",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Boy"
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Dog"
-            }
-          ]
-        },
-        "write": {
-          "word": "Rabbit",
-          "sentence": "A girl.",
-          "spoken": "A girl.",
-          "translation": "",
-          "imageFile": "n02",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795084706737_f6q0k.jpg"
-        },
-        "speak": {
-          "word": "Rabbit",
-          "sentence": "Rabbit",
-          "spoken": "Rabbit",
-          "translation": "",
-          "imageFile": "n02",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795084706737_f6q0k.jpg"
-        }
-      },
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+      "isActive": true
     },
     {
       "seedIdx": 2,
       "appIndex": 2,
       "word": "A cat",
       "sentence": "A cat.",
-      "spoken": "A cat.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Cat",
@@ -353,160 +267,7 @@
       "lessonNumber": 3,
       "order": 3,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "A cat",
-              "sentence": "A cat.",
-              "spoken": "A cat.",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "choice": {
-          "question": "Which picture is A dog?",
-          "options": [
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A cat"
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "A dog"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A boy"
-            }
-          ]
-        },
-        "listen": {
-          "sentence": "Where's the dog?",
-          "spoken": "A cat.",
-          "choices": [
-            {
-              "word": "A cat",
-              "sentence": "A cat.",
-              "spoken": "A cat.",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Dog"
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Girl"
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Boy"
-            }
-          ]
-        }
-      }
+      "isActive": true
     },
     {
       "seedIdx": 3,
@@ -610,7 +371,7 @@
       "title": "الدرس 1 • A big dog",
       "lessonNumber": 1,
       "order": 1,
-      "category": "Adjectives",
+      "category": "Verb To Be",
       "isActive": true
     },
     {
