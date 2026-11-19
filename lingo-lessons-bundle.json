@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:12:00.146Z",
+  "generatedAt": "2026-11-19T22:12:09.755Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1679,7 +1679,7 @@
           "imageFile": "q2",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": ""
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_write_5_1795126327085_p1ii2.jpg"
         }
       }
     },
