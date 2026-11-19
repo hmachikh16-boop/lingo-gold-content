@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:53:40.260Z",
+  "generatedAt": "2026-11-19T22:53:58.636Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2208,8 +2208,8 @@
             },
             {
               "word": "Red",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
+              "sentence": "The ball is Red.",
+              "spoken": "The ball is Red.",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
