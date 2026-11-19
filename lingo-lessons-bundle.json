@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T00:05:00.000Z",
+  "generatedAt": "2026-11-19T14:10:00.045Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
       "seedIdx": 0,
       "appIndex": 0,
-      "word": "CDN_TEST",
+      "word": "A boy",
       "sentence": "a boy",
       "spoken": "This is a boy",
       "translation": "",
