@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:44:28.378Z",
+  "generatedAt": "2026-11-19T11:47:05.989Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3389,7 +3389,7 @@
   "newLessons": [
     {
       "title": "الدرس 8 • الأفعال",
-      "word": "She jumps",
+      "word": "This girl is jumping",
       "sentence": "",
       "translation": "",
       "options": [],
@@ -3400,9 +3400,9 @@
       "isActive": true,
       "stepOverrides": {
         "speak": {
-          "word": "She jumps",
-          "sentence": "She jumps",
-          "spoken": "She jumps",
+          "word": "This girl is jumping",
+          "sentence": "This girl is jumping",
+          "spoken": "This girl is jumping",
           "translation": "",
           "imageFile": "",
           "isPack": false,
@@ -3410,7 +3410,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
         },
         "write": {
-          "word": "She jumps",
+          "word": "This girl is jumping",
           "sentence": "",
           "spoken": "الأفعال",
           "translation": "",
@@ -3420,7 +3420,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
         },
         "choice": {
-          "question": "Which picture is She jumps?",
+          "question": "Which picture is This girl is jumping?",
           "options": [
             {
               "word": "الأفعال",
@@ -3438,7 +3438,7 @@
         }
       },
       "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
-      "spoken": "She jumps",
+      "spoken": "This girl is jumping",
       "appIndex": 140
     }
   ]
