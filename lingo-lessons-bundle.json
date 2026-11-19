@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:40:52.821Z",
+  "generatedAt": "2026-11-19T11:41:16.287Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3386,5 +3386,20 @@
       "isActive": true
     }
   ],
-  "newLessons": []
+  "newLessons": [
+    {
+      "title": "الدرس 8 • الأفعال",
+      "word": "الأفعال",
+      "sentence": "",
+      "translation": "",
+      "options": [],
+      "category": "Verb To Be",
+      "categoryId": "app::Verb To Be",
+      "order": 8,
+      "lessonNumber": 8,
+      "isActive": true,
+      "spoken": "الأفعال",
+      "appIndex": 140
+    }
+  ]
 }
