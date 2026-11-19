@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:57:17.087Z",
+  "generatedAt": "2026-11-19T10:57:51.291Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -453,7 +453,7 @@
           ]
         },
         "listen": {
-          "sentence": "A dog.",
+          "sentence": "Where's the dog?",
           "spoken": "A cat.",
           "choices": [
             {
