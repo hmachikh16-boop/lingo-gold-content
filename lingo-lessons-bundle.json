@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:04:29.548Z",
+  "generatedAt": "2026-11-19T23:04:43.039Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2820,18 +2820,20 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "Yellow"
             },
             {
               "word": "Red",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
+              "sentence": "Red.",
+              "spoken": "Red.",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Red"
             },
             {
               "word": "Blue",
@@ -2842,7 +2844,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Blue"
             },
             {
               "word": "Green",
@@ -2853,7 +2856,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Green"
             }
           ]
         },
