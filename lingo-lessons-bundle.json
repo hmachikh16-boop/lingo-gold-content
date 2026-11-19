@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:09:56.821Z",
+  "generatedAt": "2026-11-19T22:10:02.209Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1529,8 +1529,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "A big dog.",
-          "spoken": "A big dog.",
+          "sentence": "A small rabbit",
+          "spoken": "A small rabbit",
           "choices": [
             {
               "word": "A big dog",
@@ -1541,7 +1541,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "A big dog"
             },
             {
@@ -1553,7 +1553,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "A small rabbit"
             },
             {
