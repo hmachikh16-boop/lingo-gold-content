@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:04:54.131Z",
+  "generatedAt": "2026-11-19T23:04:59.575Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2849,8 +2849,8 @@
             },
             {
               "word": "Green",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
+              "sentence": "Green.",
+              "spoken": "Green.",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
