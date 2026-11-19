@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:49:50.417Z",
+  "generatedAt": "2026-11-19T16:49:55.953Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1465,8 +1465,8 @@
       "seedIdx": 6,
       "appIndex": 6,
       "word": "A red apple",
-      "sentence": "A red apple.",
-      "spoken": "A red apple.",
+      "sentence": "yellow",
+      "spoken": "yellow",
       "translation": "",
       "options": [
         "Red",
@@ -1486,8 +1486,8 @@
           "items": [
             {
               "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
+              "sentence": "yellow",
+              "spoken": "yellow",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1548,8 +1548,8 @@
         },
         "speak": {
           "word": "A red apple",
-          "sentence": "A red apple.",
-          "spoken": "A red apple.",
+          "sentence": "yellow",
+          "spoken": "yellow",
           "translation": "",
           "imageFile": "q4",
           "isPack": false,
@@ -1562,8 +1562,8 @@
           "choices": [
             {
               "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
+              "sentence": "yellow",
+              "spoken": "yellow",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1614,8 +1614,8 @@
           "pairs": [
             {
               "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
+              "sentence": "yellow",
+              "spoken": "yellow",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1649,8 +1649,8 @@
           "options": [
             {
               "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
+              "sentence": "yellow",
+              "spoken": "yellow",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1695,8 +1695,8 @@
         },
         "write": {
           "word": "A red apple",
-          "sentence": "A red apple.",
-          "spoken": "A red apple.",
+          "sentence": "yellow",
+          "spoken": "yellow",
           "translation": "",
           "imageFile": "q4",
           "isPack": false,
