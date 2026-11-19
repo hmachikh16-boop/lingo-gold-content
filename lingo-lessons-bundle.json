@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:12:23.707Z",
+  "generatedAt": "2026-11-19T09:14:27.899Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -27,19 +27,19 @@
       "categoryId": "HVQZF8VhShFUuNggw7eB",
       "createdAt": null,
       "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795078979650_juw99.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795079664746_y9qzn.jpg",
       "stepOverrides": {
         "intro": {
           "items": [
             {
               "word": "A boy",
-              "sentence": "A boy.",
+              "sentence": "A boy",
               "spoken": "",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_0_0_1795079455942_y4tnp.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795079664746_y9qzn.jpg"
             },
             {
               "word": "A boy",
