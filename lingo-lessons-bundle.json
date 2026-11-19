@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:40:22.084Z",
+  "generatedAt": "2026-11-19T11:40:29.538Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -330,31 +330,11 @@
               "imageUrl": ""
             },
             {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
               "word": "Dog",
               "sentence": "",
               "spoken": "",
               "translation": "",
               "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
