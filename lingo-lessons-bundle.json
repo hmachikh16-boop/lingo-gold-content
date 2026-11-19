@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:17:20.509Z",
+  "generatedAt": "2026-11-19T22:17:33.270Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1762,8 +1762,8 @@
             },
             {
               "word": "Yellow",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "Yellow",
+              "spoken": "Yellow",
               "translation": "",
               "imageFile": "color_yellow",
               "isPack": false,
