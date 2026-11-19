@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:04:48.538Z",
+  "generatedAt": "2026-11-19T23:04:54.131Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2837,8 +2837,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
+              "sentence": "Blue.",
+              "spoken": "Blue.",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
