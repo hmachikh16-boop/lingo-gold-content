@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:01:48.920Z",
+  "generatedAt": "2026-11-19T16:03:11.513Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2953,6 +2953,16 @@
       "translation": "",
       "options": [],
       "appIndex": 140,
+      "isActive": true
+    },
+    {
+      "title": "",
+      "word": "",
+      "sentence": "",
+      "spoken": "",
+      "translation": "",
+      "options": [],
+      "appIndex": 141,
       "isActive": true
     }
   ]
