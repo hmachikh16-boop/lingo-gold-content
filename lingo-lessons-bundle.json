@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T15:43:54.473Z",
+  "generatedAt": "2026-11-19T15:44:35.977Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -811,8 +811,8 @@
             },
             {
               "word": "The boy is sleeping",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "The boy is sleeping",
+              "spoken": "The boy is sleeping",
               "translation": "",
               "imageFile": "n20",
               "isPack": true,
