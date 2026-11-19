@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:21:52.602Z",
+  "generatedAt": "2026-11-19T22:22:21.062Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2014,8 +2014,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The ball is Red",
-          "spoken": "The ball is Red",
+          "sentence": "The ball is Blue",
+          "spoken": "The ball is Blue",
           "choices": [
             {
               "word": "Red",
@@ -2026,7 +2026,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": false,
+              "label": "Red"
             },
             {
               "word": "Blue",
@@ -2037,7 +2038,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": true,
+              "label": "Blue"
             },
             {
               "word": "Green",
@@ -2048,7 +2050,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Green"
             },
             {
               "word": "Yellow",
@@ -2059,7 +2062,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Yellow"
             }
           ],
           "word": "Red",
