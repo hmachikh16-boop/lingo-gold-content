@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:41:05.277Z",
+  "generatedAt": "2026-11-19T16:41:41.030Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1247,8 +1247,8 @@
             },
             {
               "word": "I am drinking",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "I am drinking",
+              "spoken": "I am drinking",
               "translation": "",
               "imageFile": "n19",
               "isPack": true,
