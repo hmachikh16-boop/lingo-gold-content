@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:48:51.912Z",
+  "generatedAt": "2026-11-19T09:49:07.971Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -109,7 +109,7 @@
               "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_0_1795081745343_tgw6n.jpg",
               "correct": false,
               "label": "Cat"
             },
