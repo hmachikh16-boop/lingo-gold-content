@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:46:45.948Z",
+  "generatedAt": "2026-11-19T13:46:51.004Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1263,26 +1263,6 @@
               "spoken": "",
               "translation": "",
               "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
