@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:28:47.074Z",
+  "generatedAt": "2026-11-19T13:31:04.648Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -515,6 +515,16 @@
               "label": "Boy"
             }
           ]
+        },
+        "write": {
+          "word": " cat",
+          "sentence": "A cat.",
+          "spoken": "A cat.",
+          "translation": "",
+          "imageFile": "n42",
+          "isPack": true,
+          "indexInPack": 0,
+          "imageUrl": ""
         }
       }
     },
