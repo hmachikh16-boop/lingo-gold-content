@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:37:18.274Z",
+  "generatedAt": "2026-11-19T13:37:35.794Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -985,7 +985,7 @@
       "appIndex": 7,
       "word": "The boy and the girl",
       "sentence": "The boy and the girl.",
-      "spoken": "",
+      "spoken": "The boy and the girl.",
       "translation": "",
       "options": [
         "Boy",
@@ -999,7 +999,246 @@
       "lessonNumber": 6,
       "order": 6,
       "category": "Verb To Be",
-      "isActive": true
+      "isActive": true,
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "word": "The boy and the girl",
+              "sentence": "The boy and the girl.",
+              "spoken": "The boy and the girl.",
+              "translation": "",
+              "imageFile": "n76",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q6",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Boy and girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n76",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q6",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "speak": {
+          "word": "The boy and the girl",
+          "sentence": "The boy and the girl.",
+          "spoken": "The boy and the girl.",
+          "translation": "",
+          "imageFile": "n76",
+          "isPack": true,
+          "indexInPack": 0,
+          "imageUrl": ""
+        },
+        "listen": {
+          "sentence": "The boy and the girl.",
+          "spoken": "The boy and the girl.",
+          "choices": [
+            {
+              "word": "The boy and the girl",
+              "sentence": "The boy and the girl.",
+              "spoken": "The boy and the girl.",
+              "translation": "",
+              "imageFile": "n76",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q6",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "match": {
+          "pairs": [
+            {
+              "word": "Boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Boy and girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n76",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is The boy and the girl?",
+          "options": [
+            {
+              "word": "The boy and the girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n76",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "A boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "A girl",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "A cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q6",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "write": {
+          "word": "The boy and the girl",
+          "sentence": "The boy and the girl.",
+          "spoken": "The boy and the girl.",
+          "translation": "",
+          "imageFile": "n76",
+          "isPack": true,
+          "indexInPack": 0,
+          "imageUrl": ""
+        }
+      }
     },
     {
       "seedIdx": 8,
