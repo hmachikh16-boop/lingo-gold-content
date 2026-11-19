@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:02:17.294Z",
+  "generatedAt": "2026-11-19T12:02:44.256Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3433,6 +3433,18 @@
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
               "correct": true,
               "label": "The girl jumps"
+            },
+            {
+              "word": "Hello",
+              "sentence": "Hello",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
+              "correct": false,
+              "label": "Hello"
             }
           ]
         },
