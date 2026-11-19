@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:41:16.287Z",
+  "generatedAt": "2026-11-19T11:41:42.325Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3398,6 +3398,46 @@
       "order": 8,
       "lessonNumber": 8,
       "isActive": true,
+      "stepOverrides": {
+        "speak": {
+          "word": "الأفعال",
+          "sentence": "الأفعال",
+          "spoken": "الأفعال",
+          "translation": "",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
+        },
+        "write": {
+          "word": "الأفعال",
+          "sentence": "",
+          "spoken": "الأفعال",
+          "translation": "",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
+        },
+        "choice": {
+          "question": "Which picture is الأفعال?",
+          "options": [
+            {
+              "word": "الأفعال",
+              "sentence": "",
+              "spoken": "الأفعال",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
+              "correct": true,
+              "label": "الأفعال"
+            }
+          ]
+        }
+      },
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
       "spoken": "الأفعال",
       "appIndex": 140
     }
