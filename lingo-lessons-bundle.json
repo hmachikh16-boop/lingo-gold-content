@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:16:45.923Z",
+  "generatedAt": "2026-11-19T10:17:10.518Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -138,7 +138,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795081851093_k065u.jpg"
         },
         "choice": {
-          "question": "Which picture is A boy?",
+          "question": "Which picture is A cat?",
           "options": [
             {
               "word": "A boy",
@@ -149,7 +149,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_0_0_1795083131459_twr8c.jpg",
-              "correct": true,
+              "correct": false,
               "label": "A boy"
             },
             {
@@ -173,7 +173,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_0_1795082674921_7l42d.jpg",
-              "correct": false,
+              "correct": true,
               "label": "A cat"
             },
             {
