@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:46:30.128Z",
+  "generatedAt": "2026-11-19T16:46:37.144Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1598,8 +1598,8 @@
             },
             {
               "word": "Grapes",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "Grapes",
+              "spoken": "Grapes",
               "translation": "",
               "imageFile": "n29",
               "isPack": true,
