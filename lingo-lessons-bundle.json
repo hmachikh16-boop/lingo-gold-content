@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:13:31.442Z",
+  "generatedAt": "2026-11-19T12:13:48.293Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3407,7 +3407,7 @@
           "imageFile": "",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_speak_x_1795090408792_jx57q.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090425442_ssjys.jpg"
         },
         "write": {
           "word": "Hello",
@@ -3417,7 +3417,7 @@
           "imageFile": "",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090191777_fvbhw.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090425442_ssjys.jpg"
         },
         "choice": {
           "question": "Which picture is The girl jumps?",
@@ -3482,7 +3482,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090191777_fvbhw.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090425442_ssjys.jpg"
             },
             {
               "word": "This boy is running",
@@ -3593,7 +3593,7 @@
           ]
         }
       },
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090191777_fvbhw.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090425442_ssjys.jpg",
       "spoken": "Hello",
       "appIndex": 140
     }
