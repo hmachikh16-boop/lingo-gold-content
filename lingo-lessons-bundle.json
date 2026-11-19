@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:17:33.270Z",
+  "generatedAt": "2026-11-19T22:19:10.094Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1883,7 +1883,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "A red apple"
             },
             {
               "word": "A yellow banana",
@@ -1894,18 +1895,20 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "A yellow banana"
             },
             {
-              "word": "An orange",
-              "sentence": "",
-              "spoken": "",
+              "word": "orange",
+              "sentence": "orange",
+              "spoken": "orange",
               "translation": "",
               "imageFile": "n27",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "orange"
             },
             {
               "word": "Grapes",
@@ -1916,7 +1919,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Grapes"
             }
           ]
         },
