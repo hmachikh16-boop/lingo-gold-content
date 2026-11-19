@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:26:00.315Z",
+  "generatedAt": "2026-11-19T11:26:17.772Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -196,7 +196,7 @@
       "seedIdx": 1,
       "appIndex": 1,
       "word": "Rabbit",
-      "sentence": "A Girl",
+      "sentence": "Rabbit",
       "spoken": "Rabbit",
       "translation": "",
       "options": [
@@ -217,7 +217,7 @@
           "items": [
             {
               "word": "Rabbit",
-              "sentence": "A Girl",
+              "sentence": "Rabbit",
               "spoken": "Rabbit",
               "translation": "",
               "imageFile": "n02",
@@ -258,8 +258,8 @@
           ]
         },
         "listen": {
-          "sentence": "A Girl",
-          "spoken": "A girl.",
+          "sentence": "Rabbit",
+          "spoken": "Rabbit",
           "choices": [
             {
               "word": "A girl",
@@ -323,8 +323,8 @@
         },
         "speak": {
           "word": "Rabbit",
-          "sentence": "A Girl",
-          "spoken": "A Girl",
+          "sentence": "Rabbit",
+          "spoken": "Rabbit",
           "translation": "",
           "imageFile": "n02",
           "isPack": true,
