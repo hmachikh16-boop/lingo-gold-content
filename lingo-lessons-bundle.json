@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:16:45.044Z",
+  "generatedAt": "2026-11-19T22:17:01.888Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1731,9 +1731,9 @@
               "imageUrl": ""
             },
             {
-              "word": "An orange",
-              "sentence": "",
-              "spoken": "",
+              "word": "orange",
+              "sentence": "orange",
+              "spoken": "orange",
               "translation": "",
               "imageFile": "n27",
               "isPack": true,
