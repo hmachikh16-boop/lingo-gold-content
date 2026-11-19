@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T08:20:09.047Z",
+  "generatedAt": "2026-11-19T08:20:23.833Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2944,20 +2944,5 @@
       "isActive": true
     }
   ],
-  "newLessons": [
-    {
-      "title": "درس جديد • اختبار",
-      "word": "Test",
-      "sentence": "This is a test",
-      "translation": "اختبار",
-      "options": [],
-      "category": "Verb To Be",
-      "categoryId": "cat0",
-      "order": 99,
-      "lessonNumber": 99,
-      "isActive": true,
-      "spoken": "",
-      "appIndex": 140
-    }
-  ]
+  "newLessons": []
 }
