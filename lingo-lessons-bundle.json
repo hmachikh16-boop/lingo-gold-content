@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:31:57.859Z",
+  "generatedAt": "2026-11-19T10:36:29.692Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -241,6 +241,16 @@
               "spoken": "",
               "translation": "",
               "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Rabbit",
+              "sentence": "This is a rabbit",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
