@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:06:42.641Z",
+  "generatedAt": "2026-11-19T23:06:49.197Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2919,8 +2919,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Blue.",
+              "spoken": "The ball is Blue.",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
