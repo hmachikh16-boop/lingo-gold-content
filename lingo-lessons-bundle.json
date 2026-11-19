@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:55:13.007Z",
+  "generatedAt": "2026-11-19T10:55:17.425Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -414,16 +414,6 @@
               "translation": "",
               "imageFile": "n42",
               "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
               "indexInPack": 0,
               "imageUrl": ""
             },
