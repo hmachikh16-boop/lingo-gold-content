@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:03:23.158Z",
+  "generatedAt": "2026-11-19T23:03:28.319Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2709,7 +2709,7 @@
           ]
         },
         "speak": {
-          "word": "Yellow",
+          "word": "The ball is Yellow.",
           "sentence": "The ball is Yellow.",
           "spoken": "The ball is Yellow.",
           "translation": "",
