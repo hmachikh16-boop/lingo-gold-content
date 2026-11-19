@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T15:46:05.407Z",
+  "generatedAt": "2026-11-19T15:46:41.703Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -832,8 +832,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The boy is drinking.",
-          "spoken": "The boy is drinking.",
+          "sentence": "The boy is sleeping",
+          "spoken": "The boy is sleeping",
           "choices": [
             {
               "word": "The boy is drinking",
@@ -844,7 +844,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "The boy is drinking"
             },
             {
@@ -880,7 +880,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "The boy is sleeping"
             }
           ]
