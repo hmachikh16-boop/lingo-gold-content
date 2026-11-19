@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:20:59.835Z",
+  "generatedAt": "2026-11-19T12:21:56.581Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3517,8 +3517,8 @@
           ]
         },
         "listen": {
-          "sentence": "The girl jumps",
-          "spoken": "The girl jumps",
+          "sentence": "Where is the picture of a boy running?",
+          "spoken": "Where is the picture of a boy running?",
           "choices": [
             {
               "word": "The girl jumps",
