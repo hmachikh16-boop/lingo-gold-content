@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T20:50:47.547Z",
+  "generatedAt": "2026-11-19T20:52:17.569Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -4825,7 +4825,7 @@
           "imageFile": "",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg"
         },
         "write": {
           "word": "Hello",
@@ -4848,7 +4848,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg",
               "correct": true,
               "label": "The girl jumps"
             },
@@ -4872,7 +4872,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg",
               "correct": false,
               "label": "cat"
             },
@@ -4900,7 +4900,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg"
             },
             {
               "word": "This boy is running",
@@ -4946,7 +4946,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg",
               "correct": false,
               "label": "The girl jumps"
             },
@@ -4999,7 +4999,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg"
             },
             {
               "word": "This boy is running",
@@ -5019,12 +5019,12 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg"
             }
           ]
         }
       },
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795100723558_hbux9.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg",
       "spoken": "Hello",
       "appIndex": 140
     }
