@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T19:05:02.957Z",
+  "generatedAt": "2026-11-19T19:19:55.408Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1464,9 +1464,9 @@
     {
       "seedIdx": 6,
       "appIndex": 6,
-      "word": "yellow",
-      "sentence": "yellow",
-      "spoken": "yellow",
+      "word": "A red apple",
+      "sentence": "A red apple.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Red",
@@ -1485,9 +1485,9 @@
         "intro": {
           "items": [
             {
-              "word": "yellow",
-              "sentence": "yellow",
-              "spoken": "yellow",
+              "word": "A red apple",
+              "sentence": "A red apple.",
+              "spoken": "",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1547,9 +1547,9 @@
           ]
         },
         "speak": {
-          "word": "yellow",
-          "sentence": "yellow",
-          "spoken": "yellow",
+          "word": "A red apple",
+          "sentence": "A red apple.",
+          "spoken": "",
           "translation": "",
           "imageFile": "q4",
           "isPack": false,
@@ -1561,9 +1561,9 @@
           "spoken": "Oranges",
           "choices": [
             {
-              "word": "yellow",
-              "sentence": "yellow",
-              "spoken": "yellow",
+              "word": "A red apple",
+              "sentence": "A red apple.",
+              "spoken": "",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1613,9 +1613,9 @@
         "match": {
           "pairs": [
             {
-              "word": "yellow",
-              "sentence": "yellow",
-              "spoken": "yellow",
+              "word": "A red apple",
+              "sentence": "A red apple.",
+              "spoken": "",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1648,9 +1648,9 @@
           "question": "Which picture is A red apple?",
           "options": [
             {
-              "word": "yellow",
-              "sentence": "yellow",
-              "spoken": "yellow",
+              "word": "A red apple",
+              "sentence": "A red apple.",
+              "spoken": "",
               "translation": "",
               "imageFile": "q4",
               "isPack": false,
@@ -1694,16 +1694,17 @@
           ]
         },
         "write": {
-          "word": "yellow",
-          "sentence": "yellow",
-          "spoken": "yellow",
+          "word": "A red apple",
+          "sentence": "A red apple.",
+          "spoken": "",
           "translation": "",
           "imageFile": "q4",
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
         }
-      }
+      },
+      "imageUrl": ""
     },
     {
       "seedIdx": 130,
