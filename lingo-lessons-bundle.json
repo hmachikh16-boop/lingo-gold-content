@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:36:01.515Z",
+  "generatedAt": "2026-11-19T13:37:09.597Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -916,7 +916,7 @@
           ]
         },
         "choice": {
-          "question": "Which picture is The boy is drinking?",
+          "question": "Which picture is The boy is sleeping?",
           "options": [
             {
               "word": "The boy is drinking",
@@ -927,7 +927,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": false,
+              "label": "The boy is drinking"
             },
             {
               "word": "The boy is eating",
@@ -938,7 +939,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "The boy is eating"
             },
             {
               "word": "The boy is running",
@@ -949,7 +951,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "The boy is running"
             },
             {
               "word": "The boy is sleeping",
@@ -960,7 +963,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": true,
+              "label": "The boy is sleeping"
             }
           ]
         },
