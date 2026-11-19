@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:22:43.909Z",
+  "generatedAt": "2026-11-19T13:23:06.078Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3230,8 +3230,8 @@
             },
             {
               "word": "Snow",
-              "sentence": "The ___ is white.",
-              "spoken": "",
+              "sentence": "The Snow is white.",
+              "spoken": "The Snow is white.",
               "translation": "الثلج أبيض.",
               "imageFile": "nat_snow",
               "isPack": false,
