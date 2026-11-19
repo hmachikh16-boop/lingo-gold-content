@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:52:54.737Z",
+  "generatedAt": "2026-11-19T11:53:00.493Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3485,16 +3485,16 @@
           "spoken": "Hello",
           "choices": [
             {
-              "word": "This girl is jumping",
+              "word": "Hello",
               "sentence": "",
-              "spoken": "This girl is jumping",
+              "spoken": "",
               "translation": "",
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795089171897_fzhgi.jpg",
               "correct": true,
-              "label": "This girl is jumping"
+              "label": "Hello"
             }
           ]
         }
