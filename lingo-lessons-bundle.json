@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:41:59.948Z",
+  "generatedAt": "2026-11-19T16:42:39.673Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1387,18 +1387,20 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "I am eating"
             },
             {
               "word": "I am drinking",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "I am drinking",
+              "spoken": "I am drinking",
               "translation": "",
               "imageFile": "n19",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "I am drinking"
             },
             {
               "word": "I am running",
@@ -1409,7 +1411,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "I am running"
             },
             {
               "word": "I am sleeping",
@@ -1420,7 +1423,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "I am sleeping"
             }
           ]
         },
