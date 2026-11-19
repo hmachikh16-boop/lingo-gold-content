@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:07:03.343Z",
+  "generatedAt": "2026-11-19T23:07:26.713Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2955,14 +2955,15 @@
           "choices": [
             {
               "word": "Orange",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Orange.",
+              "spoken": "The ball is Orange.",
               "translation": "الكرة برتقالية.",
               "imageFile": "color_orange",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "Orange"
             },
             {
               "word": "Red",
@@ -2973,7 +2974,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Red"
             },
             {
               "word": "Blue",
@@ -2984,7 +2986,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Blue"
             },
             {
               "word": "Green",
@@ -2995,7 +2998,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Green"
             }
           ],
           "word": "Orange",
