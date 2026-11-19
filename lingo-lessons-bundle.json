@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:09:32.112Z",
+  "generatedAt": "2026-11-19T12:09:35.174Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3400,7 +3400,7 @@
       "isActive": true,
       "stepOverrides": {
         "speak": {
-          "word": "Hello",
+          "word": "The girl jumps",
           "sentence": "The girl jumps",
           "spoken": "The girl jumps",
           "translation": "",
