@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:04:59.575Z",
+  "generatedAt": "2026-11-19T23:06:16.889Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2878,7 +2878,7 @@
       "appIndex": 134,
       "word": "Orange",
       "sentence": "The ball is ___.",
-      "spoken": "",
+      "spoken": "The ball is ___.",
       "translation": "الكرة برتقالية.",
       "options": [
         "Orange",
@@ -2893,7 +2893,212 @@
       "order": 135,
       "category": "Colors",
       "isActive": true,
-      "imageUrl": ""
+      "imageUrl": "",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "word": "Orange",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Red",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_134_1795129574143_mzjar.jpg"
+            },
+            {
+              "word": "Blue",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Green",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة خضراء.",
+              "imageFile": "color_green",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "speak": {
+          "word": "Orange",
+          "sentence": "The ball is ___.",
+          "spoken": "The ball is ___.",
+          "translation": "الكرة برتقالية.",
+          "imageFile": "color_orange",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": ""
+        },
+        "listen": {
+          "sentence": "The ball is ___.",
+          "spoken": "The ball is ___.",
+          "choices": [
+            {
+              "word": "Orange",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Red",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Blue",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Green",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة خضراء.",
+              "imageFile": "color_green",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ],
+          "word": "Orange",
+          "translation": "الكرة برتقالية.",
+          "imageFile": "color_orange",
+          "imageUrl": "",
+          "isPack": false,
+          "indexInPack": 0
+        },
+        "match": {
+          "pairs": [
+            {
+              "word": "Orange",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Red",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Blue",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is Orange?",
+          "options": [
+            {
+              "word": "Orange",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Red",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Blue",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Green",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة خضراء.",
+              "imageFile": "color_green",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "write": {
+          "word": "Orange",
+          "sentence": "The ball is ___.",
+          "spoken": "The ball is ___.",
+          "translation": "الكرة برتقالية.",
+          "imageFile": "color_orange",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": ""
+        }
+      }
     },
     {
       "seedIdx": 135,
