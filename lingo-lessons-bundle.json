@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:32:06.173Z",
+  "generatedAt": "2026-11-19T13:33:06.351Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -604,8 +604,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The boy is eating.",
-          "spoken": "The boy is eating.",
+          "sentence": "Where is the picture of the sleeping boy?",
+          "spoken": "Where is the picture of the sleeping boy?",
           "choices": [
             {
               "word": "The boy is eating",
@@ -616,7 +616,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": false,
+              "label": "The boy is eating"
             },
             {
               "word": "Drinking",
@@ -627,7 +628,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Drinking"
             },
             {
               "word": "Running",
@@ -638,7 +640,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Running"
             },
             {
               "word": "Sleeping",
@@ -649,7 +652,8 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": true,
+              "label": "Sleeping"
             }
           ]
         },
