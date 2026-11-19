@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T15:02:58.819Z",
+  "generatedAt": "2026-11-19T15:05:26.479Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -4437,12 +4437,12 @@
         "speak": {
           "word": "The girl jumps",
           "sentence": "The girl jumps",
-          "spoken": "The girl jumps",
+          "spoken": "Hello",
           "translation": "",
           "imageFile": "",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_speak_x_1795090626761_9jeo6.jpg"
+          "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
         },
         "write": {
           "word": "Hello",
@@ -4460,12 +4460,12 @@
             {
               "word": "The girl jumps",
               "sentence": "The girl jumps",
-              "spoken": "The girl jumps",
+              "spoken": "Hello",
               "translation": "",
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
+              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
               "correct": true,
               "label": "The girl jumps"
             },
@@ -4482,14 +4482,14 @@
               "label": "Hello"
             },
             {
-              "word": "cat",
-              "sentence": "Hello",
+              "word": "The girl jumps",
+              "sentence": "The girl jumps",
               "spoken": "Hello",
               "translation": "",
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_x_1795089789901_t81ia.jpg",
+              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
               "correct": false,
               "label": "cat"
             },
@@ -4517,7 +4517,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090425442_ssjys.jpg"
+              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
             },
             {
               "word": "This boy is running",
@@ -4557,13 +4557,13 @@
           "choices": [
             {
               "word": "The girl jumps",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "The girl jumps",
+              "spoken": "Hello",
               "translation": "",
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795090613898_wqyvk.jpg",
+              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
               "correct": false,
               "label": "The girl jumps"
             },
@@ -4608,14 +4608,14 @@
         "match": {
           "pairs": [
             {
-              "word": "Hello",
-              "sentence": "Hello",
+              "word": "The girl jumps",
+              "sentence": "The girl jumps",
               "spoken": "Hello",
               "translation": "",
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089207749_lq3e0.jpg"
+              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
             },
             {
               "word": "This boy is running",
@@ -4630,17 +4630,17 @@
             {
               "word": "The girl jumps",
               "sentence": "The girl jumps",
-              "spoken": "",
+              "spoken": "Hello",
               "translation": "",
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795089685126_jf99q.jpg"
+              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
             }
           ]
         }
       },
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795090425442_ssjys.jpg",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
       "spoken": "Hello",
       "appIndex": 140
     }
