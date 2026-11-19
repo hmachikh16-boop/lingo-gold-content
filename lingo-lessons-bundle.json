@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:12:47.901Z",
+  "generatedAt": "2026-11-19T22:12:54.198Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1623,7 +1623,7 @@
           ]
         },
         "choice": {
-          "question": "Which picture is A big dog?",
+          "question": "Which picture is A small dog?",
           "options": [
             {
               "word": "A big dog",
@@ -1634,7 +1634,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "A big dog"
             },
             {
@@ -1658,7 +1658,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "A small dog"
             },
             {
