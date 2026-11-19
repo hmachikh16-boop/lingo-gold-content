@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:23:06.078Z",
+  "generatedAt": "2026-11-19T13:23:45.338Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3200,8 +3200,8 @@
           "items": [
             {
               "word": "Tomato",
-              "sentence": "Tomato",
-              "spoken": "Tomato",
+              "sentence": "This is a Tomato",
+              "spoken": "This is a Tomato",
               "translation": "الطماطم حمراء.",
               "imageFile": "food_tomato",
               "isPack": false,
