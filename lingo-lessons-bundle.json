@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:16:52.833Z",
+  "generatedAt": "2026-11-19T09:17:00.000Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -77,16 +77,6 @@
               "spoken": "",
               "translation": "",
               "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": ""
