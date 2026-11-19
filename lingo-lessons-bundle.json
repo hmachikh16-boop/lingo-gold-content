@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:47:15.776Z",
+  "generatedAt": "2026-11-19T11:47:48.991Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3433,6 +3433,30 @@
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
               "correct": true,
               "label": "الأفعال"
+            }
+          ]
+        },
+        "intro": {
+          "items": [
+            {
+              "word": "This girl is jumping",
+              "sentence": "",
+              "spoken": "This girl is jumping",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
+            },
+            {
+              "word": "This boy is running",
+              "sentence": "This boy is running",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
             }
           ]
         }
