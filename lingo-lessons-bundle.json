@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:25:21.595Z",
+  "generatedAt": "2026-11-19T12:25:48.706Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3517,8 +3517,8 @@
           ]
         },
         "listen": {
-          "sentence": "Where is the picture of a boy running?",
-          "spoken": "Where is the picture of a boy running?",
+          "sentence": "This boy is running",
+          "spoken": "This boy is running",
           "choices": [
             {
               "word": "The girl jumps",
@@ -3529,7 +3529,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_x_1795090613898_wqyvk.jpg",
-              "correct": true,
+              "correct": false,
               "label": "The girl jumps"
             },
             {
@@ -3541,7 +3541,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_x_1795090065292_evk7a.jpg",
-              "correct": false,
+              "correct": true,
               "label": "This boy is running"
             },
             {
