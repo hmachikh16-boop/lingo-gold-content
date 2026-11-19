@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:31:08.822Z",
+  "generatedAt": "2026-11-19T13:31:31.992Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -533,7 +533,7 @@
       "appIndex": 3,
       "word": "The boy is eating",
       "sentence": "The boy is eating.",
-      "spoken": "",
+      "spoken": "The boy is eating.",
       "translation": "",
       "options": [
         "Eating",
@@ -547,7 +547,246 @@
       "lessonNumber": 4,
       "order": 4,
       "category": "Verb To Be",
-      "isActive": true
+      "isActive": true,
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "word": "The boy is eating",
+              "sentence": "The boy is eating.",
+              "spoken": "The boy is eating.",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "The boy is drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "The boy is running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "The boy is sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Eating",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "speak": {
+          "word": "The boy is eating",
+          "sentence": "The boy is eating.",
+          "spoken": "The boy is eating.",
+          "translation": "",
+          "imageFile": "n18",
+          "isPack": true,
+          "indexInPack": 0,
+          "imageUrl": ""
+        },
+        "listen": {
+          "sentence": "The boy is eating.",
+          "spoken": "The boy is eating.",
+          "choices": [
+            {
+              "word": "The boy is eating",
+              "sentence": "The boy is eating.",
+              "spoken": "The boy is eating.",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "match": {
+          "pairs": [
+            {
+              "word": "Eating",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is The boy is eating?",
+          "options": [
+            {
+              "word": "The boy is eating",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n18",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "The boy is drinking",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n19",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "The boy is running",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n15",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "The boy is sleeping",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n20",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ]
+        },
+        "write": {
+          "word": "The boy is eating",
+          "sentence": "The boy is eating.",
+          "spoken": "The boy is eating.",
+          "translation": "",
+          "imageFile": "n18",
+          "isPack": true,
+          "indexInPack": 0,
+          "imageUrl": ""
+        }
+      }
     },
     {
       "seedIdx": 4,
