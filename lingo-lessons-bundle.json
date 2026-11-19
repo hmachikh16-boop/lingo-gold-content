@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:09:15.924Z",
+  "generatedAt": "2026-11-19T23:09:37.597Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3055,7 +3055,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true
+              "correct": true,
+              "label": "Orange"
             },
             {
               "word": "Red",
@@ -3066,7 +3067,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Red"
             },
             {
               "word": "Blue",
@@ -3077,7 +3079,8 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false
+              "correct": false,
+              "label": "Blue"
             },
             {
               "word": "Green",
@@ -3087,8 +3090,9 @@
               "imageFile": "color_green",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_134_1795129774846_2dsdw.jpg",
+              "correct": false,
+              "label": "Green"
             }
           ]
         },
