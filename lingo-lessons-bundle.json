@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:16:00.960Z",
+  "generatedAt": "2026-11-19T22:16:16.015Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1722,8 +1722,8 @@
             },
             {
               "word": "A yellow banana",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "A yellow banana",
+              "spoken": "A yellow banana",
               "translation": "",
               "imageFile": "n22",
               "isPack": true,
