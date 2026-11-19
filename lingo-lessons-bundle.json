@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:22:07.731Z",
+  "generatedAt": "2026-11-19T13:22:43.909Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3220,8 +3220,8 @@
             },
             {
               "word": "Leaf",
-              "sentence": "This is a ___.",
-              "spoken": "",
+              "sentence": "This is a Leaf",
+              "spoken": "This is a Leaf",
               "translation": "هذه ورقة شجر.",
               "imageFile": "nat_leaf",
               "isPack": false,
