@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:19:16.460Z",
+  "generatedAt": "2026-11-19T22:19:25.844Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1872,7 +1872,7 @@
           ]
         },
         "choice": {
-          "question": "Which picture is A red apple?",
+          "question": "Which picture is A yellow banana?",
           "options": [
             {
               "word": "A red apple",
@@ -1883,7 +1883,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "A red apple"
             },
             {
@@ -1895,7 +1895,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "A yellow banana"
             },
             {
