@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:46:23.538Z",
+  "generatedAt": "2026-11-19T16:46:30.128Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1557,8 +1557,8 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "A red apple.",
-          "spoken": "A red apple.",
+          "sentence": "Oranges",
+          "spoken": "Oranges",
           "choices": [
             {
               "word": "A red apple",
@@ -1569,7 +1569,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "A red apple"
             },
             {
@@ -1593,7 +1593,7 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "Oranges"
             },
             {
