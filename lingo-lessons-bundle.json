@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T13:28:26.387Z",
+  "generatedAt": "2026-11-19T13:28:34.283Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -189,6 +189,16 @@
               "label": "A dog"
             }
           ]
+        },
+        "speak": {
+          "word": "A boy",
+          "sentence": "A boy",
+          "spoken": "This is a boy",
+          "translation": "",
+          "imageFile": "q0",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg"
         }
       }
     },
