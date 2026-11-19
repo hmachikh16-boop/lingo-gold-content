@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:00:50.642Z",
+  "generatedAt": "2026-11-19T22:01:03.123Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -4992,8 +4992,8 @@
         "match": {
           "pairs": [
             {
-              "word": "TEST SENTENCE 3",
-              "sentence": "TEST SENTENCE 3",
+              "word": "The girl jumps",
+              "sentence": "The girl jumps",
               "spoken": "Hello",
               "translation": "",
               "imageFile": "",
