@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T15:57:31.522Z",
+  "generatedAt": "2026-11-19T16:01:48.920Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
       "seedIdx": 0,
       "appIndex": 0,
       "word": "A boy",
-      "sentence": "a boy",
-      "spoken": "This is a boy",
+      "sentence": "A boy.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Boy",
@@ -22,192 +22,14 @@
       "lessonNumber": 1,
       "order": 1,
       "category": "Verb To Be",
-      "isActive": true,
-      "id": "NJoUaEmypBvJ1tmzRPCM",
-      "categoryId": "HVQZF8VhShFUuNggw7eB",
-      "createdAt": null,
-      "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg",
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "A boy",
-              "sentence": "This is a boy",
-              "spoken": "This is a boy",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg"
-            },
-            {
-              "word": "A Cat",
-              "sentence": "This is a cat",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_0_1795081276427_nbo8a.jpg"
-            },
-            {
-              "word": "َA girl",
-              "sentence": "This is a girl",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_0_1795081622965_8eark.jpg"
-            },
-            {
-              "word": "A dog",
-              "sentence": "This is a dog",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_0_1795081677542_ryxtj.jpg"
-            }
-          ]
-        },
-        "listen": {
-          "sentence": "Where do you see the boy?",
-          "spoken": "",
-          "choices": [
-            {
-              "word": "A boy",
-              "sentence": "A boy.",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_0_1795078144765_d7f4t.jpg",
-              "correct": true,
-              "label": "A boy"
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Girl"
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_0_1795081745343_tgw6n.jpg",
-              "correct": false,
-              "label": "Cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_0_1795081729204_kv92t.jpg",
-              "correct": false,
-              "label": "Dog"
-            }
-          ]
-        },
-        "write": {
-          "word": "Dog",
-          "sentence": "A boy",
-          "spoken": "A boy",
-          "translation": "",
-          "imageFile": "q0",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795081851093_k065u.jpg"
-        },
-        "choice": {
-          "question": "Where do you see the a cat?",
-          "options": [
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_0_0_1795083131459_twr8c.jpg",
-              "correct": false,
-              "label": "A boy"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_0_1795082674921_7l42d.jpg",
-              "correct": true,
-              "label": "A cat"
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_0_1795081918146_quv2v.jpg",
-              "correct": false,
-              "label": "A dog"
-            }
-          ]
-        },
-        "speak": {
-          "word": "A boy",
-          "sentence": "A boy",
-          "spoken": "This is a boy",
-          "translation": "",
-          "imageFile": "q0",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg"
-        }
-      }
+      "isActive": true
     },
     {
       "seedIdx": 1,
       "appIndex": 1,
       "word": "A girl",
-      "sentence": "A girl",
-      "spoken": "Rabbit",
+      "sentence": "A girl.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Girl",
@@ -221,135 +43,14 @@
       "lessonNumber": 2,
       "order": 2,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "listen": {
-          "sentence": "Rabbit",
-          "spoken": "Rabbit",
-          "choices": [
-            {
-              "word": "Rabbit",
-              "sentence": "Rabbit",
-              "spoken": "Rabbit",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_1_1795087619528_pexey.jpg",
-              "correct": true,
-              "label": "Rabbit"
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Boy"
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Dog"
-            }
-          ]
-        },
-        "write": {
-          "word": "Rabbit",
-          "sentence": "A girl.",
-          "spoken": "A girl.",
-          "translation": "",
-          "imageFile": "n02",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795084706737_f6q0k.jpg"
-        },
-        "speak": {
-          "word": "Rabbit",
-          "sentence": "Rabbit",
-          "spoken": "Rabbit",
-          "translation": "",
-          "imageFile": "n02",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795084706737_f6q0k.jpg"
-        },
-        "intro": {
-          "items": [
-            {
-              "word": "A girl",
-              "sentence": "A girl",
-              "spoken": "Rabbit",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        }
-      },
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+      "isActive": true
     },
     {
       "seedIdx": 2,
       "appIndex": 2,
       "word": "A cat",
       "sentence": "A cat.",
-      "spoken": "A cat.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Cat",
@@ -363,177 +64,14 @@
       "lessonNumber": 3,
       "order": 3,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "A cat",
-              "sentence": "A cat.",
-              "spoken": "A cat.",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "choice": {
-          "question": "Which picture is A dog?",
-          "options": [
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A cat"
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "A dog"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A boy"
-            }
-          ]
-        },
-        "listen": {
-          "sentence": "Where's the dog?",
-          "spoken": "A cat.",
-          "choices": [
-            {
-              "word": "A cat",
-              "sentence": "A cat.",
-              "spoken": "A cat.",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Dog"
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Girl"
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Boy"
-            }
-          ]
-        },
-        "write": {
-          "word": " cat",
-          "sentence": "A cat.",
-          "spoken": "A cat.",
-          "translation": "",
-          "imageFile": "n42",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        }
-      }
+      "isActive": true
     },
     {
       "seedIdx": 3,
       "appIndex": 3,
       "word": "The boy is eating",
       "sentence": "The boy is eating.",
-      "spoken": "The boy is eating.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Eating",
@@ -547,221 +85,14 @@
       "lessonNumber": 4,
       "order": 4,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "The boy is eating",
-              "sentence": "The boy is eating.",
-              "spoken": "The boy is eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "speak": {
-          "word": "The boy is eating",
-          "sentence": "The boy is eating.",
-          "spoken": "The boy is eating.",
-          "translation": "",
-          "imageFile": "n18",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        },
-        "listen": {
-          "sentence": "Where is the picture of the sleeping boy?",
-          "spoken": "Where is the picture of the sleeping boy?",
-          "choices": [
-            {
-              "word": "The boy is eating",
-              "sentence": "The boy is eating.",
-              "spoken": "The boy is eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is eating"
-            },
-            {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Drinking"
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Running"
-            },
-            {
-              "word": "Sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Sleeping"
-            }
-          ]
-        },
-        "match": {
-          "pairs": [
-            {
-              "word": "Eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "choice": {
-          "question": "Which picture is The boy is running?",
-          "options": [
-            {
-              "word": "The boy is eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is eating"
-            },
-            {
-              "word": "The boy is drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is drinking"
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "The boy is running"
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is sleeping"
-            }
-          ]
-        },
-        "write": {
-          "word": "The boy is eating",
-          "sentence": "The boy is eating.",
-          "spoken": "The boy is eating.",
-          "translation": "",
-          "imageFile": "n18",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        }
-      }
+      "isActive": true
     },
     {
       "seedIdx": 4,
       "appIndex": 4,
       "word": "The boy is drinking",
       "sentence": "The boy is drinking.",
-      "spoken": "The boy is drinking.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Drinking",
@@ -775,221 +106,14 @@
       "lessonNumber": 5,
       "order": 5,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": " The boy is eating",
-              "sentence": "The boy is eating",
-              "spoken": "The boy is eating",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "The boy is running",
-              "spoken": "The boy is running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "The boy is sleeping",
-              "spoken": "The boy is sleeping",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "speak": {
-          "word": "The boy is drinking",
-          "sentence": "The boy is drinking.",
-          "spoken": "The boy is drinking.",
-          "translation": "",
-          "imageFile": "n19",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        },
-        "listen": {
-          "sentence": "The boy is sleeping",
-          "spoken": "The boy is sleeping",
-          "choices": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is drinking"
-            },
-            {
-              "word": " The boy is eating",
-              "sentence": " The boy is eating",
-              "spoken": " The boy is eating",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": " The boy is eating"
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "The boy is running",
-              "spoken": "The boy is running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is running"
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "The boy is sleeping",
-              "spoken": "The boy is sleeping",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "The boy is sleeping"
-            }
-          ]
-        },
-        "match": {
-          "pairs": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": " The boy is eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "The boy is running",
-              "spoken": "The boy is running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "choice": {
-          "question": "Which picture is The boy is sleeping?",
-          "options": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is drinking"
-            },
-            {
-              "word": "The boy is eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is eating"
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is running"
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "The boy is sleeping"
-            }
-          ]
-        },
-        "write": {
-          "word": "The boy is drinking",
-          "sentence": "The boy is drinking.",
-          "spoken": "The boy is drinking.",
-          "translation": "",
-          "imageFile": "n19",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        }
-      }
+      "isActive": true
     },
     {
       "seedIdx": 7,
       "appIndex": 7,
       "word": "The boy and the girl",
       "sentence": "The boy and the girl.",
-      "spoken": "The boy and the girl.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Boy",
@@ -1000,220 +124,17 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • The boy and the girl",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 8,
+      "order": 8,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "The boy and the girl",
-              "sentence": "The boy and the girl.",
-              "spoken": "The boy and the girl.",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "speak": {
-          "word": "The boy and the girl",
-          "sentence": "The boy and the girl.",
-          "spoken": "The boy and the girl.",
-          "translation": "",
-          "imageFile": "n76",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        },
-        "listen": {
-          "sentence": "The boy and the girl.",
-          "spoken": "The boy and the girl.",
-          "choices": [
-            {
-              "word": "The boy and the girl",
-              "sentence": "The boy and the girl.",
-              "spoken": "The boy and the girl.",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            }
-          ]
-        },
-        "match": {
-          "pairs": [
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Boy and girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "choice": {
-          "question": "Which picture is the cat?\n",
-          "options": [
-            {
-              "word": "The boy and the girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy and the girl"
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A boy"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": " cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": " cat"
-            }
-          ]
-        },
-        "write": {
-          "word": "The boy and the girl",
-          "sentence": "The boy and the girl.",
-          "spoken": "The boy and the girl.",
-          "translation": "",
-          "imageFile": "n76",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        }
-      }
+      "isActive": true
     },
     {
       "seedIdx": 8,
       "appIndex": 8,
       "word": "I am eating",
       "sentence": "I am eating.",
-      "spoken": "I am eating.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Eating",
@@ -1224,213 +145,10 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • I am eating",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 9,
+      "order": 9,
       "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "I am eating",
-              "sentence": "I am eating.",
-              "spoken": "I am eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "I am drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "I am running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "I am sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "speak": {
-          "word": "I am eating",
-          "sentence": "I am eating.",
-          "spoken": "I am eating.",
-          "translation": "",
-          "imageFile": "n18",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        },
-        "listen": {
-          "sentence": "I drink",
-          "spoken": "I drink",
-          "choices": [
-            {
-              "word": "I am eating",
-              "sentence": "I am eating.",
-              "spoken": "I am eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "I am eating"
-            },
-            {
-              "word": "I drink",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "I drink"
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Running"
-            },
-            {
-              "word": "Sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Sleeping"
-            }
-          ]
-        },
-        "match": {
-          "pairs": [
-            {
-              "word": "Eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "choice": {
-          "question": "Which picture is I am eating?",
-          "options": [
-            {
-              "word": "I am eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true
-            },
-            {
-              "word": "I am drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "I am running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "I am sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            }
-          ]
-        },
-        "write": {
-          "word": "I am eating",
-          "sentence": "I am eating.",
-          "spoken": "I am eating.",
-          "translation": "",
-          "imageFile": "n18",
-          "isPack": true,
-          "indexInPack": 0,
-          "imageUrl": ""
-        }
-      }
+      "isActive": true
     },
     {
       "seedIdx": 5,
@@ -1448,8 +166,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 1 • A big dog",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 6,
+      "order": 6,
       "category": "Adjectives",
       "isActive": true
     },
@@ -1469,8 +187,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 1 • A red apple",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 7,
+      "order": 7,
       "category": "Colors",
       "isActive": true
     },
@@ -1490,8 +208,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 2 • Red",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 131,
+      "order": 131,
       "category": "Colors",
       "isActive": true
     },
@@ -1511,8 +229,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 3 • Blue",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 132,
+      "order": 132,
       "category": "Colors",
       "isActive": true
     },
@@ -1532,8 +250,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 4 • Green",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 133,
+      "order": 133,
       "category": "Colors",
       "isActive": true
     },
@@ -1553,8 +271,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 5 • Yellow",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 134,
+      "order": 134,
       "category": "Colors",
       "isActive": true
     },
@@ -1574,8 +292,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 6 • Orange",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 135,
+      "order": 135,
       "category": "Colors",
       "isActive": true
     },
@@ -1595,8 +313,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 7 • Purple",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 136,
+      "order": 136,
       "category": "Colors",
       "isActive": true
     },
@@ -1616,8 +334,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 8 • Pink",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 137,
+      "order": 137,
       "category": "Colors",
       "isActive": true
     },
@@ -1637,8 +355,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 9 • Brown",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 138,
+      "order": 138,
       "category": "Colors",
       "isActive": true
     },
@@ -1658,8 +376,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 10 • Black",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 139,
+      "order": 139,
       "category": "Colors",
       "isActive": true
     },
@@ -1679,8 +397,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 11 • White",
-      "lessonNumber": 11,
-      "order": 11,
+      "lessonNumber": 140,
+      "order": 140,
       "category": "Colors",
       "isActive": true
     },
@@ -1700,8 +418,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • The sun",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 10,
+      "order": 10,
       "category": "Nature",
       "isActive": true
     },
@@ -1721,8 +439,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • Boy",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 11,
+      "order": 11,
       "category": "Family",
       "isActive": true
     },
@@ -1742,8 +460,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Girl",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 12,
+      "order": 12,
       "category": "Family",
       "isActive": true
     },
@@ -1763,8 +481,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Father",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 13,
+      "order": 13,
       "category": "Family",
       "isActive": true
     },
@@ -1784,8 +502,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Mother",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 14,
+      "order": 14,
       "category": "Family",
       "isActive": true
     },
@@ -1805,8 +523,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Baby",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 15,
+      "order": 15,
       "category": "Family",
       "isActive": true
     },
@@ -1826,8 +544,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Grandfather",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 16,
+      "order": 16,
       "category": "Family",
       "isActive": true
     },
@@ -1847,8 +565,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Grandmother",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 17,
+      "order": 17,
       "category": "Family",
       "isActive": true
     },
@@ -1868,8 +586,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Family",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 18,
+      "order": 18,
       "category": "Family",
       "isActive": true
     },
@@ -1889,8 +607,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Man",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 19,
+      "order": 19,
       "category": "Family",
       "isActive": true
     },
@@ -1910,8 +628,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Woman",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 20,
+      "order": 20,
       "category": "Family",
       "isActive": true
     },
@@ -1931,8 +649,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • Daughter",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 21,
+      "order": 21,
       "category": "People & Actions",
       "isActive": true
     },
@@ -1952,8 +670,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Happy",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 22,
+      "order": 22,
       "category": "People & Actions",
       "isActive": true
     },
@@ -1973,8 +691,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Sad",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 23,
+      "order": 23,
       "category": "People & Actions",
       "isActive": true
     },
@@ -1994,8 +712,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Hello",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 24,
+      "order": 24,
       "category": "People & Actions",
       "isActive": true
     },
@@ -2015,8 +733,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Run",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 25,
+      "order": 25,
       "category": "People & Actions",
       "isActive": true
     },
@@ -2036,8 +754,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Jump",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 26,
+      "order": 26,
       "category": "People & Actions",
       "isActive": true
     },
@@ -2057,8 +775,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Play",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 27,
+      "order": 27,
       "category": "People & Actions",
       "isActive": true
     },
@@ -2078,8 +796,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Eat",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 28,
+      "order": 28,
       "category": "People & Actions",
       "isActive": true
     },
@@ -2099,8 +817,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Drink",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 29,
+      "order": 29,
       "category": "People & Actions",
       "isActive": true
     },
@@ -2120,8 +838,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Sleep",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 30,
+      "order": 30,
       "category": "People & Actions",
       "isActive": true
     },
@@ -2141,8 +859,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • Apple",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 31,
+      "order": 31,
       "category": "Food",
       "isActive": true
     },
@@ -2162,8 +880,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Banana",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 32,
+      "order": 32,
       "category": "Food",
       "isActive": true
     },
@@ -2183,8 +901,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Bread",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 33,
+      "order": 33,
       "category": "Food",
       "isActive": true
     },
@@ -2204,8 +922,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Milk",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 34,
+      "order": 34,
       "category": "Food",
       "isActive": true
     },
@@ -2225,8 +943,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Egg",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 35,
+      "order": 35,
       "category": "Food",
       "isActive": true
     },
@@ -2246,8 +964,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Cheese",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 36,
+      "order": 36,
       "category": "Food",
       "isActive": true
     },
@@ -2267,8 +985,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Orange",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 37,
+      "order": 37,
       "category": "Food",
       "isActive": true
     },
@@ -2288,8 +1006,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Strawberry",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 38,
+      "order": 38,
       "category": "Food",
       "isActive": true
     },
@@ -2309,8 +1027,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Grapes",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 39,
+      "order": 39,
       "category": "Food",
       "isActive": true
     },
@@ -2330,8 +1048,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Cookie",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 40,
+      "order": 40,
       "category": "Food",
       "isActive": true
     },
@@ -2351,8 +1069,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • Ice Cream",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 41,
+      "order": 41,
       "category": "Food & More",
       "isActive": true
     },
@@ -2372,8 +1090,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Juice",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 42,
+      "order": 42,
       "category": "Food & More",
       "isActive": true
     },
@@ -2393,8 +1111,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Cake",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 43,
+      "order": 43,
       "category": "Food & More",
       "isActive": true
     },
@@ -2414,8 +1132,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Lemon",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 44,
+      "order": 44,
       "category": "Food & More",
       "isActive": true
     },
@@ -2435,8 +1153,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Cup",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 45,
+      "order": 45,
       "category": "Food & More",
       "isActive": true
     },
@@ -2456,8 +1174,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Kitchen",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 46,
+      "order": 46,
       "category": "Food & More",
       "isActive": true
     },
@@ -2477,8 +1195,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Oranges",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 47,
+      "order": 47,
       "category": "Food & More",
       "isActive": true
     },
@@ -2498,8 +1216,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Strawberries",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 48,
+      "order": 48,
       "category": "Food & More",
       "isActive": true
     },
@@ -2519,8 +1237,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Apples",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 49,
+      "order": 49,
       "category": "Food & More",
       "isActive": true
     },
@@ -2540,8 +1258,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Red",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 50,
+      "order": 50,
       "category": "Food & More",
       "isActive": true
     },
@@ -2561,8 +1279,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • Dog",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 51,
+      "order": 51,
       "category": "Animals",
       "isActive": true
     },
@@ -2582,8 +1300,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Cat",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 52,
+      "order": 52,
       "category": "Animals",
       "isActive": true
     },
@@ -2603,8 +1321,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Bird",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 53,
+      "order": 53,
       "category": "Animals",
       "isActive": true
     },
@@ -2624,8 +1342,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Fish",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 54,
+      "order": 54,
       "category": "Animals",
       "isActive": true
     },
@@ -2645,8 +1363,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Elephant",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 55,
+      "order": 55,
       "category": "Animals",
       "isActive": true
     },
@@ -2666,8 +1384,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Turtle",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 56,
+      "order": 56,
       "category": "Animals",
       "isActive": true
     },
@@ -2687,8 +1405,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Rabbit",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 57,
+      "order": 57,
       "category": "Animals",
       "isActive": true
     },
@@ -2708,8 +1426,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Leopard",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 58,
+      "order": 58,
       "category": "Animals",
       "isActive": true
     },
@@ -2729,8 +1447,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Kitten",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 59,
+      "order": 59,
       "category": "Animals",
       "isActive": true
     },
@@ -2750,8 +1468,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Black Cat",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 60,
+      "order": 60,
       "category": "Animals",
       "isActive": true
     },
@@ -2771,8 +1489,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • House",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 61,
+      "order": 61,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2792,8 +1510,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Door",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 62,
+      "order": 62,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2813,8 +1531,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Window",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 63,
+      "order": 63,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2834,8 +1552,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Chair",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 64,
+      "order": 64,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2855,8 +1573,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Tree",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 65,
+      "order": 65,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2876,8 +1594,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Sky",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 66,
+      "order": 66,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2897,8 +1615,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Moon",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 67,
+      "order": 67,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2918,8 +1636,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Star",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 68,
+      "order": 68,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2939,8 +1657,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Rose",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 69,
+      "order": 69,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2960,8 +1678,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Sunflower",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 70,
+      "order": 70,
       "category": "Home & Nature",
       "isActive": true
     },
@@ -2981,8 +1699,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • Snowman",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 71,
+      "order": 71,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3002,8 +1720,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Rainbow",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 72,
+      "order": 72,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3023,8 +1741,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Balloons",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 73,
+      "order": 73,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3044,8 +1762,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Balloon",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 74,
+      "order": 74,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3065,8 +1783,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Water",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 75,
+      "order": 75,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3086,8 +1804,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Ball",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 76,
+      "order": 76,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3107,8 +1825,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Pencils",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 77,
+      "order": 77,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3128,8 +1846,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Pen",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 78,
+      "order": 78,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3149,8 +1867,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Book",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 79,
+      "order": 79,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3170,8 +1888,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Car",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 80,
+      "order": 80,
       "category": "Fun & School",
       "isActive": true
     },
@@ -3191,8 +1909,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 1 • Wave",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 81,
+      "order": 81,
       "category": "Greetings",
       "isActive": true
     },
@@ -3212,8 +1930,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 2 • Goodbye",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 82,
+      "order": 82,
       "category": "Greetings",
       "isActive": true
     },
@@ -3233,8 +1951,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 3 • Raise hand",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 83,
+      "order": 83,
       "category": "Greetings",
       "isActive": true
     },
@@ -3254,8 +1972,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 4 • Dinner",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 84,
+      "order": 84,
       "category": "Greetings",
       "isActive": true
     },
@@ -3275,8 +1993,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 5 • Goodnight",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 85,
+      "order": 85,
       "category": "Greetings",
       "isActive": true
     },
@@ -3296,8 +2014,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 6 • Talk",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 86,
+      "order": 86,
       "category": "Greetings",
       "isActive": true
     },
@@ -3317,8 +2035,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 7 • Gift",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 87,
+      "order": 87,
       "category": "Greetings",
       "isActive": true
     },
@@ -3338,8 +2056,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 8 • Welcome",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 88,
+      "order": 88,
       "category": "Greetings",
       "isActive": true
     },
@@ -3359,8 +2077,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 9 • Wake up",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 89,
+      "order": 89,
       "category": "Greetings",
       "isActive": true
     },
@@ -3380,8 +2098,8 @@
       "isPack": true,
       "indexInPack": 0,
       "title": "الدرس 10 • Shake hands",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 90,
+      "order": 90,
       "category": "Greetings",
       "isActive": true
     },
@@ -3401,8 +2119,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 1 • Doctor",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 91,
+      "order": 91,
       "category": "Jobs",
       "isActive": true
     },
@@ -3422,8 +2140,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 2 • Nurse",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 92,
+      "order": 92,
       "category": "Jobs",
       "isActive": true
     },
@@ -3443,8 +2161,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 3 • Pilot",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 93,
+      "order": 93,
       "category": "Jobs",
       "isActive": true
     },
@@ -3464,8 +2182,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 4 • Firefighter",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 94,
+      "order": 94,
       "category": "Jobs",
       "isActive": true
     },
@@ -3485,8 +2203,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 5 • Chef",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 95,
+      "order": 95,
       "category": "Jobs",
       "isActive": true
     },
@@ -3506,8 +2224,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 6 • Teacher",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 96,
+      "order": 96,
       "category": "Jobs",
       "isActive": true
     },
@@ -3527,8 +2245,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 7 • Police Officer",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 97,
+      "order": 97,
       "category": "Jobs",
       "isActive": true
     },
@@ -3548,8 +2266,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 8 • Farmer",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 98,
+      "order": 98,
       "category": "Jobs",
       "isActive": true
     },
@@ -3569,8 +2287,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 9 • Baker",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 99,
+      "order": 99,
       "category": "Jobs",
       "isActive": true
     },
@@ -3590,8 +2308,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 10 • Student",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 100,
+      "order": 100,
       "category": "Jobs",
       "isActive": true
     },
@@ -3611,8 +2329,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 1 • Brush",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 101,
+      "order": 101,
       "category": "Actions",
       "isActive": true
     },
@@ -3632,8 +2350,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 2 • Read",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 102,
+      "order": 102,
       "category": "Actions",
       "isActive": true
     },
@@ -3653,8 +2371,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 3 • Drink",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 103,
+      "order": 103,
       "category": "Actions",
       "isActive": true
     },
@@ -3674,8 +2392,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 4 • Wave",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 104,
+      "order": 104,
       "category": "Actions",
       "isActive": true
     },
@@ -3695,8 +2413,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 5 • Play",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 105,
+      "order": 105,
       "category": "Actions",
       "isActive": true
     },
@@ -3716,8 +2434,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 6 • Shake",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 106,
+      "order": 106,
       "category": "Actions",
       "isActive": true
     },
@@ -3737,8 +2455,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 7 • Raise",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 107,
+      "order": 107,
       "category": "Actions",
       "isActive": true
     },
@@ -3758,8 +2476,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 8 • Cook",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 108,
+      "order": 108,
       "category": "Actions",
       "isActive": true
     },
@@ -3779,8 +2497,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 9 • Buy",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 109,
+      "order": 109,
       "category": "Actions",
       "isActive": true
     },
@@ -3800,8 +2518,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 10 • Sit",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 110,
+      "order": 110,
       "category": "Actions",
       "isActive": true
     },
@@ -3821,8 +2539,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 1 • One",
-      "lessonNumber": 1,
-      "order": 1,
+      "lessonNumber": 111,
+      "order": 111,
       "category": "Numbers",
       "isActive": true
     },
@@ -3842,8 +2560,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 2 • Two",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 112,
+      "order": 112,
       "category": "Numbers",
       "isActive": true
     },
@@ -3863,8 +2581,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 3 • Three",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 113,
+      "order": 113,
       "category": "Numbers",
       "isActive": true
     },
@@ -3884,8 +2602,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 4 • Four",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 114,
+      "order": 114,
       "category": "Numbers",
       "isActive": true
     },
@@ -3905,8 +2623,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 5 • Five",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 115,
+      "order": 115,
       "category": "Numbers",
       "isActive": true
     },
@@ -3926,8 +2644,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 6 • Six",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 116,
+      "order": 116,
       "category": "Numbers",
       "isActive": true
     },
@@ -3947,8 +2665,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 7 • Seven",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 117,
+      "order": 117,
       "category": "Numbers",
       "isActive": true
     },
@@ -3968,8 +2686,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 8 • Eight",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 118,
+      "order": 118,
       "category": "Numbers",
       "isActive": true
     },
@@ -3989,8 +2707,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 9 • Nine",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 119,
+      "order": 119,
       "category": "Numbers",
       "isActive": true
     },
@@ -4010,8 +2728,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 10 • Ten",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 120,
+      "order": 120,
       "category": "Numbers",
       "isActive": true
     },
@@ -4020,7 +2738,7 @@
       "appIndex": 120,
       "word": "Tomato",
       "sentence": "The ___ is red.",
-      "spoken": "The ___ is red.",
+      "spoken": "",
       "translation": "الطماطم حمراء.",
       "options": [
         "Tomato",
@@ -4031,209 +2749,10 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 1 • Tomato",
-      "lessonNumber": 1,
-      "order": 1,
-      "category": "Verb To Be",
-      "isActive": true,
-      "stepOverrides": {
-        "intro": {
-          "items": [
-            {
-              "word": "Tomato",
-              "sentence": "This is a Tomato",
-              "spoken": "This is a Tomato",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "Chocolate",
-              "spoken": "Chocolate",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a Leaf",
-              "spoken": "This is a Leaf",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Snow",
-              "sentence": "The Snow is white.",
-              "spoken": "The Snow is white.",
-              "translation": "الثلج أبيض.",
-              "imageFile": "nat_snow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "speak": {
-          "word": "Tomato",
-          "sentence": "The ___ is red.",
-          "spoken": "The ___ is red.",
-          "translation": "الطماطم حمراء.",
-          "imageFile": "food_tomato",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": ""
-        },
-        "listen": {
-          "sentence": "The ___ is red.",
-          "spoken": "The ___ is red.",
-          "choices": [
-            {
-              "word": "Tomato",
-              "sentence": "The ___ is red.",
-              "spoken": "The ___ is red.",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "I like ___.",
-              "spoken": "",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a ___.",
-              "spoken": "",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Snow",
-              "sentence": "The ___ is white.",
-              "spoken": "",
-              "translation": "الثلج أبيض.",
-              "imageFile": "nat_snow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            }
-          ]
-        },
-        "match": {
-          "pairs": [
-            {
-              "word": "Tomato",
-              "sentence": "The ___ is red.",
-              "spoken": "The ___ is red.",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "I like ___.",
-              "spoken": "",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a ___.",
-              "spoken": "",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
-          ]
-        },
-        "choice": {
-          "question": "Which picture is Tomato?",
-          "options": [
-            {
-              "word": "Tomato",
-              "sentence": "The ___ is red.",
-              "spoken": "The ___ is red.",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "I like ___.",
-              "spoken": "",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a ___.",
-              "spoken": "",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Snow",
-              "sentence": "The ___ is white.",
-              "spoken": "",
-              "translation": "الثلج أبيض.",
-              "imageFile": "nat_snow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            }
-          ]
-        },
-        "write": {
-          "word": "Tomato",
-          "sentence": "The ___ is red.",
-          "spoken": "The ___ is red.",
-          "translation": "الطماطم حمراء.",
-          "imageFile": "food_tomato",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": ""
-        }
-      }
+      "lessonNumber": 121,
+      "order": 121,
+      "category": "Discover",
+      "isActive": true
     },
     {
       "seedIdx": 121,
@@ -4251,8 +2770,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 2 • Chocolate",
-      "lessonNumber": 2,
-      "order": 2,
+      "lessonNumber": 122,
+      "order": 122,
       "category": "Discover",
       "isActive": true
     },
@@ -4272,8 +2791,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 3 • Leaf",
-      "lessonNumber": 3,
-      "order": 3,
+      "lessonNumber": 123,
+      "order": 123,
       "category": "Discover",
       "isActive": true
     },
@@ -4293,8 +2812,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 4 • Snow",
-      "lessonNumber": 4,
-      "order": 4,
+      "lessonNumber": 124,
+      "order": 124,
       "category": "Discover",
       "isActive": true
     },
@@ -4314,8 +2833,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 5 • Wave",
-      "lessonNumber": 5,
-      "order": 5,
+      "lessonNumber": 125,
+      "order": 125,
       "category": "Discover",
       "isActive": true
     },
@@ -4335,8 +2854,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 6 • Flower",
-      "lessonNumber": 6,
-      "order": 6,
+      "lessonNumber": 126,
+      "order": 126,
       "category": "Discover",
       "isActive": true
     },
@@ -4356,8 +2875,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 7 • Sunflower",
-      "lessonNumber": 7,
-      "order": 7,
+      "lessonNumber": 127,
+      "order": 127,
       "category": "Discover",
       "isActive": true
     },
@@ -4377,8 +2896,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 8 • Grapes",
-      "lessonNumber": 8,
-      "order": 8,
+      "lessonNumber": 128,
+      "order": 128,
       "category": "Discover",
       "isActive": true
     },
@@ -4398,8 +2917,8 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 9 • Orange",
-      "lessonNumber": 9,
-      "order": 9,
+      "lessonNumber": 129,
+      "order": 129,
       "category": "Discover",
       "isActive": true
     },
@@ -4419,234 +2938,22 @@
       "isPack": false,
       "indexInPack": 0,
       "title": "الدرس 10 • Car",
-      "lessonNumber": 10,
-      "order": 10,
+      "lessonNumber": 130,
+      "order": 130,
       "category": "Discover",
       "isActive": true
     }
   ],
   "newLessons": [
     {
-      "title": "الدرس 8 • الأفعال",
-      "word": "The girl jumps",
-      "sentence": "The girl jumps",
+      "title": "",
+      "word": "",
+      "sentence": "",
+      "spoken": "",
       "translation": "",
       "options": [],
-      "category": "Verb To Be",
-      "categoryId": "app::Verb To Be",
-      "order": 8,
-      "lessonNumber": 8,
-      "isActive": true,
-      "stepOverrides": {
-        "speak": {
-          "word": "The girl jumps",
-          "sentence": "The girl jumps",
-          "spoken": "Hello",
-          "translation": "",
-          "imageFile": "",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-        },
-        "write": {
-          "word": "Hello",
-          "sentence": "",
-          "spoken": "الأفعال",
-          "translation": "",
-          "imageFile": "",
-          "isPack": false,
-          "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_write_x_1795090485497_miw5i.jpg"
-        },
-        "choice": {
-          "question": "Which picture is The girl jumps?",
-          "options": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-              "correct": true,
-              "label": "The girl jumps"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
-              "correct": false,
-              "label": "Hello"
-            },
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-              "correct": false,
-              "label": "cat"
-            },
-            {
-              "word": "dog",
-              "sentence": "dog",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_x_1795089842690_396cn.jpg",
-              "correct": false,
-              "label": "dog"
-            }
-          ]
-        },
-        "intro": {
-          "items": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_x_1795088875894_d8a0j.jpg"
-            },
-            {
-              "word": "These boys are playing",
-              "sentence": "These boys are playing",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_x_1795088948264_m6yvl.jpg"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_x_1795089091487_vw4rv.jpg"
-            }
-          ]
-        },
-        "listen": {
-          "sentence": "This boy is running",
-          "spoken": "This boy is running",
-          "choices": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-              "correct": false,
-              "label": "The girl jumps"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_x_1795090065292_evk7a.jpg",
-              "correct": true,
-              "label": "This boy is running"
-            },
-            {
-              "word": "These boys are playing",
-              "sentence": "These boys are playing",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_x_1795090103629_08pxo.jpg",
-              "correct": false,
-              "label": "These boys are playing"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_x_1795090834084_kcine.jpg",
-              "correct": false,
-              "label": "Hello"
-            }
-          ]
-        },
-        "match": {
-          "pairs": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg"
-            },
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg"
-            }
-          ]
-        }
-      },
-      "imageUrl": "https://cdn.jsdelivr.net/gh/hmachikh16-boop/lingo-gold-content@main/images/lesson_image_1795100723558_hbux9.jpg",
-      "spoken": "Hello",
-      "appIndex": 140
+      "appIndex": 140,
+      "isActive": true
     }
   ]
 }
