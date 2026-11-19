@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:21:08.831Z",
+  "generatedAt": "2026-11-19T10:21:39.513Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -138,7 +138,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795081851093_k065u.jpg"
         },
         "choice": {
-          "question": "Where do you see the boy?",
+          "question": "Where do you see the cat?",
           "options": [
             {
               "word": "A boy",
