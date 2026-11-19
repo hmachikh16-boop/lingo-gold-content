@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:14:30.623Z",
+  "generatedAt": "2026-11-19T12:14:35.408Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3389,7 +3389,7 @@
   "newLessons": [
     {
       "title": "الدرس 8 • الأفعال",
-      "word": "The girl jumps",
+      "word": "Hello",
       "sentence": "Hello",
       "translation": "",
       "options": [],
@@ -3400,7 +3400,7 @@
       "isActive": true,
       "stepOverrides": {
         "speak": {
-          "word": "The girl jumps",
+          "word": "Hello",
           "sentence": "Hello",
           "spoken": "Hello",
           "translation": "",
@@ -3475,7 +3475,7 @@
         "intro": {
           "items": [
             {
-              "word": "The girl jumps",
+              "word": "Hello",
               "sentence": "Hello",
               "spoken": "Hello",
               "translation": "",
