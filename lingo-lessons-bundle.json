@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:52:49.100Z",
+  "generatedAt": "2026-11-19T10:53:07.571Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -195,7 +195,7 @@
     {
       "seedIdx": 1,
       "appIndex": 1,
-      "word": "A girl",
+      "word": "A Girl",
       "sentence": "A Girl",
       "spoken": "Rabbit",
       "translation": "",
@@ -216,7 +216,7 @@
         "intro": {
           "items": [
             {
-              "word": "A girl",
+              "word": "A Girl",
               "sentence": "A Girl",
               "spoken": "Rabbit",
               "translation": "",
