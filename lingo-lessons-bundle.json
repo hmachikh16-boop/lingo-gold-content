@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:04:43.039Z",
+  "generatedAt": "2026-11-19T23:04:48.538Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2809,7 +2809,7 @@
           ]
         },
         "choice": {
-          "question": "Which picture is Yellow?",
+          "question": "Which picture is Red?",
           "options": [
             {
               "word": "Yellow",
@@ -2820,7 +2820,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": true,
+              "correct": false,
               "label": "Yellow"
             },
             {
@@ -2832,7 +2832,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "",
-              "correct": false,
+              "correct": true,
               "label": "Red"
             },
             {
