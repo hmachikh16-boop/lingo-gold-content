@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:00:03.826Z",
+  "generatedAt": "2026-11-19T12:00:30.034Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3407,7 +3407,7 @@
           "imageFile": "",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089207749_lq3e0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089627373_qrykn.jpg"
         },
         "write": {
           "word": "Hello",
@@ -3417,7 +3417,7 @@
           "imageFile": "",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089207749_lq3e0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089627373_qrykn.jpg"
         },
         "choice": {
           "question": "Which picture is Hello?",
@@ -3446,7 +3446,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089207749_lq3e0.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089627373_qrykn.jpg"
             },
             {
               "word": "This boy is running",
@@ -3523,7 +3523,7 @@
           ]
         }
       },
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089207749_lq3e0.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795089627373_qrykn.jpg",
       "spoken": "Hello",
       "appIndex": 140
     }
