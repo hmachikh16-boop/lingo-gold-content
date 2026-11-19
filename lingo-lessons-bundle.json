@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T15:44:41.080Z",
+  "generatedAt": "2026-11-19T15:45:09.512Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -801,8 +801,8 @@
             },
             {
               "word": "The boy is running",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "The boy is running",
+              "spoken": "The boy is running",
               "translation": "",
               "imageFile": "n15",
               "isPack": true,
