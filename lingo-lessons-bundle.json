@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:08:42.861Z",
+  "generatedAt": "2026-11-19T22:08:51.011Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1503,16 +1503,6 @@
               "translation": "",
               "imageFile": "n41",
               "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Big dog",
-              "sentence": "A big dog.",
-              "spoken": "A big dog.",
-              "translation": "",
-              "imageFile": "q2",
-              "isPack": false,
               "indexInPack": 0,
               "imageUrl": ""
             },
