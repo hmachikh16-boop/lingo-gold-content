@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:41:23.577Z",
+  "generatedAt": "2026-11-19T09:46:44.004Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -44,6 +44,16 @@
             {
               "word": "A Cat",
               "sentence": "This is a cat",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_0_1795081276427_nbo8a.jpg"
+            },
+            {
+              "word": "َA girl",
+              "sentence": "This is a girl",
               "spoken": "",
               "translation": "",
               "imageFile": "q0",
