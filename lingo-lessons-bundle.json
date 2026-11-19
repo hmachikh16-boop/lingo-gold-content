@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T09:50:10.027Z",
+  "generatedAt": "2026-11-19T09:50:53.742Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -27,7 +27,7 @@
       "categoryId": "HVQZF8VhShFUuNggw7eB",
       "createdAt": null,
       "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795079664746_y9qzn.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795081851093_k065u.jpg",
       "stepOverrides": {
         "intro": {
           "items": [
@@ -39,7 +39,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795079664746_y9qzn.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795081851093_k065u.jpg"
             },
             {
               "word": "A Cat",
