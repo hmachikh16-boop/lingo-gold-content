@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:17:05.774Z",
+  "generatedAt": "2026-11-19T22:17:20.509Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1752,8 +1752,8 @@
             },
             {
               "word": "Green",
-              "sentence": "",
-              "spoken": "",
+              "sentence": "Green",
+              "spoken": "Green",
               "translation": "",
               "imageFile": "color_green",
               "isPack": false,
