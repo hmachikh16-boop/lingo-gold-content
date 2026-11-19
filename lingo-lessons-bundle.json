@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T21:51:31.455Z",
+  "generatedAt": "2026-11-19T21:52:14.500Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -4992,7 +4992,7 @@
         "match": {
           "pairs": [
             {
-              "word": "The girl jumps",
+              "word": "TEST RENAMED GIRL 2",
               "sentence": "The girl jumps",
               "spoken": "Hello",
               "translation": "",
