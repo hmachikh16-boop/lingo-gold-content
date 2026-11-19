@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:43:15.399Z",
+  "generatedAt": "2026-11-19T11:43:21.186Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3389,7 +3389,7 @@
   "newLessons": [
     {
       "title": "الدرس 8 • الأفعال",
-      "word": "الأفعال",
+      "word": "She jumps",
       "sentence": "",
       "translation": "",
       "options": [],
@@ -3400,9 +3400,9 @@
       "isActive": true,
       "stepOverrides": {
         "speak": {
-          "word": "الأفعال",
-          "sentence": "الأفعال",
-          "spoken": "الأفعال",
+          "word": "She jumps",
+          "sentence": "She jumps",
+          "spoken": "She jumps",
           "translation": "",
           "imageFile": "",
           "isPack": false,
@@ -3410,7 +3410,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
         },
         "write": {
-          "word": "الأفعال",
+          "word": "She jumps",
           "sentence": "",
           "spoken": "الأفعال",
           "translation": "",
@@ -3420,7 +3420,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg"
         },
         "choice": {
-          "question": "Which picture is الأفعال?",
+          "question": "Which picture is She jumps?",
           "options": [
             {
               "word": "الأفعال",
@@ -3438,7 +3438,7 @@
         }
       },
       "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
-      "spoken": "الأفعال",
+      "spoken": "She jumps",
       "appIndex": 140
     }
   ]
