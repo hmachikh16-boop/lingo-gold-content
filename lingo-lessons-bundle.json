@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:49:11.229Z",
+  "generatedAt": "2026-11-19T11:51:17.938Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3461,6 +3461,16 @@
             {
               "word": "These boys are playing",
               "sentence": "These boys are playing",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_x_1795088948264_m6yvl.jpg"
+            },
+            {
+              "word": "Hello",
+              "sentence": "Hello",
               "spoken": "",
               "translation": "",
               "imageFile": "",
