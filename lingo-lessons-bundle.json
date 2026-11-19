@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:20:47.438Z",
+  "generatedAt": "2026-11-19T22:21:07.357Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1941,8 +1941,8 @@
       "seedIdx": 130,
       "appIndex": 130,
       "word": "Red",
-      "sentence": "The ball is ___.",
-      "spoken": "The ball is ___.",
+      "sentence": "The ball is Red",
+      "spoken": "The ball is Red",
       "translation": "الكرة حمراء.",
       "options": [
         "Red",
@@ -1963,8 +1963,8 @@
           "items": [
             {
               "word": "Red",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
@@ -1973,8 +1973,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
@@ -1983,8 +1983,8 @@
             },
             {
               "word": "Green",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
@@ -1993,8 +1993,8 @@
             },
             {
               "word": "Yellow",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة صفراء.",
               "imageFile": "color_yellow",
               "isPack": false,
@@ -2005,8 +2005,8 @@
         },
         "speak": {
           "word": "Red",
-          "sentence": "The ball is ___.",
-          "spoken": "The ball is ___.",
+          "sentence": "The ball is Red",
+          "spoken": "The ball is Red",
           "translation": "الكرة حمراء.",
           "imageFile": "color_red",
           "isPack": false,
@@ -2014,13 +2014,13 @@
           "imageUrl": ""
         },
         "listen": {
-          "sentence": "The ball is ___.",
-          "spoken": "The ball is ___.",
+          "sentence": "The ball is Red",
+          "spoken": "The ball is Red",
           "choices": [
             {
               "word": "Red",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
@@ -2030,8 +2030,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
@@ -2041,8 +2041,8 @@
             },
             {
               "word": "Green",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
@@ -2052,8 +2052,8 @@
             },
             {
               "word": "Yellow",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة صفراء.",
               "imageFile": "color_yellow",
               "isPack": false,
@@ -2073,8 +2073,8 @@
           "pairs": [
             {
               "word": "Red",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
@@ -2083,8 +2083,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
@@ -2093,8 +2093,8 @@
             },
             {
               "word": "Green",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
@@ -2108,8 +2108,8 @@
           "options": [
             {
               "word": "Red",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة حمراء.",
               "imageFile": "color_red",
               "isPack": false,
@@ -2119,8 +2119,8 @@
             },
             {
               "word": "Blue",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة زرقاء.",
               "imageFile": "color_blue",
               "isPack": false,
@@ -2130,8 +2130,8 @@
             },
             {
               "word": "Green",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
@@ -2141,8 +2141,8 @@
             },
             {
               "word": "Yellow",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "sentence": "The ball is Red",
+              "spoken": "The ball is Red",
               "translation": "الكرة صفراء.",
               "imageFile": "color_yellow",
               "isPack": false,
@@ -2154,8 +2154,8 @@
         },
         "write": {
           "word": "Red",
-          "sentence": "The ball is ___.",
-          "spoken": "The ball is ___.",
+          "sentence": "The ball is Red",
+          "spoken": "The ball is Red",
           "translation": "الكرة حمراء.",
           "imageFile": "color_red",
           "isPack": false,
