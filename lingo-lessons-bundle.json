@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:36:40.322Z",
+  "generatedAt": "2026-11-19T10:37:45.909Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -254,6 +254,56 @@
               "isPack": true,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_1_1795084597327_myauy.jpg"
+            }
+          ]
+        },
+        "listen": {
+          "sentence": "Where's the dog?",
+          "spoken": "A girl.",
+          "choices": [
+            {
+              "word": "A girl",
+              "sentence": "A girl.",
+              "spoken": "A girl.",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true
+            },
+            {
+              "word": "Boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
             }
           ]
         }
