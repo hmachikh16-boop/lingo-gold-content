@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T11:53:04.365Z",
+  "generatedAt": "2026-11-19T11:53:14.603Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3390,7 +3390,7 @@
     {
       "title": "الدرس 8 • الأفعال",
       "word": "This girl is jumping",
-      "sentence": "",
+      "sentence": "Hello",
       "translation": "",
       "options": [],
       "category": "Verb To Be",
@@ -3401,8 +3401,8 @@
       "stepOverrides": {
         "speak": {
           "word": "This girl is jumping",
-          "sentence": "This girl is jumping",
-          "spoken": "This girl is jumping",
+          "sentence": "Hello",
+          "spoken": "Hello",
           "translation": "",
           "imageFile": "",
           "isPack": false,
@@ -3440,8 +3440,8 @@
           "items": [
             {
               "word": "This girl is jumping",
-              "sentence": "",
-              "spoken": "This girl is jumping",
+              "sentence": "Hello",
+              "spoken": "Hello",
               "translation": "",
               "imageFile": "",
               "isPack": false,
@@ -3500,7 +3500,7 @@
         }
       },
       "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795088499505_cdv7x.jpg",
-      "spoken": "This girl is jumping",
+      "spoken": "Hello",
       "appIndex": 140
     }
   ]
