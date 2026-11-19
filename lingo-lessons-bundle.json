@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:09:54.065Z",
+  "generatedAt": "2026-11-19T23:09:58.056Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -3083,16 +3083,16 @@
               "label": "Blue"
             },
             {
-              "word": "Green",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
+              "word": "white",
+              "sentence": "The ball is white.",
+              "spoken": "The ball is white.",
               "translation": "الكرة خضراء.",
               "imageFile": "color_green",
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_134_1795129791297_8tosr.jpg",
               "correct": false,
-              "label": "Green"
+              "label": "white"
             }
           ]
         },
