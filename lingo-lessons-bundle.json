@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:39:21.593Z",
+  "generatedAt": "2026-11-20T10:39:48.242Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1125,7 +1125,7 @@
       "order": 134,
       "category": "Colors",
       "isActive": true,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171140369_fz6r4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171185455_e52ia.jpg",
       "stepOverrides": {
         "intro": {
           "items": [
@@ -1179,7 +1179,7 @@
           "imageFile": "color_yellow",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171140369_fz6r4.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171185455_e52ia.jpg"
         },
         "listen": {
           "sentence": "Yellow.",
@@ -1193,7 +1193,7 @@
           "word": "red",
           "translation": "الكرة صفراء.",
           "imageFile": "color_yellow",
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171140369_fz6r4.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171185455_e52ia.jpg",
           "isPack": false,
           "indexInPack": 0
         },
@@ -1221,7 +1221,7 @@
           "imageFile": "color_yellow",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171140369_fz6r4.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171185455_e52ia.jpg"
         }
       }
     },
