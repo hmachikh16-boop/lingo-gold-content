@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:41:02.932Z",
+  "generatedAt": "2026-11-20T10:41:20.810Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1140,9 +1140,9 @@
               "imageUrl": ""
             },
             {
-              "word": "",
-              "sentence": "",
-              "spoken": "",
+              "word": "red",
+              "sentence": "red",
+              "spoken": "red",
               "translation": "",
               "imageFile": "",
               "isPack": false,
