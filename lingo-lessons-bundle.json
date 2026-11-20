@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:43:09.321Z",
+  "generatedAt": "2026-11-20T10:43:42.420Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1185,10 +1185,54 @@
           "sentence": "Yellow.",
           "spoken": "Yellow.",
           "choices": [
-            "@{word=Yellow; sentence=Yellow.; spoken=Yellow.; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=True}",
-            "@{word=Red; sentence=Yellow.; spoken=Yellow.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False}",
-            "@{word=Blue; sentence=Yellow.; spoken=Yellow.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False}",
-            "@{word=Green; sentence=Yellow.; spoken=Yellow.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False}"
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_133_1795171419624_g6rnn.jpg",
+              "correct": false,
+              "label": ""
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": ""
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": ""
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": ""
+            }
           ],
           "word": "yellow",
           "translation": "الكرة صفراء.",
