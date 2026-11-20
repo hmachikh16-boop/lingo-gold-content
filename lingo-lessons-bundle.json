@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T18:02:55.133Z",
+  "generatedAt": "2026-11-20T18:03:02.630Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -292,8 +292,8 @@
                   "imageUrl": ""
                 },
                 {
-                  "x": 0.5,
-                  "y": 0.5,
+                  "x": 0.433,
+                  "y": 0.295,
                   "label": "part",
                   "colorName": "Yellow",
                   "color": "#FDD835",
