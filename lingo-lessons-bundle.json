@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T17:58:46.450Z",
+  "generatedAt": "2026-11-20T18:01:27.034Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -252,8 +252,8 @@
                   "label": "boy's shirt",
                   "color": "#1E88E5",
                   "colorName": "Blue",
-                  "x": 0.5,
-                  "y": 0.62,
+                  "x": 0.415,
+                  "y": 0.617,
                   "extraPoints": [],
                   "instructionEn": "Color the boy's shirt blue.",
                   "instructionAr": "",
