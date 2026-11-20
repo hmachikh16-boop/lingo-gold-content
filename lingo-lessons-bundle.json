@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:44:29.731Z",
+  "generatedAt": "2026-11-20T10:44:38.823Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1111,7 +1111,7 @@
       "word": "yellow",
       "sentence": "Yellow.",
       "spoken": "Yellow.",
-      "translation": "الكرة صفراء.",
+      "translation": "",
       "options": [
         "Yellow",
         "Green",
@@ -1175,7 +1175,7 @@
           "word": "The ball is Yellow.",
           "sentence": "Yellow.",
           "spoken": "Yellow.",
-          "translation": "الكرة صفراء.",
+          "translation": "",
           "imageFile": "color_yellow",
           "isPack": false,
           "indexInPack": 0,
@@ -1235,7 +1235,7 @@
             }
           ],
           "word": "yellow",
-          "translation": "الكرة صفراء.",
+          "translation": "",
           "imageFile": "color_yellow",
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171185455_e52ia.jpg",
           "isPack": false,
@@ -1261,7 +1261,7 @@
           "word": "yellow",
           "sentence": "Yellow.",
           "spoken": "Yellow.",
-          "translation": "الكرة صفراء.",
+          "translation": "",
           "imageFile": "color_yellow",
           "isPack": false,
           "indexInPack": 0,
