@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T16:34:37.611Z",
+  "generatedAt": "2026-11-20T16:34:48.548Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -251,8 +251,8 @@
               "tasks": [
                 {
                   "label": "part",
-                  "colorName": "Red",
-                  "color": "#E53935",
+                  "colorName": "Blue",
+                  "color": "#1E88E5",
                   "x": 0.5,
                   "y": 0.5,
                   "instructionEn": "",
