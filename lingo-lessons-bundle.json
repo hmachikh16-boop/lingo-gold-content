@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T16:32:34.718Z",
+  "generatedAt": "2026-11-20T16:32:40.964Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -40,7 +40,7 @@
               "isPack": false,
               "indexInPack": 0,
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg",
-              "zoom": 2.5
+              "zoom": 1.15
             },
             {
               "word": "A girl",
