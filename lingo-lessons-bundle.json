@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T17:51:41.791Z",
+  "generatedAt": "2026-11-20T17:51:58.376Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -250,8 +250,8 @@
               "tasks": [
                 {
                   "label": "boy's shirt",
-                  "color": "#1E88E5",
-                  "colorName": "Blue",
+                  "color": "#43A047",
+                  "colorName": "Green",
                   "x": 0.431,
                   "y": 0.632,
                   "extraPoints": [],
