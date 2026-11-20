@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T17:36:22.850Z",
+  "generatedAt": "2026-11-20T17:50:57.904Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -239,6 +239,61 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
+        },
+        "coloring": {
+          "pages": [
+            {
+              "page": 2,
+              "imageUrl": "",
+              "promptEn": "Color the boy's shirt blue.",
+              "promptAr": "",
+              "tasks": [
+                {
+                  "label": "boy's shirt",
+                  "color": "#1E88E5",
+                  "colorName": "Blue",
+                  "x": 0.402,
+                  "y": 0.632,
+                  "extraPoints": [],
+                  "instructionEn": "Color the boy's shirt blue.",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                },
+                {
+                  "label": "shorts",
+                  "color": "#E53935",
+                  "colorName": "Red",
+                  "x": 0.5,
+                  "y": 0.78,
+                  "extraPoints": [
+                    {
+                      "x": 0.42,
+                      "y": 0.78
+                    }
+                  ],
+                  "instructionEn": "Color the shorts red.",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                },
+                {
+                  "label": "shoes",
+                  "color": "#43A047",
+                  "colorName": "Green",
+                  "x": 0.42,
+                  "y": 0.93,
+                  "extraPoints": [
+                    {
+                      "x": 0.58,
+                      "y": 0.93
+                    }
+                  ],
+                  "instructionEn": "Color the shoes green.",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -2782,7 +2837,7 @@
               "word": "Green",
               "sentence": "The ball is green.",
               "spoken": "The ball is green.",
-              "translation": "الكرة خضراء.",
+              "translation": "الكرة ��ضراء.",
               "imageFile": "color_green",
               "isPack": false,
               "indexInPack": 0,
