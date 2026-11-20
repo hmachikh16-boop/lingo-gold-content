@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T18:03:12.972Z",
+  "generatedAt": "2026-11-20T18:03:21.132Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -279,8 +279,8 @@
                   "label": "shoes",
                   "color": "#43A047",
                   "colorName": "Green",
-                  "x": 0.348,
-                  "y": 0.917,
+                  "x": 0.836,
+                  "y": 0.69,
                   "extraPoints": [
                     {
                       "x": 0.58,
