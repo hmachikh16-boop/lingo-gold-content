@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T15:49:25.557Z",
+  "generatedAt": "2026-11-20T16:28:46.496Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -8,7 +8,7 @@
       "appIndex": 0,
       "word": "A boy",
       "sentence": "A boy.",
-      "spoken": "",
+      "spoken": "A boy.",
       "translation": "",
       "options": [
         "Boy",
@@ -137,7 +137,11 @@
             }
           ],
           "imageUrl": "",
-          "word": "A boy"
+          "word": "A boy",
+          "translation": "",
+          "imageFile": "q0",
+          "isPack": false,
+          "indexInPack": 0
         },
         "match": {
           "pairs": [
@@ -235,6 +239,40 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
+        },
+        "coloring": {
+          "pages": [
+            {
+              "page": 39,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_coloring_0_0_1795192123356_4qg2d.jpg",
+              "promptEn": "Color I am",
+              "promptAr": "لوّن الصورة"
+            },
+            {
+              "page": 60,
+              "imageUrl": "",
+              "promptEn": "Color He is",
+              "promptAr": "لوّنها باللون البنفسجي"
+            },
+            {
+              "page": 69,
+              "imageUrl": "",
+              "promptEn": "Color They are",
+              "promptAr": "لوّنها باللون الأخضر"
+            },
+            {
+              "page": 7,
+              "imageUrl": "",
+              "promptEn": "Tom says: I am a boy. Color what Tom said",
+              "promptAr": "لوّن ما قاله توم"
+            },
+            {
+              "page": 62,
+              "imageUrl": "",
+              "promptEn": "Color as you like!",
+              "promptAr": "لوّن كما تحب!"
+            }
+          ]
         }
       }
     },
