@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T17:10:39.755Z",
+  "generatedAt": "2026-11-20T17:26:24.891Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -239,6 +239,61 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
+        },
+        "coloring": {
+          "pages": [
+            {
+              "page": 2,
+              "imageUrl": "",
+              "promptEn": "Color the boy's shirt blue.",
+              "promptAr": "",
+              "tasks": [
+                {
+                  "label": "boy's shirt",
+                  "color": "#1E88E5",
+                  "colorName": "Blue",
+                  "x": 0.46,
+                  "y": 0.616,
+                  "extraPoints": [],
+                  "instructionEn": "Color the boy's shirt blue.",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                },
+                {
+                  "label": "shorts",
+                  "color": "#E53935",
+                  "colorName": "Red",
+                  "x": 0.5,
+                  "y": 0.78,
+                  "extraPoints": [
+                    {
+                      "x": 0.42,
+                      "y": 0.78
+                    }
+                  ],
+                  "instructionEn": "Color the shorts red.",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                },
+                {
+                  "label": "shoes",
+                  "color": "#43A047",
+                  "colorName": "Green",
+                  "x": 0.42,
+                  "y": 0.93,
+                  "extraPoints": [
+                    {
+                      "x": 0.58,
+                      "y": 0.93
+                    }
+                  ],
+                  "instructionEn": "Color the shoes green.",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -17197,7 +17252,7 @@
               "word": "Tree",
               "sentence": "The Tree is green.",
               "spoken": "The Tree is green.",
-              "translation": "الشجرة خضراء.",
+              "translation": "الشج��ة خضراء.",
               "imageFile": "n55",
               "isPack": true,
               "indexInPack": 0,
@@ -21391,7 +21446,7 @@
               "word": "Dinner",
               "sentence": "We eat Raise hand.",
               "spoken": "We eat Raise hand.",
-              "translation": "نحن نأكل عشاء.",
+              "translation": "��حن نأكل عشاء.",
               "imageFile": "n74",
               "isPack": true,
               "indexInPack": 0,
