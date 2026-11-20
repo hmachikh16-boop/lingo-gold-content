@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T15:49:00.432Z",
+  "generatedAt": "2026-11-20T15:49:25.341Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2322,62 +2322,6 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
-        },
-        "coloring": {
-          "pages": [
-            {
-              "page": 4,
-              "imageUrl": "",
-              "promptEn": "Color the Red",
-              "promptAr": "لوّن الصورة",
-              "tasks": [
-                {
-                  "label": "part",
-                  "colorName": "Red",
-                  "color": "#E53935",
-                  "x": 0.5,
-                  "y": 0.5,
-                  "instructionEn": "",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                },
-                {
-                  "label": "part",
-                  "colorName": "Red",
-                  "color": "#E53935",
-                  "x": 0.5,
-                  "y": 0.5,
-                  "instructionEn": "",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                }
-              ]
-            },
-            {
-              "page": 37,
-              "imageUrl": "",
-              "promptEn": "Color the Red purple",
-              "promptAr": "لوّنها باللون البنفسجي"
-            },
-            {
-              "page": 98,
-              "imageUrl": "",
-              "promptEn": "Color the Red green",
-              "promptAr": "لوّنها باللون الأخضر"
-            },
-            {
-              "page": 80,
-              "imageUrl": "",
-              "promptEn": "Tom says: The ball is red. Color what Tom said",
-              "promptAr": "لوّن ما قاله توم"
-            },
-            {
-              "page": 5,
-              "imageUrl": "",
-              "promptEn": "Color as you like!",
-              "promptAr": "لوّن كما تحب!"
-            }
-          ]
         }
       }
     },
