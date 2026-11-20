@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:42:55.179Z",
+  "generatedAt": "2026-11-20T10:43:09.321Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1160,9 +1160,9 @@
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_133_1795171294987_9qc6l.jpg"
             },
             {
-              "word": "",
-              "sentence": "",
-              "spoken": "",
+              "word": "brown",
+              "sentence": "brown",
+              "spoken": "brown",
               "translation": "",
               "imageFile": "",
               "isPack": false,
