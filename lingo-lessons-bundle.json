@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:36:40.855Z",
+  "generatedAt": "2026-11-20T10:36:56.674Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -113,9 +113,9 @@
               "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
             },
             {
-              "word": "A boy",
-              "sentence": "A boy",
-              "spoken": "A boy",
+              "word": "boy",
+              "sentence": "boy",
+              "spoken": "boy",
               "translation": "",
               "imageFile": "q0",
               "isPack": false,
