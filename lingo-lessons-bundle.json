@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T16:43:47.429Z",
+  "generatedAt": "2026-11-20T16:43:57.777Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -8,7 +8,7 @@
       "appIndex": 0,
       "word": "A boy",
       "sentence": "A boy.",
-      "spoken": "A boy.",
+      "spoken": "",
       "translation": "",
       "options": [
         "Boy",
@@ -27,7 +27,7 @@
       "categoryId": "HVQZF8VhShFUuNggw7eB",
       "createdAt": null,
       "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
+      "imageUrl": "",
       "stepOverrides": {
         "intro": {
           "items": [
@@ -39,8 +39,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
-              "zoom": 1.15
+              "imageUrl": ""
             },
             {
               "word": "A girl",
@@ -82,7 +81,7 @@
           "imageFile": "q0",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg"
+          "imageUrl": ""
         },
         "listen": {
           "sentence": "A boy.",
@@ -96,7 +95,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
+              "imageUrl": "",
               "correct": true,
               "label": "A boy"
             },
@@ -137,12 +136,8 @@
               "label": "The boy is eating"
             }
           ],
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
-          "word": "A boy",
-          "translation": "",
-          "imageFile": "q0",
-          "isPack": false,
-          "indexInPack": 0
+          "imageUrl": "",
+          "word": "A boy"
         },
         "match": {
           "pairs": [
@@ -154,7 +149,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg"
+              "imageUrl": ""
             },
             {
               "word": "A girl",
@@ -189,7 +184,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
+              "imageUrl": "",
               "correct": true,
               "label": "A boy"
             },
@@ -239,53 +234,7 @@
           "imageFile": "q0",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg"
-        },
-        "coloring": {
-          "pages": [
-            {
-              "page": 39,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_coloring_0_0_1795192123356_4qg2d.jpg",
-              "promptEn": "Color I am",
-              "promptAr": "لوّن الصورة",
-              "tasks": [
-                {
-                  "label": "part",
-                  "colorName": "Red",
-                  "color": "#E53935",
-                  "x": 0.382,
-                  "y": 0.401,
-                  "instructionEn": "",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                }
-              ]
-            },
-            {
-              "page": 60,
-              "imageUrl": "",
-              "promptEn": "Color He is",
-              "promptAr": "لوّنها باللون البنفسجي"
-            },
-            {
-              "page": 69,
-              "imageUrl": "",
-              "promptEn": "Color They are",
-              "promptAr": "لوّنها باللون الأخضر"
-            },
-            {
-              "page": 7,
-              "imageUrl": "",
-              "promptEn": "Tom says: I am a boy. Color what Tom said",
-              "promptAr": "لوّن ما قاله توم"
-            },
-            {
-              "page": 62,
-              "imageUrl": "",
-              "promptEn": "Color as you like!",
-              "promptAr": "لوّن كما تحب!"
-            }
-          ]
+          "imageUrl": ""
         }
       }
     },
@@ -2373,52 +2322,6 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
-        },
-        "coloring": {
-          "pages": [
-            {
-              "page": 4,
-              "imageUrl": "",
-              "promptEn": "Color the Red",
-              "promptAr": "لوّن الصورة",
-              "tasks": [
-                {
-                  "x": 0.5,
-                  "y": 0.5,
-                  "label": "ball",
-                  "colorName": "Red",
-                  "color": "#E53935",
-                  "instructionEn": "Color the ball red.",
-                  "instructionAr": "لوّن الكرة بالأحمر.",
-                  "imageUrl": ""
-                }
-              ]
-            },
-            {
-              "page": 37,
-              "imageUrl": "",
-              "promptEn": "Color the Red purple",
-              "promptAr": "لوّنها باللون البنفسجي"
-            },
-            {
-              "page": 98,
-              "imageUrl": "",
-              "promptEn": "Color the Red green",
-              "promptAr": "لوّنها باللون الأخضر"
-            },
-            {
-              "page": 80,
-              "imageUrl": "",
-              "promptEn": "Tom says: The ball is red. Color what Tom said",
-              "promptAr": "لوّن ما قاله توم"
-            },
-            {
-              "page": 5,
-              "imageUrl": "",
-              "promptEn": "Color as you like!",
-              "promptAr": "لوّن كما تحب!"
-            }
-          ]
         }
       }
     },
