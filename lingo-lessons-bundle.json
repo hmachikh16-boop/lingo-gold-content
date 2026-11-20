@@ -239,62 +239,6 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
-        },
-        "coloring": {
-          "pages": [
-            {
-              "page": 39,
-              "imageUrl": "",
-              "promptEn": "Color I am",
-              "promptAr": "لوّن الصورة",
-              "tasks": [
-                {
-                  "x": 0.472,
-                  "y": 0.263,
-                  "label": "part",
-                  "colorName": "Red",
-                  "color": "#E53935",
-                  "instructionEn": "Color the letter A red",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                },
-                {
-                  "x": 0.5,
-                  "y": 0.5,
-                  "label": "part",
-                  "colorName": "Red",
-                  "color": "#E53935",
-                  "instructionEn": "",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                }
-              ]
-            },
-            {
-              "page": 60,
-              "imageUrl": "",
-              "promptEn": "Color He is",
-              "promptAr": "لوّنها باللون البنفسجي"
-            },
-            {
-              "page": 69,
-              "imageUrl": "",
-              "promptEn": "Color They are",
-              "promptAr": "لوّنها باللون الأخضر"
-            },
-            {
-              "page": 7,
-              "imageUrl": "",
-              "promptEn": "Tom says: I am a boy. Color what Tom said",
-              "promptAr": "لوّن ما قاله توم"
-            },
-            {
-              "page": 62,
-              "imageUrl": "",
-              "promptEn": "Color as you like!",
-              "promptAr": "لوّن كما تحب!"
-            }
-          ]
         }
       }
     },
