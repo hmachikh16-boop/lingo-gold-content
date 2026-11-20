@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T21:24:27.725Z",
+  "generatedAt": "2026-11-20T22:07:17.541Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -39219,9 +39219,9 @@
       14
     ],
     "mastery": {
-      "accuracy": 80,
-      "speaking": 60
+      "accuracy": 70,
+      "speaking": 50
     },
-    "unlockRule": "none"
+    "unlockRule": "stageMastery"
   }
 }
