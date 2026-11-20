@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T15:22:26.782Z",
+  "generatedAt": "2026-11-20T15:22:45.534Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1886,8 +1886,7 @@
               "imageFile": "q4",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795187676485_mj2kd.jpg",
-              "zoom": 1.15
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795187676485_mj2kd.jpg"
             },
             {
               "word": "Red",
