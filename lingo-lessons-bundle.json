@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T18:01:27.034Z",
+  "generatedAt": "2026-11-20T18:01:31.782Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -263,8 +263,8 @@
                   "label": "shorts",
                   "color": "#E53935",
                   "colorName": "Red",
-                  "x": 0.5,
-                  "y": 0.78,
+                  "x": 0.545,
+                  "y": 0.767,
                   "extraPoints": [
                     {
                       "x": 0.42,
