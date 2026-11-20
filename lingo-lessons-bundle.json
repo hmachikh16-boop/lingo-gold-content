@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T11:49:05.362Z",
+  "generatedAt": "2026-11-20T13:40:14.914Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -146,7 +146,7 @@
               "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg"
             },
             {
               "word": "boy",
@@ -188,7 +188,7 @@
           "imageFile": "n02",
           "isPack": true,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg"
         },
         "listen": {
           "sentence": "A girl.",
@@ -202,7 +202,7 @@
               "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg",
               "correct": true
             },
             {
@@ -242,7 +242,7 @@
           "word": "A girl",
           "translation": "",
           "imageFile": "n02",
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg",
           "isPack": true,
           "indexInPack": 0
         },
@@ -256,7 +256,7 @@
               "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg"
             },
             {
               "word": "Boy",
@@ -291,7 +291,7 @@
               "imageFile": "n02",
               "isPack": true,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg",
               "correct": false,
               "label": "A girl"
             },
@@ -341,10 +341,10 @@
           "imageFile": "n02",
           "isPack": true,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg"
         }
       },
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795182011078_1rp7q.jpg"
     },
     {
       "seedIdx": 2,
