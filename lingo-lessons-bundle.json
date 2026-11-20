@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:54:06.719Z",
+  "generatedAt": "2026-11-20T10:54:22.323Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -31,10 +31,46 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            "@{word=A boy; sentence=a boy; spoken=This is a boy; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg}",
-            "@{word=A Cat; sentence=This is a cat; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_0_1795081276427_nbo8a.jpg}",
-            "@{word=َA girl; sentence=This is a girl; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_0_1795081622965_8eark.jpg}",
-            "@{word=A dog; sentence=This is a dog; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_0_1795081677542_ryxtj.jpg}"
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_0_1795172059335_a1p81.jpg"
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
           ]
         },
         "listen": {
