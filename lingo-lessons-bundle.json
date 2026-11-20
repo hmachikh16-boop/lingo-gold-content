@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:37:13.265Z",
+  "generatedAt": "2026-11-20T10:37:21.105Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -133,9 +133,9 @@
               "imageUrl": ""
             },
             {
-              "word": "A dog",
-              "sentence": "A dog",
-              "spoken": "A dog",
+              "word": "dog",
+              "sentence": "dog",
+              "spoken": "dog",
               "translation": "",
               "imageFile": "n41",
               "isPack": true,
