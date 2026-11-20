@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:53:53.698Z",
+  "generatedAt": "2026-11-20T10:54:06.719Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -27,7 +27,7 @@
       "categoryId": "HVQZF8VhShFUuNggw7eB",
       "createdAt": null,
       "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172015205_maov5.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
       "stepOverrides": {
         "intro": {
           "items": [
@@ -56,7 +56,7 @@
           "imageFile": "q0",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172015205_maov5.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg"
         },
         "choice": {
           "question": "Where do you see the a cat?",
@@ -75,7 +75,7 @@
           "imageFile": "q0",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172015205_maov5.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg"
         }
       }
     },
