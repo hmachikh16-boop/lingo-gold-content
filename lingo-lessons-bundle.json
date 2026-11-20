@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:39:13.799Z",
+  "generatedAt": "2026-11-20T10:39:21.593Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1129,10 +1129,46 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            "@{word=Yellow; sentence=Yellow.; spoken=Yellow.; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}"
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_133_1795171158767_r2l7f.jpg"
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
           ]
         },
         "speak": {
