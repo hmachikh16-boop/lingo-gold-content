@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T23:10:30.208Z",
+  "generatedAt": "2026-11-20T10:36:40.855Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -83,8 +83,8 @@
       "seedIdx": 1,
       "appIndex": 1,
       "word": "A girl",
-      "sentence": "A girl",
-      "spoken": "Rabbit",
+      "sentence": "A girl.",
+      "spoken": "A girl.",
       "translation": "",
       "options": [
         "Girl",
@@ -100,44 +100,212 @@
       "category": "Verb To Be",
       "isActive": true,
       "stepOverrides": {
-        "listen": {
-          "sentence": "Rabbit",
-          "spoken": "Rabbit",
-          "choices": [
-            "@{word=Rabbit; sentence=Rabbit; spoken=Rabbit; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_1_1795087619528_pexey.jpg; correct=True; label=Rabbit}",
-            "@{word=Boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Boy}",
-            "@{word=Cat; sentence=; spoken=; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Cat}",
-            "@{word=Dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Dog}"
-          ],
-          "imageUrl": ""
+        "intro": {
+          "items": [
+            {
+              "word": "Girl",
+              "sentence": ".girl",
+              "spoken": ".girl",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+            },
+            {
+              "word": "A boy",
+              "sentence": "A boy",
+              "spoken": "A boy",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A cat",
+              "sentence": "A cat",
+              "spoken": "A cat",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "A dog",
+              "sentence": "A dog",
+              "spoken": "A dog",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
         },
-        "write": {
-          "word": "Rabbit",
+        "speak": {
+          "word": "A girl",
           "sentence": "A girl.",
           "spoken": "A girl.",
           "translation": "",
           "imageFile": "n02",
           "isPack": true,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795084706737_f6q0k.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
         },
-        "speak": {
-          "word": "Rabbit",
-          "sentence": "Rabbit",
-          "spoken": "Rabbit",
+        "listen": {
+          "sentence": "A girl.",
+          "spoken": "A girl.",
+          "choices": [
+            {
+              "word": "A girl",
+              "sentence": "A girl.",
+              "spoken": "A girl.",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": true
+            },
+            {
+              "word": "Boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            },
+            {
+              "word": "Dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false
+            }
+          ],
+          "word": "A girl",
+          "translation": "",
+          "imageFile": "n02",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+          "isPack": true,
+          "indexInPack": 0
+        },
+        "match": {
+          "pairs": [
+            {
+              "word": "Girl",
+              "sentence": "A girl.",
+              "spoken": "A girl.",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+            },
+            {
+              "word": "Boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Dog",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
+          ]
+        },
+        "choice": {
+          "question": "Which picture is A dog?",
+          "options": [
+            {
+              "word": "A girl",
+              "sentence": "A girl.",
+              "spoken": "A girl.",
+              "translation": "",
+              "imageFile": "n02",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "word": "A boy",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "q0",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "word": "A cat",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n42",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "A cat"
+            },
+            {
+              "word": "",
+              "sentence": "",
+              "spoken": "",
+              "translation": "",
+              "imageFile": "n41",
+              "isPack": true,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true,
+              "label": "A dog"
+            }
+          ]
+        },
+        "write": {
+          "word": "A girl",
+          "sentence": "A girl.",
+          "spoken": "A girl.",
           "translation": "",
           "imageFile": "n02",
           "isPack": true,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795084706737_f6q0k.jpg"
-        },
-        "intro": {
-          "items": [
-            "@{word=A girl; sentence=A girl; spoken=Rabbit; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg}",
-            "@{word=A boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=A cat; sentence=; spoken=; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=}",
-            "@{word=A dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=}"
-          ]
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
         }
       },
       "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
@@ -1045,10 +1213,46 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=pink; sentence=The ball is pink.; spoken=The ball is pink.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_134_1795129574143_mzjar.jpg}",
-            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}"
+            {
+              "word": "Orange",
+              "sentence": "The ball is Orange.",
+              "spoken": "The ball is Orange.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "pink",
+              "sentence": "The ball is pink.",
+              "spoken": "The ball is pink.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_134_1795129574143_mzjar.jpg"
+            },
+            {
+              "word": "Blue",
+              "sentence": "The ball is Blue.",
+              "spoken": "The ball is Blue.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Green",
+              "sentence": "The ball is Green.",
+              "spoken": "The ball is Green.",
+              "translation": "الكرة خضراء.",
+              "imageFile": "color_green",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            }
           ]
         },
         "speak": {
@@ -1065,10 +1269,54 @@
           "sentence": "The ball is Orange.",
           "spoken": "The ball is Orange.",
           "choices": [
-            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Orange}",
-            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
-            "@{word=Blue; sentence=The ball is ___.; spoken=The ball is ___.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
-            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Green}"
+            {
+              "word": "Orange",
+              "sentence": "The ball is Orange.",
+              "spoken": "The ball is Orange.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true,
+              "label": "Orange"
+            },
+            {
+              "word": "Red",
+              "sentence": "The ball is Red.",
+              "spoken": "The ball is Red.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "Red"
+            },
+            {
+              "word": "Blue",
+              "sentence": "The ball is ___.",
+              "spoken": "The ball is ___.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "Blue"
+            },
+            {
+              "word": "Green",
+              "sentence": "The ball is Green.",
+              "spoken": "The ball is Green.",
+              "translation": "الكرة خضراء.",
+              "imageFile": "color_green",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "Green"
+            }
           ],
           "word": "Orange",
           "translation": "الكرة برتقالية.",
@@ -1079,18 +1327,89 @@
         },
         "match": {
           "pairs": [
-            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
-            "@{word=pink; sentence=The ball is pink.; spoken=The ball is pink.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_134_1795129691658_apklo.jpg}"
+            {
+              "word": "Orange",
+              "sentence": "The ball is Orange.",
+              "spoken": "The ball is Orange.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "Red",
+              "sentence": "The ball is Red.",
+              "spoken": "The ball is Red.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": ""
+            },
+            {
+              "word": "pink",
+              "sentence": "The ball is pink.",
+              "spoken": "The ball is pink.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_134_1795129691658_apklo.jpg"
+            }
           ]
         },
         "choice": {
           "question": "Which picture is Orange?",
           "options": [
-            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Orange}",
-            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
-            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
-            "@{word=white; sentence=The ball is white.; spoken=The ball is white.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_134_1795129791297_8tosr.jpg; correct=False; label=white}"
+            {
+              "word": "Orange",
+              "sentence": "The ball is Orange.",
+              "spoken": "The ball is Orange.",
+              "translation": "الكرة برتقالية.",
+              "imageFile": "color_orange",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": true,
+              "label": "Orange"
+            },
+            {
+              "word": "Red",
+              "sentence": "The ball is Red.",
+              "spoken": "The ball is Red.",
+              "translation": "الكرة حمراء.",
+              "imageFile": "color_red",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "Red"
+            },
+            {
+              "word": "Blue",
+              "sentence": "The ball is Blue.",
+              "spoken": "The ball is Blue.",
+              "translation": "الكرة زرقاء.",
+              "imageFile": "color_blue",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "",
+              "correct": false,
+              "label": "Blue"
+            },
+            {
+              "word": "white",
+              "sentence": "The ball is white.",
+              "spoken": "The ball is white.",
+              "translation": "الكرة خضراء.",
+              "imageFile": "color_green",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_134_1795129791297_8tosr.jpg",
+              "correct": false,
+              "label": "white"
+            }
           ]
         },
         "write": {
