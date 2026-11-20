@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T18:04:05.892Z",
+  "generatedAt": "2026-11-20T18:04:16.660Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -297,7 +297,7 @@
                   "label": "part",
                   "colorName": "Yellow",
                   "color": "#FDD835",
-                  "instructionEn": "Color the shoes y.",
+                  "instructionEn": "Color the shoes yE.",
                   "instructionAr": "",
                   "imageUrl": ""
                 }
