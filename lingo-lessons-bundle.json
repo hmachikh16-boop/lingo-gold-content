@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T15:48:09.386Z",
+  "generatedAt": "2026-11-20T15:49:00.432Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2331,6 +2331,16 @@
               "promptEn": "Color the Red",
               "promptAr": "لوّن الصورة",
               "tasks": [
+                {
+                  "label": "part",
+                  "colorName": "Red",
+                  "color": "#E53935",
+                  "x": 0.5,
+                  "y": 0.5,
+                  "instructionEn": "",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                },
                 {
                   "label": "part",
                   "colorName": "Red",
