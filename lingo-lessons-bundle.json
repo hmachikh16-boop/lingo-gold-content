@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T15:46:46.421Z",
+  "generatedAt": "2026-11-20T15:48:09.386Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -2095,7 +2095,7 @@
       "appIndex": 130,
       "word": "Red",
       "sentence": "The ball is red.",
-      "spoken": "",
+      "spoken": "The ball is red.",
       "translation": "الكرة حمراء.",
       "options": [
         "Red",
@@ -2220,7 +2220,11 @@
             }
           ],
           "imageUrl": "",
-          "word": "Red"
+          "word": "Red",
+          "translation": "الكرة حمراء.",
+          "imageFile": "color_red",
+          "isPack": false,
+          "indexInPack": 0
         },
         "match": {
           "pairs": [
@@ -2318,6 +2322,52 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
+        },
+        "coloring": {
+          "pages": [
+            {
+              "page": 4,
+              "imageUrl": "",
+              "promptEn": "Color the Red",
+              "promptAr": "لوّن الصورة",
+              "tasks": [
+                {
+                  "label": "part",
+                  "colorName": "Red",
+                  "color": "#E53935",
+                  "x": 0.5,
+                  "y": 0.5,
+                  "instructionEn": "",
+                  "instructionAr": "",
+                  "imageUrl": ""
+                }
+              ]
+            },
+            {
+              "page": 37,
+              "imageUrl": "",
+              "promptEn": "Color the Red purple",
+              "promptAr": "لوّنها باللون البنفسجي"
+            },
+            {
+              "page": 98,
+              "imageUrl": "",
+              "promptEn": "Color the Red green",
+              "promptAr": "لوّنها باللون الأخضر"
+            },
+            {
+              "page": 80,
+              "imageUrl": "",
+              "promptEn": "Tom says: The ball is red. Color what Tom said",
+              "promptAr": "لوّن ما قاله توم"
+            },
+            {
+              "page": 5,
+              "imageUrl": "",
+              "promptEn": "Color as you like!",
+              "promptAr": "لوّن كما تحب!"
+            }
+          ]
         }
       }
     },
