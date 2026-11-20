@@ -31,100 +31,20 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "A boy",
-              "sentence": "a boy",
-              "spoken": "This is a boy",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg"
-            },
-            {
-              "word": "A Cat",
-              "sentence": "This is a cat",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_0_1795081276427_nbo8a.jpg"
-            },
-            {
-              "word": "َA girl",
-              "sentence": "This is a girl",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_0_1795081622965_8eark.jpg"
-            },
-            {
-              "word": "A dog",
-              "sentence": "This is a dog",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_0_1795081677542_ryxtj.jpg"
-            }
+            "@{word=A boy; sentence=a boy; spoken=This is a boy; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg}",
+            "@{word=A Cat; sentence=This is a cat; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_0_1795081276427_nbo8a.jpg}",
+            "@{word=َA girl; sentence=This is a girl; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_0_1795081622965_8eark.jpg}",
+            "@{word=A dog; sentence=This is a dog; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_0_1795081677542_ryxtj.jpg}"
           ]
         },
         "listen": {
           "sentence": "Where do you see the boy?",
           "spoken": "",
           "choices": [
-            {
-              "word": "A boy",
-              "sentence": "a boy",
-              "spoken": "This is a boy",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg",
-              "correct": true,
-              "label": "A boy"
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Girl"
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_0_1795081745343_tgw6n.jpg",
-              "correct": false,
-              "label": "Cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_0_1795081729204_kv92t.jpg",
-              "correct": false,
-              "label": "Dog"
-            }
+            "@{word=A boy; sentence=a boy; spoken=This is a boy; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg; correct=True; label=A boy}",
+            "@{word=Girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Girl}",
+            "@{word=Cat; sentence=; spoken=; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_0_1795081745343_tgw6n.jpg; correct=False; label=Cat}",
+            "@{word=Dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_0_1795081729204_kv92t.jpg; correct=False; label=Dog}"
           ],
           "imageUrl": ""
         },
@@ -141,54 +61,10 @@
         "choice": {
           "question": "Where do you see the a cat?",
           "options": [
-            {
-              "word": "A boy",
-              "sentence": "a boy",
-              "spoken": "This is a boy",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg",
-              "correct": false,
-              "label": "A boy"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_0_1795082674921_7l42d.jpg",
-              "correct": true,
-              "label": "A cat"
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_0_1795081918146_quv2v.jpg",
-              "correct": false,
-              "label": "A dog"
-            }
+            "@{word=A boy; sentence=a boy; spoken=This is a boy; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795082185301_dd2ia.jpg; correct=False; label=A boy}",
+            "@{word=A girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=; correct=False; label=A girl}",
+            "@{word=A cat; sentence=; spoken=; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_0_1795082674921_7l42d.jpg; correct=True; label=A cat}",
+            "@{word=A dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_0_1795081918146_quv2v.jpg; correct=False; label=A dog}"
           ]
         },
         "speak": {
@@ -228,54 +104,10 @@
           "sentence": "Rabbit",
           "spoken": "Rabbit",
           "choices": [
-            {
-              "word": "Rabbit",
-              "sentence": "Rabbit",
-              "spoken": "Rabbit",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_1_1795087619528_pexey.jpg",
-              "correct": true,
-              "label": "Rabbit"
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Boy"
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Dog"
-            }
+            "@{word=Rabbit; sentence=Rabbit; spoken=Rabbit; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_0_1_1795087619528_pexey.jpg; correct=True; label=Rabbit}",
+            "@{word=Boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Boy}",
+            "@{word=Cat; sentence=; spoken=; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Cat}",
+            "@{word=Dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Dog}"
           ],
           "imageUrl": ""
         },
@@ -301,46 +133,10 @@
         },
         "intro": {
           "items": [
-            {
-              "word": "A girl",
-              "sentence": "A girl",
-              "spoken": "Rabbit",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=A girl; sentence=A girl; spoken=Rabbit; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg}",
+            "@{word=A boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=A cat; sentence=; spoken=; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=A dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=}"
           ]
         }
       },
@@ -369,153 +165,29 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "A cat",
-              "sentence": "A cat.",
-              "spoken": "A cat.",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=A cat; sentence=A cat.; spoken=A cat.; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=A dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=A girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=A boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is A dog?",
           "options": [
-            {
-              "word": "A cat",
-              "sentence": "A cat.",
-              "spoken": "A cat.",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A cat"
-            },
-            {
-              "word": "A dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "A dog"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A boy"
-            }
+            "@{word=A cat; sentence=A cat.; spoken=A cat.; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=; correct=False; label=A cat}",
+            "@{word=A dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=; correct=True; label=A dog}",
+            "@{word=A girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=; correct=False; label=A girl}",
+            "@{word=A boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=; correct=False; label=A boy}"
           ]
         },
         "listen": {
           "sentence": "Where's the dog?",
           "spoken": "A cat.",
           "choices": [
-            {
-              "word": "A cat",
-              "sentence": "A cat.",
-              "spoken": "A cat.",
-              "translation": "",
-              "imageFile": "n42",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A cat"
-            },
-            {
-              "word": "Dog",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Dog"
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Girl"
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Boy"
-            }
+            "@{word=A cat; sentence=A cat.; spoken=A cat.; translation=; imageFile=n42; isPack=True; indexInPack=0; imageUrl=; correct=False; label=A cat}",
+            "@{word=Dog; sentence=; spoken=; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=; correct=True; label=Dog}",
+            "@{word=Girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Girl}",
+            "@{word=Boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Boy}"
           ],
           "imageUrl": ""
         },
@@ -555,46 +227,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "The boy is eating",
-              "sentence": "The boy is eating.",
-              "spoken": "The boy is eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=The boy is eating; sentence=The boy is eating.; spoken=The boy is eating.; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=The boy is drinking; sentence=; spoken=; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=The boy is running; sentence=; spoken=; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=The boy is sleeping; sentence=; spoken=; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -611,142 +247,27 @@
           "sentence": "Where is the picture of the sleeping boy?",
           "spoken": "Where is the picture of the sleeping boy?",
           "choices": [
-            {
-              "word": "The boy is eating",
-              "sentence": "The boy is eating.",
-              "spoken": "The boy is eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is eating"
-            },
-            {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Drinking"
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Running"
-            },
-            {
-              "word": "Sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Sleeping"
-            }
+            "@{word=The boy is eating; sentence=The boy is eating.; spoken=The boy is eating.; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is eating}",
+            "@{word=Drinking; sentence=; spoken=; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Drinking}",
+            "@{word=Running; sentence=; spoken=; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Running}",
+            "@{word=Sleeping; sentence=; spoken=; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=; correct=True; label=Sleeping}"
           ],
           "imageUrl": ""
         },
         "match": {
           "pairs": [
-            {
-              "word": "Eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Eating; sentence=; spoken=; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Drinking; sentence=; spoken=; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Running; sentence=; spoken=; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is The boy is running?",
           "options": [
-            {
-              "word": "The boy is eating",
-              "sentence": "The boy is eating.",
-              "spoken": "The boy is eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is eating"
-            },
-            {
-              "word": "The boy is drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is drinking"
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "The boy is running"
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is sleeping"
-            }
+            "@{word=The boy is eating; sentence=The boy is eating.; spoken=The boy is eating.; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is eating}",
+            "@{word=The boy is drinking; sentence=; spoken=; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is drinking}",
+            "@{word=The boy is running; sentence=; spoken=; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=; correct=True; label=The boy is running}",
+            "@{word=The boy is sleeping; sentence=; spoken=; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is sleeping}"
           ]
         },
         "write": {
@@ -785,46 +306,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": " The boy is eating",
-              "sentence": "The boy is eating",
-              "spoken": "The boy is eating",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "The boy is running",
-              "spoken": "The boy is running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "The boy is sleeping",
-              "spoken": "The boy is sleeping",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=The boy is drinking; sentence=The boy is drinking.; spoken=The boy is drinking.; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word= The boy is eating; sentence=The boy is eating; spoken=The boy is eating; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=The boy is running; sentence=The boy is running; spoken=The boy is running; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=The boy is sleeping; sentence=The boy is sleeping; spoken=The boy is sleeping; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -841,142 +326,27 @@
           "sentence": "The boy is sleeping",
           "spoken": "The boy is sleeping",
           "choices": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is drinking"
-            },
-            {
-              "word": " The boy is eating",
-              "sentence": " The boy is eating",
-              "spoken": " The boy is eating",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": " The boy is eating"
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "The boy is running",
-              "spoken": "The boy is running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is running"
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "The boy is sleeping",
-              "spoken": "The boy is sleeping",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "The boy is sleeping"
-            }
+            "@{word=The boy is drinking; sentence=The boy is drinking.; spoken=The boy is drinking.; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is drinking}",
+            "@{word= The boy is eating; sentence= The boy is eating; spoken= The boy is eating; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=; correct=False; label= The boy is eating}",
+            "@{word=The boy is running; sentence=The boy is running; spoken=The boy is running; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is running}",
+            "@{word=The boy is sleeping; sentence=The boy is sleeping; spoken=The boy is sleeping; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=; correct=True; label=The boy is sleeping}"
           ],
           "imageUrl": ""
         },
         "match": {
           "pairs": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": " The boy is eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "The boy is running",
-              "spoken": "The boy is running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=The boy is drinking; sentence=The boy is drinking.; spoken=The boy is drinking.; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word= The boy is eating; sentence=; spoken=; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=The boy is running; sentence=The boy is running; spoken=The boy is running; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is The boy is sleeping?",
           "options": [
-            {
-              "word": "The boy is drinking",
-              "sentence": "The boy is drinking.",
-              "spoken": "The boy is drinking.",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is drinking"
-            },
-            {
-              "word": "The boy is eating",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is eating"
-            },
-            {
-              "word": "The boy is running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy is running"
-            },
-            {
-              "word": "The boy is sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "The boy is sleeping"
-            }
+            "@{word=The boy is drinking; sentence=The boy is drinking.; spoken=The boy is drinking.; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is drinking}",
+            "@{word=The boy is eating; sentence=; spoken=; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is eating}",
+            "@{word=The boy is running; sentence=; spoken=; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy is running}",
+            "@{word=The boy is sleeping; sentence=; spoken=; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=; correct=True; label=The boy is sleeping}"
           ]
         },
         "write": {
@@ -1015,46 +385,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "The boy and the girl",
-              "sentence": "The boy and the girl.",
-              "spoken": "The boy and the girl.",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Boy",
-              "sentence": "Boy",
-              "spoken": "Boy",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_7_1795105381808_hrtc4.jpg"
-            },
-            {
-              "word": "Girl",
-              "sentence": "Girl",
-              "spoken": "Girl",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Cat",
-              "sentence": "Cat",
-              "spoken": "Cat",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=The boy and the girl; sentence=The boy and the girl.; spoken=The boy and the girl.; translation=; imageFile=n76; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Boy; sentence=Boy; spoken=Boy; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_7_1795105381808_hrtc4.jpg}",
+            "@{word=Girl; sentence=Girl; spoken=Girl; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Cat; sentence=Cat; spoken=Cat; translation=; imageFile=q6; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -1071,142 +405,27 @@
           "sentence": " girl.",
           "spoken": " girl.",
           "choices": [
-            {
-              "word": "The boy and the girl",
-              "sentence": "The boy and the girl.",
-              "spoken": "The boy and the girl.",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy and the girl"
-            },
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Boy"
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Girl"
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Cat"
-            }
+            "@{word=The boy and the girl; sentence=The boy and the girl.; spoken=The boy and the girl.; translation=; imageFile=n76; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy and the girl}",
+            "@{word=Boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Boy}",
+            "@{word=Girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=; correct=True; label=Girl}",
+            "@{word=Cat; sentence=; spoken=; translation=; imageFile=q6; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Cat}"
           ],
           "imageUrl": ""
         },
         "match": {
           "pairs": [
-            {
-              "word": "Boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "The boy and the girl",
-              "sentence": "The boy and the girl.",
-              "spoken": "The boy and the girl.",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=The boy and the girl; sentence=The boy and the girl.; spoken=The boy and the girl.; translation=; imageFile=n76; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is the cat?\n",
           "options": [
-            {
-              "word": "The boy and the girl",
-              "sentence": "The boy and the girl.",
-              "spoken": "The boy and the girl.",
-              "translation": "",
-              "imageFile": "n76",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "The boy and the girl"
-            },
-            {
-              "word": "A boy",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q0",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A boy"
-            },
-            {
-              "word": "A girl",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n02",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A girl"
-            },
-            {
-              "word": " cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": " cat"
-            }
+            "@{word=The boy and the girl; sentence=The boy and the girl.; spoken=The boy and the girl.; translation=; imageFile=n76; isPack=True; indexInPack=0; imageUrl=; correct=False; label=The boy and the girl}",
+            "@{word=A boy; sentence=; spoken=; translation=; imageFile=q0; isPack=False; indexInPack=0; imageUrl=; correct=False; label=A boy}",
+            "@{word=A girl; sentence=; spoken=; translation=; imageFile=n02; isPack=True; indexInPack=0; imageUrl=; correct=False; label=A girl}",
+            "@{word= cat; sentence=; spoken=; translation=; imageFile=q6; isPack=False; indexInPack=0; imageUrl=; correct=True; label= cat}"
           ]
         },
         "write": {
@@ -1245,46 +464,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "I am eating",
-              "sentence": "I am eating.",
-              "spoken": "I am eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "I am drinking",
-              "sentence": "I am drinking",
-              "spoken": "I am drinking",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "I am running",
-              "sentence": "I am running",
-              "spoken": "I am running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "I am sleeping",
-              "sentence": "I am sleeping",
-              "spoken": "I am sleeping",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=I am eating; sentence=I am eating.; spoken=I am eating.; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=I am drinking; sentence=I am drinking; spoken=I am drinking; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=I am running; sentence=I am running; spoken=I am running; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=I am sleeping; sentence=I am sleeping; spoken=I am sleeping; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -1301,142 +484,27 @@
           "sentence": "I drink",
           "spoken": "I drink",
           "choices": [
-            {
-              "word": "I am eating",
-              "sentence": "I am eating.",
-              "spoken": "I am eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "I am eating"
-            },
-            {
-              "word": "I drink",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "I drink"
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Running"
-            },
-            {
-              "word": "Sleeping",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Sleeping"
-            }
+            "@{word=I am eating; sentence=I am eating.; spoken=I am eating.; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=; correct=False; label=I am eating}",
+            "@{word=I drink; sentence=; spoken=; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=; correct=True; label=I drink}",
+            "@{word=Running; sentence=; spoken=; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Running}",
+            "@{word=Sleeping; sentence=; spoken=; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Sleeping}"
           ],
           "imageUrl": ""
         },
         "match": {
           "pairs": [
-            {
-              "word": "I am eating",
-              "sentence": "I am eating.",
-              "spoken": "I am eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Drinking",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Running",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=I am eating; sentence=I am eating.; spoken=I am eating.; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Drinking; sentence=; spoken=; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Running; sentence=; spoken=; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is I am eating?",
           "options": [
-            {
-              "word": "I am eating",
-              "sentence": "I am eating.",
-              "spoken": "I am eating.",
-              "translation": "",
-              "imageFile": "n18",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "I am eating"
-            },
-            {
-              "word": "I am drinking",
-              "sentence": "I am drinking",
-              "spoken": "I am drinking",
-              "translation": "",
-              "imageFile": "n19",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "I am drinking"
-            },
-            {
-              "word": "I am running",
-              "sentence": "I am running",
-              "spoken": "I am running",
-              "translation": "",
-              "imageFile": "n15",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "I am running"
-            },
-            {
-              "word": "I am sleeping",
-              "sentence": "I am sleeping",
-              "spoken": "I am sleeping",
-              "translation": "",
-              "imageFile": "n20",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "I am sleeping"
-            }
+            "@{word=I am eating; sentence=I am eating.; spoken=I am eating.; translation=; imageFile=n18; isPack=True; indexInPack=0; imageUrl=; correct=True; label=I am eating}",
+            "@{word=I am drinking; sentence=I am drinking; spoken=I am drinking; translation=; imageFile=n19; isPack=True; indexInPack=0; imageUrl=; correct=False; label=I am drinking}",
+            "@{word=I am running; sentence=I am running; spoken=I am running; translation=; imageFile=n15; isPack=True; indexInPack=0; imageUrl=; correct=False; label=I am running}",
+            "@{word=I am sleeping; sentence=I am sleeping; spoken=I am sleeping; translation=; imageFile=n20; isPack=True; indexInPack=0; imageUrl=; correct=False; label=I am sleeping}"
           ]
         },
         "write": {
@@ -1476,46 +544,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "A big dog",
-              "sentence": "A big dog.",
-              "spoken": "A big dog.",
-              "translation": "",
-              "imageFile": "q2",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A small rabbit",
-              "sentence": "A small rabbit",
-              "spoken": "A small rabbit",
-              "translation": "",
-              "imageFile": "n47",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A small dog",
-              "sentence": "A small dog",
-              "spoken": "A small dog",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Elephant",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n45",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=A big dog; sentence=A big dog.; spoken=A big dog.; translation=; imageFile=q2; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=A small rabbit; sentence=A small rabbit; spoken=A small rabbit; translation=; imageFile=n47; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=A small dog; sentence=A small dog; spoken=A small dog; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Elephant; sentence=; spoken=; translation=; imageFile=n45; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -1532,54 +564,10 @@
           "sentence": "A small rabbit",
           "spoken": "A small rabbit",
           "choices": [
-            {
-              "word": "A big dog",
-              "sentence": "A big dog.",
-              "spoken": "A big dog.",
-              "translation": "",
-              "imageFile": "q2",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A big dog"
-            },
-            {
-              "word": "A small rabbit",
-              "sentence": "A small rabbit",
-              "spoken": "A small rabbit",
-              "translation": "",
-              "imageFile": "n47",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "A small rabbit"
-            },
-            {
-              "word": "Cat",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Cat"
-            },
-            {
-              "word": "A small dog",
-              "sentence": "A small dog",
-              "spoken": "A small dog",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A small dog"
-            }
+            "@{word=A big dog; sentence=A big dog.; spoken=A big dog.; translation=; imageFile=q2; isPack=False; indexInPack=0; imageUrl=; correct=False; label=A big dog}",
+            "@{word=A small rabbit; sentence=A small rabbit; spoken=A small rabbit; translation=; imageFile=n47; isPack=True; indexInPack=0; imageUrl=; correct=True; label=A small rabbit}",
+            "@{word=Cat; sentence=; spoken=; translation=; imageFile=q6; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Cat}",
+            "@{word=A small dog; sentence=A small dog; spoken=A small dog; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=; correct=False; label=A small dog}"
           ],
           "word": "A big dog",
           "translation": "",
@@ -1590,89 +578,18 @@
         },
         "match": {
           "pairs": [
-            {
-              "word": "A big dog",
-              "sentence": "A big dog.",
-              "spoken": "A big dog.",
-              "translation": "",
-              "imageFile": "q2",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A small dog",
-              "sentence": "A small dog",
-              "spoken": "A small dog",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Elephant",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n45",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=A big dog; sentence=A big dog.; spoken=A big dog.; translation=; imageFile=q2; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=A small dog; sentence=A small dog; spoken=A small dog; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Elephant; sentence=; spoken=; translation=; imageFile=n45; isPack=True; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is A small dog?",
           "options": [
-            {
-              "word": "A big dog",
-              "sentence": "A big dog.",
-              "spoken": "A big dog.",
-              "translation": "",
-              "imageFile": "q2",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A big dog"
-            },
-            {
-              "word": "A small rabbit",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n47",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A small rabbit"
-            },
-            {
-              "word": "A small dog",
-              "sentence": "A small dog",
-              "spoken": "A small dog",
-              "translation": "",
-              "imageFile": "n41",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "A small dog"
-            },
-            {
-              "word": "cat",
-              "sentence": "cat",
-              "spoken": "cat",
-              "translation": "",
-              "imageFile": "q6",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": " cat"
-            }
+            "@{word=A big dog; sentence=A big dog.; spoken=A big dog.; translation=; imageFile=q2; isPack=False; indexInPack=0; imageUrl=; correct=False; label=A big dog}",
+            "@{word=A small rabbit; sentence=; spoken=; translation=; imageFile=n47; isPack=True; indexInPack=0; imageUrl=; correct=False; label=A small rabbit}",
+            "@{word=A small dog; sentence=A small dog; spoken=A small dog; translation=; imageFile=n41; isPack=True; indexInPack=0; imageUrl=; correct=True; label=A small dog}",
+            "@{word=cat; sentence=cat; spoken=cat; translation=; imageFile=q6; isPack=False; indexInPack=0; imageUrl=; correct=False; label= cat}"
           ]
         },
         "write": {
@@ -1710,66 +627,12 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
-              "translation": "",
-              "imageFile": "q4",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "A yellow banana",
-              "sentence": "A yellow banana",
-              "spoken": "A yellow banana",
-              "translation": "",
-              "imageFile": "n22",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "orange",
-              "sentence": "orange",
-              "spoken": "orange",
-              "translation": "",
-              "imageFile": "n27",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Grapes",
-              "sentence": "Grapes",
-              "spoken": "Grapes",
-              "translation": "",
-              "imageFile": "n29",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "Green",
-              "spoken": "Green",
-              "translation": "",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Yellow",
-              "sentence": "Yellow",
-              "spoken": "Yellow",
-              "translation": "",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=A red apple; sentence=A red apple.; spoken=A red apple.; translation=; imageFile=q4; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=A yellow banana; sentence=A yellow banana; spoken=A yellow banana; translation=; imageFile=n22; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=orange; sentence=orange; spoken=orange; translation=; imageFile=n27; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Grapes; sentence=Grapes; spoken=Grapes; translation=; imageFile=n29; isPack=True; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=Green; spoken=Green; translation=; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Yellow; sentence=Yellow; spoken=Yellow; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -1786,142 +649,27 @@
           "sentence": "Oranges",
           "spoken": "Oranges",
           "choices": [
-            {
-              "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
-              "translation": "",
-              "imageFile": "q4",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A red apple"
-            },
-            {
-              "word": "Banana",
-              "sentence": "Banana",
-              "spoken": "Banana",
-              "translation": "",
-              "imageFile": "n22",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Banana"
-            },
-            {
-              "word": "Oranges",
-              "sentence": "Oranges",
-              "spoken": "Oranges",
-              "translation": "",
-              "imageFile": "n37",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Oranges"
-            },
-            {
-              "word": "Grapes",
-              "sentence": "Grapes",
-              "spoken": "Grapes",
-              "translation": "",
-              "imageFile": "n29",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Grapes"
-            }
+            "@{word=A red apple; sentence=A red apple.; spoken=A red apple.; translation=; imageFile=q4; isPack=False; indexInPack=0; imageUrl=; correct=False; label=A red apple}",
+            "@{word=Banana; sentence=Banana; spoken=Banana; translation=; imageFile=n22; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Banana}",
+            "@{word=Oranges; sentence=Oranges; spoken=Oranges; translation=; imageFile=n37; isPack=True; indexInPack=0; imageUrl=; correct=True; label=Oranges}",
+            "@{word=Grapes; sentence=Grapes; spoken=Grapes; translation=; imageFile=n29; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Grapes}"
           ],
           "imageUrl": ""
         },
         "match": {
           "pairs": [
-            {
-              "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
-              "translation": "",
-              "imageFile": "q4",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Yellow",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=A red apple; sentence=A red apple.; spoken=A red apple.; translation=; imageFile=q4; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=; spoken=; translation=; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Yellow; sentence=; spoken=; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is A yellow banana?",
           "options": [
-            {
-              "word": "A red apple",
-              "sentence": "A red apple.",
-              "spoken": "A red apple.",
-              "translation": "",
-              "imageFile": "q4",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "A red apple"
-            },
-            {
-              "word": "A yellow banana",
-              "sentence": "A yellow banana",
-              "spoken": "A yellow banana",
-              "translation": "",
-              "imageFile": "n22",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "A yellow banana"
-            },
-            {
-              "word": "orange",
-              "sentence": "orange",
-              "spoken": "orange",
-              "translation": "",
-              "imageFile": "n27",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "orange"
-            },
-            {
-              "word": "Grapes",
-              "sentence": "",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "n29",
-              "isPack": true,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Grapes"
-            }
+            "@{word=A red apple; sentence=A red apple.; spoken=A red apple.; translation=; imageFile=q4; isPack=False; indexInPack=0; imageUrl=; correct=False; label=A red apple}",
+            "@{word=A yellow banana; sentence=A yellow banana; spoken=A yellow banana; translation=; imageFile=n22; isPack=True; indexInPack=0; imageUrl=; correct=True; label=A yellow banana}",
+            "@{word=orange; sentence=orange; spoken=orange; translation=; imageFile=n27; isPack=True; indexInPack=0; imageUrl=; correct=False; label=orange}",
+            "@{word=Grapes; sentence=; spoken=; translation=; imageFile=n29; isPack=True; indexInPack=0; imageUrl=; correct=False; label=Grapes}"
           ]
         },
         "write": {
@@ -1961,46 +709,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "Red",
-              "sentence": "The ball is Red",
-              "spoken": "The ball is Red",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue",
-              "spoken": "The ball is Blue",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green",
-              "spoken": "The ball is Green",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow",
-              "spoken": "The ball is Yellow",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Red; sentence=The ball is Red; spoken=The ball is Red; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Blue; sentence=The ball is Blue; spoken=The ball is Blue; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=The ball is Green; spoken=The ball is Green; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Yellow; sentence=The ball is Yellow; spoken=The ball is Yellow; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -2017,54 +729,10 @@
           "sentence": "The ball is Blue",
           "spoken": "The ball is Blue",
           "choices": [
-            {
-              "word": "Red",
-              "sentence": "The ball is Red",
-              "spoken": "The ball is Red",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue",
-              "spoken": "The ball is Blue",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_130_1795127080895_jshop.jpg",
-              "correct": true,
-              "label": "Blue"
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green",
-              "spoken": "The ball is Green",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Green"
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow",
-              "spoken": "The ball is Yellow",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Yellow"
-            }
+            "@{word=Red; sentence=The ball is Red; spoken=The ball is Red; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Blue; sentence=The ball is Blue; spoken=The ball is Blue; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_130_1795127080895_jshop.jpg; correct=True; label=Blue}",
+            "@{word=Green; sentence=The ball is Green; spoken=The ball is Green; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Green}",
+            "@{word=Yellow; sentence=The ball is Yellow; spoken=The ball is Yellow; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Yellow}"
           ],
           "word": "Red",
           "translation": "الكرة حمراء.",
@@ -2075,89 +743,18 @@
         },
         "match": {
           "pairs": [
-            {
-              "word": "Red",
-              "sentence": "The ball is Red",
-              "spoken": "The ball is Red",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Red",
-              "spoken": "The ball is Red",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Red",
-              "spoken": "The ball is Red",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Red; sentence=The ball is Red; spoken=The ball is Red; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Blue; sentence=The ball is Red; spoken=The ball is Red; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=The ball is Red; spoken=The ball is Red; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is Blue?",
           "options": [
-            {
-              "word": "Red",
-              "sentence": "The ball is Red",
-              "spoken": "The ball is Red",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue",
-              "spoken": "The ball is Blue",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Blue"
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green",
-              "spoken": "The ball is Green",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Green"
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow",
-              "spoken": "The ball is Yellow",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Yellow"
-            }
+            "@{word=Red; sentence=The ball is Red; spoken=The ball is Red; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Blue; sentence=The ball is Blue; spoken=The ball is Blue; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Blue}",
+            "@{word=Green; sentence=The ball is Green; spoken=The ball is Green; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Green}",
+            "@{word=Yellow; sentence=The ball is Yellow; spoken=The ball is Yellow; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Yellow}"
           ]
         },
         "write": {
@@ -2196,46 +793,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Yellow; sentence=The ball is Yellow.; spoken=The ball is Yellow.; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -2252,54 +813,10 @@
           "sentence": "The ball is Yellow.",
           "spoken": "The ball is Yellow.",
           "choices": [
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Blue"
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Green"
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Yellow"
-            }
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Green}",
+            "@{word=Yellow; sentence=The ball is Yellow.; spoken=The ball is Yellow.; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Yellow}"
           ],
           "word": "Blue",
           "translation": "الكرة زرقاء.",
@@ -2310,89 +827,18 @@
         },
         "match": {
           "pairs": [
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is Green?",
           "options": [
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Blue"
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Green"
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Yellow"
-            }
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Green}",
+            "@{word=Yellow; sentence=The ball is Yellow.; spoken=The ball is Yellow.; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Yellow}"
           ]
         },
         "write": {
@@ -2431,46 +877,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Yellow; sentence=The ball is Yellow.; spoken=The ball is Yellow.; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -2487,54 +897,10 @@
           "sentence": "The ball is Green.",
           "spoken": "The ball is Green.",
           "choices": [
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Green"
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Blue"
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Yellow"
-            }
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Green}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
+            "@{word=Yellow; sentence=The ball is Yellow.; spoken=The ball is Yellow.; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Yellow}"
           ],
           "word": "Green",
           "translation": "",
@@ -2545,89 +911,18 @@
         },
         "match": {
           "pairs": [
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is Yellow?",
           "options": [
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Green"
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Blue"
-            },
-            {
-              "word": "Yellow",
-              "sentence": "The ball is Yellow.",
-              "spoken": "The ball is Yellow.",
-              "translation": "الكرة صفراء.",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Yellow"
-            }
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Green}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
+            "@{word=Yellow; sentence=The ball is Yellow.; spoken=The ball is Yellow.; translation=الكرة صفراء.; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Yellow}"
           ]
         },
         "write": {
@@ -2666,46 +961,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "Yellow",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
-              "translation": "",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Yellow; sentence=Yellow.; spoken=Yellow.; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -2722,50 +981,10 @@
           "sentence": "Yellow.",
           "spoken": "Yellow.",
           "choices": [
-            {
-              "word": "Yellow",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
-              "translation": "",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true
-            },
-            {
-              "word": "Red",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Blue",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Green",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            }
+            "@{word=Yellow; sentence=Yellow.; spoken=Yellow.; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=True}",
+            "@{word=Red; sentence=Yellow.; spoken=Yellow.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False}",
+            "@{word=Blue; sentence=Yellow.; spoken=Yellow.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False}",
+            "@{word=Green; sentence=Yellow.; spoken=Yellow.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False}"
           ],
           "word": "Yellow",
           "translation": "",
@@ -2776,89 +995,18 @@
         },
         "match": {
           "pairs": [
-            {
-              "word": "Yellow",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
-              "translation": "",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Red",
-              "sentence": "Red.",
-              "spoken": "Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Blue",
-              "sentence": "Blue.",
-              "spoken": "Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Yellow; sentence=Yellow.; spoken=Yellow.; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Red; sentence=Red.; spoken=Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Blue; sentence=Blue.; spoken=Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is Red?",
           "options": [
-            {
-              "word": "Yellow",
-              "sentence": "Yellow.",
-              "spoken": "Yellow.",
-              "translation": "",
-              "imageFile": "color_yellow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Yellow"
-            },
-            {
-              "word": "Red",
-              "sentence": "Red.",
-              "spoken": "Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Red"
-            },
-            {
-              "word": "Blue",
-              "sentence": "Blue.",
-              "spoken": "Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Blue"
-            },
-            {
-              "word": "Green",
-              "sentence": "Green.",
-              "spoken": "Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Green"
-            }
+            "@{word=Yellow; sentence=Yellow.; spoken=Yellow.; translation=; imageFile=color_yellow; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Yellow}",
+            "@{word=Red; sentence=Red.; spoken=Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Red}",
+            "@{word=Blue; sentence=Blue.; spoken=Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
+            "@{word=Green; sentence=Green.; spoken=Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Green}"
           ]
         },
         "write": {
@@ -2897,46 +1045,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "Orange",
-              "sentence": "The ball is Orange.",
-              "spoken": "The ball is Orange.",
-              "translation": "الكرة برتقالية.",
-              "imageFile": "color_orange",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "pink",
-              "sentence": "The ball is pink.",
-              "spoken": "The ball is pink.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_134_1795129574143_mzjar.jpg"
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=pink; sentence=The ball is pink.; spoken=The ball is pink.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_134_1795129574143_mzjar.jpg}",
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -2953,54 +1065,10 @@
           "sentence": "The ball is Orange.",
           "spoken": "The ball is Orange.",
           "choices": [
-            {
-              "word": "Orange",
-              "sentence": "The ball is Orange.",
-              "spoken": "The ball is Orange.",
-              "translation": "الكرة برتقالية.",
-              "imageFile": "color_orange",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Orange"
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is ___.",
-              "spoken": "The ball is ___.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Blue"
-            },
-            {
-              "word": "Green",
-              "sentence": "The ball is Green.",
-              "spoken": "The ball is Green.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Green"
-            }
+            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Orange}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Blue; sentence=The ball is ___.; spoken=The ball is ___.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
+            "@{word=Green; sentence=The ball is Green.; spoken=The ball is Green.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Green}"
           ],
           "word": "Orange",
           "translation": "الكرة برتقالية.",
@@ -3011,89 +1079,18 @@
         },
         "match": {
           "pairs": [
-            {
-              "word": "Orange",
-              "sentence": "The ball is Orange.",
-              "spoken": "The ball is Orange.",
-              "translation": "الكرة برتقالية.",
-              "imageFile": "color_orange",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "pink",
-              "sentence": "The ball is pink.",
-              "spoken": "The ball is pink.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_134_1795129691658_apklo.jpg"
-            }
+            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=pink; sentence=The ball is pink.; spoken=The ball is pink.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_134_1795129691658_apklo.jpg}"
           ]
         },
         "choice": {
           "question": "Which picture is Orange?",
           "options": [
-            {
-              "word": "Orange",
-              "sentence": "The ball is Orange.",
-              "spoken": "The ball is Orange.",
-              "translation": "الكرة برتقالية.",
-              "imageFile": "color_orange",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true,
-              "label": "Orange"
-            },
-            {
-              "word": "Red",
-              "sentence": "The ball is Red.",
-              "spoken": "The ball is Red.",
-              "translation": "الكرة حمراء.",
-              "imageFile": "color_red",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Red"
-            },
-            {
-              "word": "Blue",
-              "sentence": "The ball is Blue.",
-              "spoken": "The ball is Blue.",
-              "translation": "الكرة زرقاء.",
-              "imageFile": "color_blue",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false,
-              "label": "Blue"
-            },
-            {
-              "word": "white",
-              "sentence": "The ball is white.",
-              "spoken": "The ball is white.",
-              "translation": "الكرة خضراء.",
-              "imageFile": "color_green",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_134_1795129791297_8tosr.jpg",
-              "correct": false,
-              "label": "white"
-            }
+            "@{word=Orange; sentence=The ball is Orange.; spoken=The ball is Orange.; translation=الكرة برتقالية.; imageFile=color_orange; isPack=False; indexInPack=0; imageUrl=; correct=True; label=Orange}",
+            "@{word=Red; sentence=The ball is Red.; spoken=The ball is Red.; translation=الكرة حمراء.; imageFile=color_red; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Red}",
+            "@{word=Blue; sentence=The ball is Blue.; spoken=The ball is Blue.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False; label=Blue}",
+            "@{word=white; sentence=The ball is white.; spoken=The ball is white.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_134_1795129791297_8tosr.jpg; correct=False; label=white}"
           ]
         },
         "write": {
@@ -5683,46 +3680,10 @@
       "stepOverrides": {
         "intro": {
           "items": [
-            {
-              "word": "Tomato",
-              "sentence": "The ___ is red.",
-              "spoken": "The ___ is red.",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "Chocolate",
-              "spoken": "Chocolate",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a Leaf",
-              "spoken": "This is a Leaf",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Snow",
-              "sentence": "The Snow is white.",
-              "spoken": "The Snow is white.",
-              "translation": "الثلج أبيض.",
-              "imageFile": "nat_snow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Tomato; sentence=The ___ is red.; spoken=The ___ is red.; translation=الطماطم حمراء.; imageFile=food_tomato; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Chocolate; sentence=Chocolate; spoken=Chocolate; translation=أنا أحب الشوكولاتة.; imageFile=food_chocolate; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Leaf; sentence=This is a Leaf; spoken=This is a Leaf; translation=هذه ورقة شجر.; imageFile=nat_leaf; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Snow; sentence=The Snow is white.; spoken=The Snow is white.; translation=الثلج أبيض.; imageFile=nat_snow; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "speak": {
@@ -5739,135 +3700,28 @@
           "sentence": "The ___ is red.",
           "spoken": "The ___ is red.",
           "choices": [
-            {
-              "word": "Tomato",
-              "sentence": "The ___ is red.",
-              "spoken": "The ___ is red.",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "I like ___.",
-              "spoken": "",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a ___.",
-              "spoken": "",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Snow",
-              "sentence": "The ___ is white.",
-              "spoken": "",
-              "translation": "الثلج أبيض.",
-              "imageFile": "nat_snow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            }
+            "@{word=Tomato; sentence=The ___ is red.; spoken=The ___ is red.; translation=الطماطم حمراء.; imageFile=food_tomato; isPack=False; indexInPack=0; imageUrl=; correct=True}",
+            "@{word=Chocolate; sentence=I like ___.; spoken=; translation=أنا أحب الشوكولاتة.; imageFile=food_chocolate; isPack=False; indexInPack=0; imageUrl=; correct=False}",
+            "@{word=Leaf; sentence=This is a ___.; spoken=; translation=هذه ورقة شجر.; imageFile=nat_leaf; isPack=False; indexInPack=0; imageUrl=; correct=False}",
+            "@{word=Snow; sentence=The ___ is white.; spoken=; translation=الثلج أبيض.; imageFile=nat_snow; isPack=False; indexInPack=0; imageUrl=; correct=False}"
           ],
           "imageUrl": "",
           "word": "Tomato"
         },
         "match": {
           "pairs": [
-            {
-              "word": "Tomato",
-              "sentence": "The ___ is red.",
-              "spoken": "The ___ is red.",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "I like ___.",
-              "spoken": "",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a ___.",
-              "spoken": "",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": ""
-            }
+            "@{word=Tomato; sentence=The ___ is red.; spoken=The ___ is red.; translation=الطماطم حمراء.; imageFile=food_tomato; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Chocolate; sentence=I like ___.; spoken=; translation=أنا أحب الشوكولاتة.; imageFile=food_chocolate; isPack=False; indexInPack=0; imageUrl=}",
+            "@{word=Leaf; sentence=This is a ___.; spoken=; translation=هذه ورقة شجر.; imageFile=nat_leaf; isPack=False; indexInPack=0; imageUrl=}"
           ]
         },
         "choice": {
           "question": "Which picture is Tomato?",
           "options": [
-            {
-              "word": "Tomato",
-              "sentence": "The ___ is red.",
-              "spoken": "The ___ is red.",
-              "translation": "الطماطم حمراء.",
-              "imageFile": "food_tomato",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": true
-            },
-            {
-              "word": "Chocolate",
-              "sentence": "I like ___.",
-              "spoken": "",
-              "translation": "أنا أحب الشوكولاتة.",
-              "imageFile": "food_chocolate",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Leaf",
-              "sentence": "This is a ___.",
-              "spoken": "",
-              "translation": "هذه ورقة شجر.",
-              "imageFile": "nat_leaf",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            },
-            {
-              "word": "Snow",
-              "sentence": "The ___ is white.",
-              "spoken": "",
-              "translation": "الثلج أبيض.",
-              "imageFile": "nat_snow",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "",
-              "correct": false
-            }
+            "@{word=Tomato; sentence=The ___ is red.; spoken=The ___ is red.; translation=الطماطم حمراء.; imageFile=food_tomato; isPack=False; indexInPack=0; imageUrl=; correct=True}",
+            "@{word=Chocolate; sentence=I like ___.; spoken=; translation=أنا أحب الشوكولاتة.; imageFile=food_chocolate; isPack=False; indexInPack=0; imageUrl=; correct=False}",
+            "@{word=Leaf; sentence=This is a ___.; spoken=; translation=هذه ورقة شجر.; imageFile=nat_leaf; isPack=False; indexInPack=0; imageUrl=; correct=False}",
+            "@{word=Snow; sentence=The ___ is white.; spoken=; translation=الثلج أبيض.; imageFile=nat_snow; isPack=False; indexInPack=0; imageUrl=; correct=False}"
           ]
         },
         "write": {
@@ -6118,187 +3972,36 @@
         "choice": {
           "question": "Which picture is The girl jumps?",
           "options": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg",
-              "correct": true,
-              "label": "The girl jumps"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
-              "correct": false,
-              "label": "Hello"
-            },
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_x_1795089789901_t81ia.jpg",
-              "correct": false,
-              "label": "cat"
-            },
-            {
-              "word": "dog",
-              "sentence": "dog",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_x_1795089842690_396cn.jpg",
-              "correct": false,
-              "label": "dog"
-            }
+            "@{word=The girl jumps; sentence=The girl jumps; spoken=Hello; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg; correct=True; label=The girl jumps}",
+            "@{word=Hello; sentence=Hello; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg; correct=False; label=Hello}",
+            "@{word=The girl jumps; sentence=The girl jumps; spoken=Hello; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_2_x_1795089789901_t81ia.jpg; correct=False; label=cat}",
+            "@{word=dog; sentence=dog; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_3_x_1795089842690_396cn.jpg; correct=False; label=dog}"
           ]
         },
         "intro": {
           "items": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_x_1795088875894_d8a0j.jpg"
-            },
-            {
-              "word": "These boys are playing",
-              "sentence": "These boys are playing",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_x_1795088948264_m6yvl.jpg"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_x_1795089091487_vw4rv.jpg"
-            }
+            "@{word=The girl jumps; sentence=The girl jumps; spoken=Hello; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg}",
+            "@{word=This boy is running; sentence=This boy is running; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_1_x_1795088875894_d8a0j.jpg}",
+            "@{word=These boys are playing; sentence=These boys are playing; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_2_x_1795088948264_m6yvl.jpg}",
+            "@{word=Hello; sentence=Hello; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_x_1795089091487_vw4rv.jpg}"
           ]
         },
         "listen": {
           "sentence": "This boy is running",
           "spoken": "This boy is running",
           "choices": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg",
-              "correct": false,
-              "label": "The girl jumps"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_x_1795090065292_evk7a.jpg",
-              "correct": true,
-              "label": "This boy is running"
-            },
-            {
-              "word": "These boys are playing",
-              "sentence": "These boys are playing",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_x_1795090103629_08pxo.jpg",
-              "correct": false,
-              "label": "These boys are playing"
-            },
-            {
-              "word": "Hello",
-              "sentence": "Hello",
-              "spoken": "",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_x_1795090834084_kcine.jpg",
-              "correct": false,
-              "label": "Hello"
-            }
+            "@{word=The girl jumps; sentence=The girl jumps; spoken=Hello; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg; correct=False; label=The girl jumps}",
+            "@{word=This boy is running; sentence=This boy is running; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_1_x_1795090065292_evk7a.jpg; correct=True; label=This boy is running}",
+            "@{word=These boys are playing; sentence=These boys are playing; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_2_x_1795090103629_08pxo.jpg; correct=False; label=These boys are playing}",
+            "@{word=Hello; sentence=Hello; spoken=; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_listen_3_x_1795090834084_kcine.jpg; correct=False; label=Hello}"
           ],
           "imageUrl": ""
         },
         "match": {
           "pairs": [
-            {
-              "word": "The girl jumps",
-              "sentence": "The girl jumps",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg"
-            },
-            {
-              "word": "This boy is running",
-              "sentence": "This boy is running",
-              "spoken": "This boy is running",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_140_1795125972024_3teyf.jpg"
-            },
-            {
-              "word": "These boys are playing",
-              "sentence": "These boys are playing",
-              "spoken": "Hello",
-              "translation": "",
-              "imageFile": "",
-              "isPack": false,
-              "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg"
-            }
+            "@{word=The girl jumps; sentence=The girl jumps; spoken=Hello; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg}",
+            "@{word=This boy is running; sentence=This boy is running; spoken=This boy is running; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_140_1795125972024_3teyf.jpg}",
+            "@{word=These boys are playing; sentence=These boys are playing; spoken=Hello; translation=; imageFile=; isPack=False; indexInPack=0; imageUrl=https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg}"
           ]
         }
       },
