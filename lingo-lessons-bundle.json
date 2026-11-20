@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T17:32:32.395Z",
+  "generatedAt": "2026-11-20T17:32:37.113Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -541,8 +541,8 @@
                   "label": "girl's hair",
                   "color": "#FDD835",
                   "colorName": "Yellow",
-                  "x": 0.459,
-                  "y": 0.239,
+                  "x": 0.521,
+                  "y": 0.333,
                   "extraPoints": [],
                   "instructionEn": "Color the girl's hair yellow.",
                   "instructionAr": "",
