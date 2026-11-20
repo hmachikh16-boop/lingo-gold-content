@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:39:03.279Z",
+  "generatedAt": "2026-11-20T10:39:13.799Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1108,7 +1108,7 @@
     {
       "seedIdx": 133,
       "appIndex": 133,
-      "word": "Yellow",
+      "word": "red",
       "sentence": "Yellow.",
       "spoken": "Yellow.",
       "translation": "الكرة صفراء.",
@@ -1154,7 +1154,7 @@
             "@{word=Blue; sentence=Yellow.; spoken=Yellow.; translation=الكرة زرقاء.; imageFile=color_blue; isPack=False; indexInPack=0; imageUrl=; correct=False}",
             "@{word=Green; sentence=Yellow.; spoken=Yellow.; translation=الكرة خضراء.; imageFile=color_green; isPack=False; indexInPack=0; imageUrl=; correct=False}"
           ],
-          "word": "Yellow",
+          "word": "red",
           "translation": "الكرة صفراء.",
           "imageFile": "color_yellow",
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171140369_fz6r4.jpg",
@@ -1178,7 +1178,7 @@
           ]
         },
         "write": {
-          "word": "Yellow",
+          "word": "red",
           "sentence": "Yellow.",
           "spoken": "Yellow.",
           "translation": "الكرة صفراء.",
