@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T16:55:10.767Z",
+  "generatedAt": "2026-11-20T16:57:19.044Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -254,7 +254,7 @@
                   "label": "part",
                   "colorName": "Red",
                   "color": "#E53935",
-                  "instructionEn": "",
+                  "instructionEn": "Color the letter A red",
                   "instructionAr": "",
                   "imageUrl": ""
                 }
