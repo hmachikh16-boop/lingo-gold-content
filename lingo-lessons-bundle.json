@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T16:33:04.888Z",
+  "generatedAt": "2026-11-20T16:33:31.785Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -27,7 +27,7 @@
       "categoryId": "HVQZF8VhShFUuNggw7eB",
       "createdAt": null,
       "updatedAt": null,
-      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
       "stepOverrides": {
         "intro": {
           "items": [
@@ -39,7 +39,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
               "zoom": 1.15
             },
             {
@@ -82,7 +82,7 @@
           "imageFile": "q0",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg"
         },
         "listen": {
           "sentence": "A boy.",
@@ -96,7 +96,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
               "correct": true,
               "label": "A boy"
             },
@@ -137,7 +137,7 @@
               "label": "The boy is eating"
             }
           ],
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
           "word": "A boy",
           "translation": "",
           "imageFile": "q0",
@@ -154,7 +154,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg"
             },
             {
               "word": "A girl",
@@ -189,7 +189,7 @@
               "imageFile": "q0",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg",
               "correct": true,
               "label": "A boy"
             },
@@ -239,7 +239,7 @@
           "imageFile": "q0",
           "isPack": false,
           "indexInPack": 0,
-          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192351748_95f1w.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795192408802_fc3km.jpg"
         },
         "coloring": {
           "pages": [
