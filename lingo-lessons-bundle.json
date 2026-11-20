@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:45:25.096Z",
+  "generatedAt": "2026-11-20T10:45:35.759Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1109,7 +1109,7 @@
       "seedIdx": 133,
       "appIndex": 133,
       "word": "The ball is Yellow.",
-      "sentence": "The ball is Yellow.",
+      "sentence": "Yellow.",
       "spoken": "Yellow.",
       "translation": "",
       "options": [
@@ -1173,7 +1173,7 @@
         },
         "speak": {
           "word": "The ball is Yellow.",
-          "sentence": "The ball is Yellow.",
+          "sentence": "Yellow.",
           "spoken": "Yellow.",
           "translation": "",
           "imageFile": "color_yellow",
@@ -1182,7 +1182,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_133_1795171185455_e52ia.jpg"
         },
         "listen": {
-          "sentence": "The ball is Yellow.",
+          "sentence": "Yellow.",
           "spoken": "Yellow.",
           "choices": [
             {
@@ -1259,7 +1259,7 @@
         },
         "write": {
           "word": "The ball is Yellow.",
-          "sentence": "The ball is Yellow.",
+          "sentence": "Yellow.",
           "spoken": "Yellow.",
           "translation": "",
           "imageFile": "color_yellow",
