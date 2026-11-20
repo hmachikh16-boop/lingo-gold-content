@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T18:01:58.180Z",
+  "generatedAt": "2026-11-20T18:02:30.316Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -244,7 +244,7 @@
           "pages": [
             {
               "page": "2",
-              "imageUrl": "",
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_coloring_0_0_1795197745263_qqak9.jpg",
               "promptEn": "Color the boy's shirt blue.",
               "promptAr": "",
               "tasks": [
