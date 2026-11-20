@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T10:42:20.336Z",
+  "generatedAt": "2026-11-20T10:42:32.728Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -1167,7 +1167,7 @@
               "imageFile": "",
               "isPack": false,
               "indexInPack": 0,
-              "imageUrl": ""
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_intro_3_133_1795171349985_sgdc6.jpg"
             }
           ]
         },
