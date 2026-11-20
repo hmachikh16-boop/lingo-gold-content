@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T22:07:17.541Z",
+  "generatedAt": "2026-11-20T22:47:31.799Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -39201,6 +39201,1945 @@
       "storyId": "Verb_To_Be_s2",
       "storyOrder": 4,
       "storyTitle": "البنت تقفز"
+    },
+    {
+      "id": "L141",
+      "appIndex": 141,
+      "lessonNumber": 142,
+      "order": 142,
+      "title": "الدرس 1 • الولد يبتسم.",
+      "word": "A boy",
+      "sentence": "The boy smiles.",
+      "spoken": "The boy smiles.",
+      "translation": "الولد يبتسم.",
+      "options": [
+        "A boy",
+        "A girl",
+        "Wave",
+        "Run"
+      ],
+      "imageFile": "",
+      "isPack": false,
+      "indexInPack": 0,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+      "category": "People & Actions",
+      "isActive": true,
+      "level": 3,
+      "hintLevel": 2,
+      "immersion": true,
+      "storyId": "real_photos_s1",
+      "storyOrder": 1,
+      "storyTitle": "صور حقيقية",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "id": "L141-t",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg"
+            },
+            {
+              "id": "L141-d1",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L141-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            },
+            {
+              "id": "L141-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "تعرّف على الولد يبتسم.",
+          "hintLevel": 2
+        },
+        "speak": {
+          "id": "L141-t",
+          "word": "A boy",
+          "sentence": "The boy smiles.",
+          "spoken": "The boy smiles.",
+          "translation": "الولد يبتسم.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+          "objective": "قل: The boy smiles.",
+          "hintLevel": 2
+        },
+        "listen": {
+          "word": "A boy",
+          "sentence": "The boy smiles.",
+          "spoken": "The boy smiles.",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+          "choices": [
+            {
+              "id": "L141-t",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": true,
+              "label": "A boy"
+            },
+            {
+              "id": "L141-d1",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L141-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            },
+            {
+              "id": "L141-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "استمع واختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "match": {
+          "pairs": [
+            {
+              "id": "L141-t",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg"
+            },
+            {
+              "id": "L141-d1",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L141-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "طابق الصورة بالجملة",
+          "hintLevel": 2
+        },
+        "choice": {
+          "question": "Which picture is A boy?",
+          "options": [
+            {
+              "id": "L141-t",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": true,
+              "label": "A boy"
+            },
+            {
+              "id": "L141-d1",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L141-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            },
+            {
+              "id": "L141-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "اختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "write": {
+          "id": "L141-t",
+          "word": "A boy",
+          "sentence": "The boy smiles.",
+          "spoken": "The boy smiles.",
+          "translation": "الولد يبتسم.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+          "objective": "اكتب A boy",
+          "hintLevel": 2
+        }
+      }
+    },
+    {
+      "id": "L142",
+      "appIndex": 142,
+      "lessonNumber": 143,
+      "order": 143,
+      "title": "الدرس 2 • البنت تبتسم.",
+      "word": "A girl",
+      "sentence": "The girl smiles.",
+      "spoken": "The girl smiles.",
+      "translation": "البنت تبتسم.",
+      "options": [
+        "A girl",
+        "A boy",
+        "Wave",
+        "Run"
+      ],
+      "imageFile": "",
+      "isPack": false,
+      "indexInPack": 0,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+      "category": "People & Actions",
+      "isActive": true,
+      "level": 3,
+      "hintLevel": 2,
+      "immersion": true,
+      "storyId": "real_photos_s1",
+      "storyOrder": 2,
+      "storyTitle": "صور حقيقية",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "id": "L142-t",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+            },
+            {
+              "id": "L142-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L142-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            },
+            {
+              "id": "L142-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "تعرّف على البنت تبتسم.",
+          "hintLevel": 2
+        },
+        "speak": {
+          "id": "L142-t",
+          "word": "A girl",
+          "sentence": "The girl smiles.",
+          "spoken": "The girl smiles.",
+          "translation": "البنت تبتسم.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+          "objective": "قل: The girl smiles.",
+          "hintLevel": 2
+        },
+        "listen": {
+          "word": "A girl",
+          "sentence": "The girl smiles.",
+          "spoken": "The girl smiles.",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+          "choices": [
+            {
+              "id": "L142-t",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": true,
+              "label": "A girl"
+            },
+            {
+              "id": "L142-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L142-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            },
+            {
+              "id": "L142-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "استمع واختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "match": {
+          "pairs": [
+            {
+              "id": "L142-t",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg"
+            },
+            {
+              "id": "L142-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L142-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "طابق الصورة بالجملة",
+          "hintLevel": 2
+        },
+        "choice": {
+          "question": "Which picture is A girl?",
+          "options": [
+            {
+              "id": "L142-t",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": true,
+              "label": "A girl"
+            },
+            {
+              "id": "L142-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L142-d2",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            },
+            {
+              "id": "L142-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "اختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "write": {
+          "id": "L142-t",
+          "word": "A girl",
+          "sentence": "The girl smiles.",
+          "spoken": "The girl smiles.",
+          "translation": "البنت تبتسم.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+          "objective": "اكتب A girl",
+          "hintLevel": 2
+        }
+      }
+    },
+    {
+      "id": "L143",
+      "appIndex": 143,
+      "lessonNumber": 144,
+      "order": 144,
+      "title": "الدرس 3 • الولد يلوّح.",
+      "word": "Wave",
+      "sentence": "The boy waves.",
+      "spoken": "The boy waves.",
+      "translation": "الولد يلوّح.",
+      "options": [
+        "Wave",
+        "A boy",
+        "A girl",
+        "Run"
+      ],
+      "imageFile": "",
+      "isPack": false,
+      "indexInPack": 0,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+      "category": "Greetings",
+      "isActive": true,
+      "level": 3,
+      "hintLevel": 2,
+      "immersion": true,
+      "storyId": "real_photos_s1",
+      "storyOrder": 3,
+      "storyTitle": "صور حقيقية",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "id": "L143-t",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg"
+            },
+            {
+              "id": "L143-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L143-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L143-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "تعرّف على الولد يلوّح.",
+          "hintLevel": 2
+        },
+        "speak": {
+          "id": "L143-t",
+          "word": "Wave",
+          "sentence": "The boy waves.",
+          "spoken": "The boy waves.",
+          "translation": "الولد يلوّح.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+          "objective": "قل: The boy waves.",
+          "hintLevel": 2
+        },
+        "listen": {
+          "word": "Wave",
+          "sentence": "The boy waves.",
+          "spoken": "The boy waves.",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+          "choices": [
+            {
+              "id": "L143-t",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": true,
+              "label": "Wave"
+            },
+            {
+              "id": "L143-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L143-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L143-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "استمع واختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "match": {
+          "pairs": [
+            {
+              "id": "L143-t",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg"
+            },
+            {
+              "id": "L143-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L143-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            }
+          ],
+          "objective": "طابق الصورة بالجملة",
+          "hintLevel": 2
+        },
+        "choice": {
+          "question": "Which picture is Wave?",
+          "options": [
+            {
+              "id": "L143-t",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": true,
+              "label": "Wave"
+            },
+            {
+              "id": "L143-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L143-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L143-d3",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": false,
+              "label": "Run"
+            }
+          ],
+          "objective": "اختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "write": {
+          "id": "L143-t",
+          "word": "Wave",
+          "sentence": "The boy waves.",
+          "spoken": "The boy waves.",
+          "translation": "الولد يلوّح.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+          "objective": "اكتب Wave",
+          "hintLevel": 2
+        }
+      }
+    },
+    {
+      "id": "L144",
+      "appIndex": 144,
+      "lessonNumber": 145,
+      "order": 145,
+      "title": "الدرس 4 • الولد يركض.",
+      "word": "Run",
+      "sentence": "The boy runs.",
+      "spoken": "The boy runs.",
+      "translation": "الولد يركض.",
+      "options": [
+        "Run",
+        "A boy",
+        "A girl",
+        "Wave"
+      ],
+      "imageFile": "",
+      "isPack": false,
+      "indexInPack": 0,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+      "category": "Actions",
+      "isActive": true,
+      "level": 3,
+      "hintLevel": 2,
+      "immersion": true,
+      "storyId": "real_photos_s1",
+      "storyOrder": 4,
+      "storyTitle": "صور حقيقية",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "id": "L144-t",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg"
+            },
+            {
+              "id": "L144-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L144-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L144-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "تعرّف على الولد يركض.",
+          "hintLevel": 2
+        },
+        "speak": {
+          "id": "L144-t",
+          "word": "Run",
+          "sentence": "The boy runs.",
+          "spoken": "The boy runs.",
+          "translation": "الولد يركض.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+          "objective": "قل: The boy runs.",
+          "hintLevel": 2
+        },
+        "listen": {
+          "word": "Run",
+          "sentence": "The boy runs.",
+          "spoken": "The boy runs.",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+          "choices": [
+            {
+              "id": "L144-t",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": true,
+              "label": "Run"
+            },
+            {
+              "id": "L144-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L144-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L144-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "استمع واختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "match": {
+          "pairs": [
+            {
+              "id": "L144-t",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg"
+            },
+            {
+              "id": "L144-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L144-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            }
+          ],
+          "objective": "طابق الصورة بالجملة",
+          "hintLevel": 2
+        },
+        "choice": {
+          "question": "Which picture is Run?",
+          "options": [
+            {
+              "id": "L144-t",
+              "word": "Run",
+              "sentence": "The boy runs.",
+              "spoken": "The boy runs.",
+              "translation": "الولد يركض.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+              "correct": true,
+              "label": "Run"
+            },
+            {
+              "id": "L144-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L144-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L144-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "اختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "write": {
+          "id": "L144-t",
+          "word": "Run",
+          "sentence": "The boy runs.",
+          "spoken": "The boy runs.",
+          "translation": "الولد يركض.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_1_x_1795089601207_55kal.jpg",
+          "objective": "اكتب Run",
+          "hintLevel": 2
+        }
+      }
+    },
+    {
+      "id": "L145",
+      "appIndex": 145,
+      "lessonNumber": 146,
+      "order": 146,
+      "title": "الدرس 5 • البنت تقفز.",
+      "word": "Jump",
+      "sentence": "The girl jumps.",
+      "spoken": "The girl jumps.",
+      "translation": "البنت تقفز.",
+      "options": [
+        "Jump",
+        "A boy",
+        "A girl",
+        "Wave"
+      ],
+      "imageFile": "",
+      "isPack": false,
+      "indexInPack": 0,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg",
+      "category": "Actions",
+      "isActive": true,
+      "level": 3,
+      "hintLevel": 2,
+      "immersion": true,
+      "storyId": "real_photos_s1",
+      "storyOrder": 5,
+      "storyTitle": "صور حقيقية",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "id": "L145-t",
+              "word": "Jump",
+              "sentence": "The girl jumps.",
+              "spoken": "The girl jumps.",
+              "translation": "البنت تقفز.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg"
+            },
+            {
+              "id": "L145-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L145-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L145-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "تعرّف على البنت تقفز.",
+          "hintLevel": 2
+        },
+        "speak": {
+          "id": "L145-t",
+          "word": "Jump",
+          "sentence": "The girl jumps.",
+          "spoken": "The girl jumps.",
+          "translation": "البنت تقفز.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg",
+          "objective": "قل: The girl jumps.",
+          "hintLevel": 2
+        },
+        "listen": {
+          "word": "Jump",
+          "sentence": "The girl jumps.",
+          "spoken": "The girl jumps.",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg",
+          "choices": [
+            {
+              "id": "L145-t",
+              "word": "Jump",
+              "sentence": "The girl jumps.",
+              "spoken": "The girl jumps.",
+              "translation": "البنت تقفز.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg",
+              "correct": true,
+              "label": "Jump"
+            },
+            {
+              "id": "L145-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L145-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L145-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "استمع واختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "match": {
+          "pairs": [
+            {
+              "id": "L145-t",
+              "word": "Jump",
+              "sentence": "The girl jumps.",
+              "spoken": "The girl jumps.",
+              "translation": "البنت تقفز.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg"
+            },
+            {
+              "id": "L145-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L145-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            }
+          ],
+          "objective": "طابق الصورة بالجملة",
+          "hintLevel": 2
+        },
+        "choice": {
+          "question": "Which picture is Jump?",
+          "options": [
+            {
+              "id": "L145-t",
+              "word": "Jump",
+              "sentence": "The girl jumps.",
+              "spoken": "The girl jumps.",
+              "translation": "البنت تقفز.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg",
+              "correct": true,
+              "label": "Jump"
+            },
+            {
+              "id": "L145-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L145-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L145-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "اختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "write": {
+          "id": "L145-t",
+          "word": "Jump",
+          "sentence": "The girl jumps.",
+          "spoken": "The girl jumps.",
+          "translation": "البنت تقفز.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_0_x_1795116425894_1eb6l.jpg",
+          "objective": "اكتب Jump",
+          "hintLevel": 2
+        }
+      }
+    },
+    {
+      "id": "L146",
+      "appIndex": 146,
+      "lessonNumber": 147,
+      "order": 147,
+      "title": "الدرس 6 • الأطفال يلعبون.",
+      "word": "Play",
+      "sentence": "The children play.",
+      "spoken": "The children play.",
+      "translation": "الأطفال يلعبون.",
+      "options": [
+        "Play",
+        "A boy",
+        "A girl",
+        "Wave"
+      ],
+      "imageFile": "",
+      "isPack": false,
+      "indexInPack": 0,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg",
+      "category": "Actions",
+      "isActive": true,
+      "level": 3,
+      "hintLevel": 2,
+      "immersion": true,
+      "storyId": "real_photos_s1",
+      "storyOrder": 6,
+      "storyTitle": "صور حقيقية",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "id": "L146-t",
+              "word": "Play",
+              "sentence": "The children play.",
+              "spoken": "The children play.",
+              "translation": "الأطفال يلعبون.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg"
+            },
+            {
+              "id": "L146-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L146-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L146-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "تعرّف على الأطفال يلعبون.",
+          "hintLevel": 2
+        },
+        "speak": {
+          "id": "L146-t",
+          "word": "Play",
+          "sentence": "The children play.",
+          "spoken": "The children play.",
+          "translation": "الأطفال يلعبون.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg",
+          "objective": "قل: The children play.",
+          "hintLevel": 2
+        },
+        "listen": {
+          "word": "Play",
+          "sentence": "The children play.",
+          "spoken": "The children play.",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg",
+          "choices": [
+            {
+              "id": "L146-t",
+              "word": "Play",
+              "sentence": "The children play.",
+              "spoken": "The children play.",
+              "translation": "الأطفال يلعبون.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg",
+              "correct": true,
+              "label": "Play"
+            },
+            {
+              "id": "L146-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L146-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L146-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "استمع واختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "match": {
+          "pairs": [
+            {
+              "id": "L146-t",
+              "word": "Play",
+              "sentence": "The children play.",
+              "spoken": "The children play.",
+              "translation": "الأطفال يلعبون.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg"
+            },
+            {
+              "id": "L146-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L146-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            }
+          ],
+          "objective": "طابق الصورة بالجملة",
+          "hintLevel": 2
+        },
+        "choice": {
+          "question": "Which picture is Play?",
+          "options": [
+            {
+              "id": "L146-t",
+              "word": "Play",
+              "sentence": "The children play.",
+              "spoken": "The children play.",
+              "translation": "الأطفال يلعبون.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg",
+              "correct": true,
+              "label": "Play"
+            },
+            {
+              "id": "L146-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L146-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L146-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "اختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "write": {
+          "id": "L146-t",
+          "word": "Play",
+          "sentence": "The children play.",
+          "spoken": "The children play.",
+          "translation": "الأطفال يلعبون.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_match_2_x_1795121199157_41xv3.jpg",
+          "objective": "اكتب Play",
+          "hintLevel": 2
+        }
+      }
+    },
+    {
+      "id": "L147",
+      "appIndex": 147,
+      "lessonNumber": 148,
+      "order": 148,
+      "title": "الدرس 7 • التفاحة حمراء.",
+      "word": "A red apple",
+      "sentence": "The apple is red.",
+      "spoken": "The apple is red.",
+      "translation": "التفاحة حمراء.",
+      "options": [
+        "A red apple",
+        "A boy",
+        "A girl",
+        "Wave"
+      ],
+      "imageFile": "",
+      "isPack": false,
+      "indexInPack": 0,
+      "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg",
+      "category": "Colors",
+      "isActive": true,
+      "level": 3,
+      "hintLevel": 2,
+      "immersion": true,
+      "storyId": "real_photos_s1",
+      "storyOrder": 7,
+      "storyTitle": "صور حقيقية",
+      "stepOverrides": {
+        "intro": {
+          "items": [
+            {
+              "id": "L147-t",
+              "word": "A red apple",
+              "sentence": "The apple is red.",
+              "spoken": "The apple is red.",
+              "translation": "التفاحة حمراء.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg"
+            },
+            {
+              "id": "L147-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L147-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L147-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "تعرّف على التفاحة حمراء.",
+          "hintLevel": 2
+        },
+        "speak": {
+          "id": "L147-t",
+          "word": "A red apple",
+          "sentence": "The apple is red.",
+          "spoken": "The apple is red.",
+          "translation": "التفاحة حمراء.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg",
+          "objective": "قل: The apple is red.",
+          "hintLevel": 2
+        },
+        "listen": {
+          "word": "A red apple",
+          "sentence": "The apple is red.",
+          "spoken": "The apple is red.",
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg",
+          "choices": [
+            {
+              "id": "L147-t",
+              "word": "A red apple",
+              "sentence": "The apple is red.",
+              "spoken": "The apple is red.",
+              "translation": "التفاحة حمراء.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg",
+              "correct": true,
+              "label": "A red apple"
+            },
+            {
+              "id": "L147-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L147-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L147-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "استمع واختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "match": {
+          "pairs": [
+            {
+              "id": "L147-t",
+              "word": "A red apple",
+              "sentence": "The apple is red.",
+              "spoken": "The apple is red.",
+              "translation": "التفاحة حمراء.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg"
+            },
+            {
+              "id": "L147-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L147-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            }
+          ],
+          "objective": "طابق الصورة بالجملة",
+          "hintLevel": 2
+        },
+        "choice": {
+          "question": "Which picture is A red apple?",
+          "options": [
+            {
+              "id": "L147-t",
+              "word": "A red apple",
+              "sentence": "The apple is red.",
+              "spoken": "The apple is red.",
+              "translation": "التفاحة حمراء.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg",
+              "correct": true,
+              "label": "A red apple"
+            },
+            {
+              "id": "L147-d1",
+              "word": "A boy",
+              "sentence": "The boy smiles.",
+              "spoken": "The boy smiles.",
+              "translation": "الولد يبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_0_1795172043847_gbbvm.jpg",
+              "correct": false,
+              "label": "A boy"
+            },
+            {
+              "id": "L147-d2",
+              "word": "A girl",
+              "sentence": "The girl smiles.",
+              "spoken": "The girl smiles.",
+              "translation": "البنت تبتسم.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_1_1795085514972_02mnl.jpg",
+              "correct": false,
+              "label": "A girl"
+            },
+            {
+              "id": "L147-d3",
+              "word": "Wave",
+              "sentence": "The boy waves.",
+              "spoken": "The boy waves.",
+              "translation": "الولد يلوّح.",
+              "imageFile": "",
+              "isPack": false,
+              "indexInPack": 0,
+              "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/step_choice_1_x_1795089964353_iis4n.jpg",
+              "correct": false,
+              "label": "Wave"
+            }
+          ],
+          "objective": "اختر الصورة الحقيقية",
+          "hintLevel": 2
+        },
+        "write": {
+          "id": "L147-t",
+          "word": "A red apple",
+          "sentence": "The apple is red.",
+          "spoken": "The apple is red.",
+          "translation": "التفاحة حمراء.",
+          "imageFile": "",
+          "isPack": false,
+          "indexInPack": 0,
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_6_1795189603539_invwi.jpg",
+          "objective": "اكتب A red apple",
+          "hintLevel": 2
+        }
+      }
     }
   ],
   "curriculum": {
