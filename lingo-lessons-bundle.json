@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T18:52:38.133Z",
+  "generatedAt": "2026-11-20T19:02:42.684Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -263,8 +263,8 @@
                   "label": "shorts",
                   "color": "#E53935",
                   "colorName": "Red",
-                  "x": 0.706,
-                  "y": 0.386,
+                  "x": 0.701,
+                  "y": 0.495,
                   "extraPoints": [
                     {
                       "x": 0.42,
@@ -32593,7 +32593,9 @@
               "correct": false,
               "label": "A cat"
             }
-          ]
+          ],
+          "imageUrl": "https://raw.githubusercontent.com/hmachikh16-boop/lingo-gold-content/main/images/lesson_image_1795120640510_bkh91.jpg",
+          "word": "The girl jumps"
         },
         "match": {
           "pairs": [
