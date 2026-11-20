@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T17:36:06.925Z",
+  "generatedAt": "2026-11-20T17:36:22.850Z",
   "source": "lingo-gold-admin-export",
   "lessons": [
     {
@@ -239,61 +239,6 @@
           "isPack": false,
           "indexInPack": 0,
           "imageUrl": ""
-        },
-        "coloring": {
-          "pages": [
-            {
-              "page": 2,
-              "imageUrl": "",
-              "promptEn": "Color the boy's shirt blue.",
-              "promptAr": "",
-              "tasks": [
-                {
-                  "label": "TEST shirt",
-                  "color": "#1E88E5",
-                  "colorName": "Blue",
-                  "x": 0.38,
-                  "y": 0.596,
-                  "extraPoints": [],
-                  "instructionEn": "Color the boy's shirt blue.",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                },
-                {
-                  "label": "shorts",
-                  "color": "#E53935",
-                  "colorName": "Red",
-                  "x": 0.5,
-                  "y": 0.78,
-                  "extraPoints": [
-                    {
-                      "x": 0.42,
-                      "y": 0.78
-                    }
-                  ],
-                  "instructionEn": "Color the shorts red.",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                },
-                {
-                  "label": "shoes",
-                  "color": "#43A047",
-                  "colorName": "Green",
-                  "x": 0.42,
-                  "y": 0.93,
-                  "extraPoints": [
-                    {
-                      "x": 0.58,
-                      "y": 0.93
-                    }
-                  ],
-                  "instructionEn": "Color the shoes green.",
-                  "instructionAr": "",
-                  "imageUrl": ""
-                }
-              ]
-            }
-          ]
         }
       }
     },
